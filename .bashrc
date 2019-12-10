@@ -71,6 +71,33 @@ ulimit -S -c 0          # Запрет на создание файлов coredu
 set -o notify
 set -o noclobber
 set -o ignoreeof
+set bell-style                 none
+set bind-tty-special-chars     on
+set completion-ignore-case     on
+set completion-map-case        on
+set completion-query-items     200
+set convert-meta               off
+set echo-control-characters    off
+set enable-keypad              on
+set enable-meta-key            on
+set history-preserve-point     off
+set history-size               1000
+set horizontal-scroll-mode     off
+set input-meta                 on
+set mark-directories           on
+set mark-modified-lines        off
+set mark-symlinked-directories on
+set match-hidden-files         off
+set meta-flag                  on
+set output-meta                on
+set page-completions           on
+set show-all-if-ambiguous      on
+set show-all-if-unmodified     on
+set skip-completed-text        on
+set visible-stats              on
+set colored-stats on
+set completion-prefix-display-length 3
+
 
 
 PROMPT_COMMAND='history -a'
