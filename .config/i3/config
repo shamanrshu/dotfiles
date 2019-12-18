@@ -6,6 +6,10 @@ font pango:Liberation Mono 10
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
+# Move workspaces to monitors
+bindsym $mod+x move container to output left
+bindsym $mod+z move container to output right
+
 # start a terminal
 bindsym $mod+Shift+Return exec --no-startup-id roxterm
 bindsym $mod+Return exec --no-startup-id alacritty
@@ -68,16 +72,28 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "①"
-set $ws2 "②"
-set $ws3 "③"
-set $ws4 "④"
-set $ws5 "⑤"
-set $ws6 "⑥"
-set $ws7 "⑦"
-set $ws8 "⑧"
-set $ws9 "⑨"
-set $ws10 "⑩"
+set $ws1 "I"
+set $ws2 "II"
+set $ws3 "III"
+set $ws4 "IV"
+set $ws5 "V"
+set $ws6 "VI"
+set $ws7 "VII"
+set $ws8 "IIX"
+set $ws9 "IX"
+set $ws10 "X"
+
+# Sorting worspaces to monitors
+workspace "I" output LVDS1
+workspace "II" output LVDS1
+workspace "III" output LVDS1
+workspace "IV" output LVDS1
+workspace "V" output LVDS1
+workspace "VI" output VGA1
+workspace "VII" output VGA1
+workspace "IIX" output VGA1
+workspace "IX" output VGA1
+workspace "X" output VGA1
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -151,7 +167,9 @@ bindsym $mod+r mode "resize"
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-        status_command i3status
+        output LVDS1
+	status_command i3status
+	mode dock
 }
 
 exec --no-startup-id gxkb
@@ -161,3 +179,5 @@ exec --no-startup-id flameshot
 exec --no-startup-id nm-applet
 exec --no-startup-id redshift-qt
 exec --no-startup-id blueberry-tray
+exec --no-startup-id xrandr --output LVDS1 --mode 1366x768 --pos 1600x0 --output VGA1 --mode 1600x1200 --pos -0x0
+
