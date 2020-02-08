@@ -5,7 +5,11 @@ auto_save_setup=true
 preallocate_space=false
 auto_menu=false
 use_internal_view=true
+<<<<<<< HEAD
 use_internal_edit=true
+=======
+use_internal_edit=false
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 clear_before_exec=true
 confirm_delete=true
 confirm_overwrite=true
@@ -15,13 +19,20 @@ confirm_exit=false
 confirm_directory_hotlist_delete=false
 confirm_view_dir=false
 safe_delete=false
+<<<<<<< HEAD
 safe_overwrite=false
+=======
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 use_8th_bit_as_meta=false
 mouse_move_pages_viewer=true
 mouse_close_dialog=false
 fast_refresh=false
 drop_menus=false
+<<<<<<< HEAD
 wrap_mode=false
+=======
+wrap_mode=true
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 old_esc_mode=true
 cd_symlinks=true
 show_all_if_ambiguous=false
@@ -40,7 +51,11 @@ ftpfs_use_unix_list_options=true
 ftpfs_first_cd_then_ls=true
 ignore_ftp_chattr_errors=true
 editor_fill_tabs_with_spaces=false
+<<<<<<< HEAD
 editor_return_does_auto_indent=true
+=======
+editor_return_does_auto_indent=false
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 editor_backspace_through_tabs=false
 editor_fake_half_tabs=true
 editor_option_save_position=true
@@ -58,9 +73,15 @@ editor_line_state=false
 editor_simple_statusbar=false
 editor_check_new_line=false
 editor_show_right_margin=false
+<<<<<<< HEAD
 editor_group_undo=false
 editor_state_full_filename=false
 editor_ask_filename_before_edit=true
+=======
+editor_group_undo=true
+editor_state_full_filename=true
+editor_ask_filename_before_edit=false
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 nice_rotating_dash=true
 mcview_remember_file_position=false
 auto_fill_mkdir_name=true
@@ -82,6 +103,7 @@ editor_backup_extension=~
 editor_filesize_threshold=64M
 editor_stop_format_chars=-+*\\,.;:&>
 mcview_eof=
+<<<<<<< HEAD
 skin=xoria256
 
 filepos_max_saved_entries=1024
@@ -99,6 +121,23 @@ vertical_equal=true
 left_panel_size=68
 horizontal_equal=true
 top_panel_size=15
+=======
+skin=default
+
+[Layout]
+message_visible=1
+keybar_visible=1
+xterm_title=1
+output_lines=0
+command_prompt=1
+menubar_visible=1
+free_space=1
+horizontal_split=0
+vertical_equal=1
+left_panel_size=93
+horizontal_equal=1
+top_panel_size=1
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 
 [Misc]
 timeformat_recent=%b %e %H:%M
@@ -108,6 +147,10 @@ ftpfs_password=anonymous@
 display_codepage=UTF-8
 source_codepage=Other_8_bit
 autodetect_codeset=
+<<<<<<< HEAD
+=======
+spell_language=en
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 clipboard_store=
 clipboard_paste=
 
@@ -126,10 +169,17 @@ fast_reload=false
 fast_reload_msg_shown=false
 mark_moves_down=true
 reverse_files_only=true
+<<<<<<< HEAD
 auto_save_setup_panels=true
 navigate_with_arrows=false
 panel_scroll_pages=true
 panel_scroll_center=true
+=======
+auto_save_setup_panels=false
+navigate_with_arrows=false
+panel_scroll_pages=true
+panel_scroll_center=false
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 mouse_move_pages=true
 filetype_mode=true
 permission_mode=false
@@ -137,8 +187,11 @@ torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
 
+<<<<<<< HEAD
 simple_swap=false
 
+=======
+>>>>>>> 70ff58902a733d20214945b6c67fcb4232f000bd
 [Panelize]
 Изменённые файлы под контролем git=git ls-files --modified
 Найти корректуры, отвергнутые командой patch=find . -name \\*.rej -print
