@@ -1,0 +1,2817 @@
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:10:09 2019
+
+окт 03 01:10:09 *	*** You are connected to RusNet. Please wait...
+окт 03 01:10:45 
+Доступные команды:
+
+окт 03 01:10:45   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+окт 03 01:10:45   AWAY      BACK      BAN       CHANOPT   CHARSET
+окт 03 01:10:45   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+окт 03 01:10:45   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+окт 03 01:10:45   DEVOICE   DISCON    DNS       DOAT      ECHO
+окт 03 01:10:45   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+окт 03 01:10:45   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+окт 03 01:10:45   GETSTR    GHOST     GUI       HELP      HOP
+окт 03 01:10:45   ID        IGNORE    INVITE    JOIN      KICK
+окт 03 01:10:45   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+окт 03 01:10:45   LOAD      MDEHOP    MDEOP     ME        MENU
+окт 03 01:10:45   MHOP      MKICK     MODE      MOP       MSG
+окт 03 01:10:45   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+окт 03 01:10:45   NOTIFY    OP        PART      PING      QUERY
+окт 03 01:10:45   QUIET     QUIT      QUOTE     RECONNECT RECV
+окт 03 01:10:45   RELOAD    SAY       SEND      SERVCHAN  SERVER
+окт 03 01:10:45   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+окт 03 01:10:45   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+окт 03 01:10:45   UNQUIET   URL       USELECT   USERLIST  VOICE
+окт 03 01:10:45   WALLCHAN  WALLCHOP  
+окт 03 01:10:45 
+Определённые пользователем команды:
+
+окт 03 01:10:45   ACTION    AME       ANICK     AMSG      BANLIST
+окт 03 01:10:45   CHAT      DIALOG    DMSG      EXIT      GREP
+окт 03 01:10:45   IGNALL    J         KILL      LEAVE     M
+окт 03 01:10:45   OMSG      ONOTICE   RAW       SERVHELP  SPING
+окт 03 01:10:45   SQUERY    SSLSERVER SV        UMODE     UPTIME
+окт 03 01:10:45   VER       VERSION   WALLOPS   WI        WII
+окт 03 01:10:45   
+окт 03 01:10:45 
+Определённые расширениями команды:
+
+окт 03 01:10:45   UNLOAD    TRAY      RELOAD    UNLOAD    LOAD
+окт 03 01:10:45   PY        LUA       RELOAD    UNLOAD    LOAD
+окт 03 01:10:45   CHECKSUM  PL        RELOADALL UNLOADALL PL_RELOAD
+окт 03 01:10:45   RELOAD    UNLOAD    LOAD      ME        MSG+
+окт 03 01:10:45   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+окт 03 01:10:45   SYSINFO   IDENTD    TIMER     
+окт 03 01:10:45 
+Наберите /HELP <имя команды> для более полной информации, или /HELP -l
+
+**** ЗАКАНЧИВАЕТСЯ ВХОЖДЕНИЕ НА Thu Oct  3 01:11:27 2019
+
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:11:27 2019
+
+окт 03 01:11:27 *	Welcome to the Internet Relay Network shaman!~shaman@83.102.198.79
+окт 03 01:11:27 *	Your host is irc.tomsk.net, running version 1.5.25/uk_UA.KOI8-U with SSL support
+окт 03 01:11:27 *	This server was created Tue Nov 26 2013 at 20:32:17 NOVT
+окт 03 01:11:27 *	irc.tomsk.net 1.5.25/uk_UA.KOI8-U aboOirswx abcehiIklmnoOpqrstvz
+окт 03 01:11:27 *	PREFIX=(ohv)@%+ CODEPAGES MODES=3 CHANTYPES=#&!+ MAXCHANNELS=30 NICKLEN=31 TOPICLEN=255 KICKLEN=255 NETWORK=RusNet CHANMODES=beI,k,l,acimnpqrstz :are supported by this server
+окт 03 01:11:27 *	There are 704 users and 0 services on 17 servers
+окт 03 01:11:27 *	20 :operators online
+окт 03 01:11:27 *	1731 :unknown connections
+окт 03 01:11:27 *	760 :channels formed
+окт 03 01:11:27 *	I have 95 users, 0 services and 2 servers
+окт 03 01:11:27 *	Current local users: 95  Max: 439
+окт 03 01:11:27 *	Current global users: 704  Max: 1083
+окт 03 01:11:27 *	- irc.tomsk.net Message of the Day - 
+окт 03 01:11:27 *	- 14/4/2014 8:56
+окт 03 01:11:27 *	- =======================================================================
+окт 03 01:11:27 *	- RusNet IRC Network | Tomsk IRC server | Hosted by TOMTEL http://www.tomtel.ru
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- =======================================================================
+окт 03 01:11:27 *	- Location:  Tomsk, Russia
+окт 03 01:11:27 *	- Admin contact:    kooper, Gnomus (ircadmin@tomsk.net)
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- Codepages per ports are (Русские кодовые таблицы по портам):
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	-       6666: UTF-8
+окт 03 01:11:27 *	-       6667: KOI8-R
+окт 03 01:11:27 *	-       6668: Translit
+окт 03 01:11:27 *	-       6669: CP1251
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- Codepages per ports with SSL support:
+окт 03 01:11:27 *	-       9996: UTF-8
+окт 03 01:11:27 *	-       9997: KOI8-R
+окт 03 01:11:27 *	-       9998: Translit
+окт 03 01:11:27 *	-       9999: CP1251
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- To change your codepage on-the-fly (Сменить таблицу "на лету" можно):
+окт 03 01:11:27 *	-       /quote codepage codepage-name
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- There are Network Services running (В сети работают сервисы):
+окт 03 01:11:27 *	-       NickServ, MemoServ, ChanServ
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- Start using them with (Начните работу с ними с):
+окт 03 01:11:27 *	-       /msg NickServ@*.Rusnet help, /msg ChanServ@*.Rusnet help
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- Help Channels on the net (В сети есть каналы помощи):
+окт 03 01:11:27 *	-       /join #help - help channel (канал помощи)
+окт 03 01:11:27 *	-       /join #abuse - abuse channel (канал жалоб)
+окт 03 01:11:27 *	-       /join #announces - channel for announce channel
+окт 03 01:11:27 *	-                          (канал для анонсов каналов)
+окт 03 01:11:27 *	- 
+окт 03 01:11:27 *	- RusNet network Rules and FAQ (Правила сети RusNet и FAQ)
+окт 03 01:11:27 *	-       http://ircfaq.tomsk.com http://www.rus-net.org/rules.html
+окт 03 01:11:27 *	- =======================================================================
+окт 03 01:11:27 *	- NO: CLONES, WARS, FLOOD, SPAM!   НЕТ: КЛОНАМ, ВОЙНАМ, АТАКАМ, РЕКЛАМЕ!
+окт 03 01:11:27 *	- =======================================================================
+окт 03 01:11:27 *	End of MOTD command.
+окт 03 01:11:27 *	shaman установил режим +i для shaman
+окт 03 01:11:27 *	koi8-r :is your charset now
+окт 03 01:11:27 #mtg             1       
+окт 03 01:11:27 #lotwar          1       
+окт 03 01:11:27 #cccpwar         1       
+окт 03 01:11:27 #sram            1       
+окт 03 01:11:27 #centaurs        1       
+окт 03 01:11:27 #cosmos          1       
+окт 03 01:11:27 #ru              1       
+окт 03 01:11:27 #floods          1       
+окт 03 01:11:27 #yukka           1       
+окт 03 01:11:27 #spbranma        1       
+окт 03 01:11:27 #ranma           1       
+окт 03 01:11:27 #diablo          1        The Diablo game Channel | Friends: #median #elene | Все тут  ==> #diablo3 
+окт 03 01:11:27 #tomebont3       1       
+окт 03 01:11:27 #CnC             1        ][][][][][][= ComManD & ConQueR =][][][][][][ 
+окт 03 01:11:27 #rss.dev         2       
+окт 03 01:11:27 #rss.it          2       
+окт 03 01:11:27 #rss.work        2       
+окт 03 01:11:27 #rss.news        2       
+окт 03 01:11:27 #sed             2       http://helpers.net.ru/wiki/rusnet-faq/specific/utf8
+окт 03 01:11:27 #rendezvous      1       
+окт 03 01:11:27 #make            1       #chaos - наши соседи + на десерт http://s1d6.turboimagehost.com/sp/9ac2d0b518068952cd9d9d5819eb58e6/011.JPG
+окт 03 01:11:27 #idm             1       
+окт 03 01:11:27 #ay              1       zx ay-chip channel
+окт 03 01:11:27 #уруру      1       
+окт 03 01:11:27 #English         1       Do English and have fun. WOTD is bothy. Example sentence: As a perplexed girl I pictured people in sleeping bags on the floors of large public rest rooms, before learning that Pop meant the bothies, shacks with no separate toilet where immigrant Irish laborers stayed.
+окт 03 01:11:27 #ParadiseLost    1       Don't look back on disaster. Ask your questions in time
+окт 03 01:11:27 #ebm             1       
+окт 03 01:11:27 #gothic          1       
+окт 03 01:11:27 #support         1       
+окт 03 01:11:27 *                1       
+окт 03 01:11:27 #sbnc            1       Канал посвящен shroudBNC и всему что с этим бнц связано. Welcome. http://sterkh.name/sbnc/ || http://panel.aghost.biz/aff.php?aff=011
+окт 03 01:11:27 #opers           1       
+окт 03 01:11:27 #dx-swl          1       DX-кластер работает на канале #cqdx !
+окт 03 01:11:27 #botget          2       Канал раздачи бесплатных ботов и выдачи платных. Боты больше не выдаются.
+окт 03 01:11:27 #prostir         1       Поздравляем В. А. Зеленского со вступлением в должность Президента Украины!
+окт 03 01:11:27 #cstrike         1       
+окт 03 01:11:27 +#abuse          3       
+окт 03 01:11:27 #tomck           1       этот крот был выдрой
+окт 03 01:11:27 #car             1       *****В связи со скорой кончиной IRC тестируется канал #car в вацапе. Желающим туда попасть просьба огласить свои номера телефонов.*****
+окт 03 01:11:27 +ISERV           2       
+окт 03 01:11:27 #swift           1       
+окт 03 01:11:27 #xcode           1       
+окт 03 01:11:27 #alt             1       
+окт 03 01:11:27 #apple-ru        1       
+окт 03 01:11:27 #amine           1       
+окт 03 01:11:27 #alt-linux       1       
+окт 03 01:11:27 #altlinux        1       
+окт 03 01:11:27 #...             1       |||||||||Все мы ангелы,но с одним крылом,нужно лишь обняться и полететь... ||||||||http://wi.at.ua/index/0-4
+окт 03 01:11:27 #chaos           1       
+окт 03 01:11:27 #miranda         1       Клиент IM Miranda NG
+окт 03 01:11:27 #Qipish          1       
+окт 03 01:11:27 #zloy_zay        1       
+окт 03 01:11:27 #longhorn        1       
+окт 03 01:11:27 #digiphoto       1       http://www.dpreview.com/reviews/canon-eos-6d/      |        http://www.dpreview.com/previews/nikon-d600/     |     http://www.dpreview.com/news/0380638044/canon-announces-budget-friendly-eos-rebel-t6-1300d
+окт 03 01:11:27 #chelbike        1       
+окт 03 01:11:27 #exo             1       Мемориал города #Ехо
+окт 03 01:11:27 #alizee          1       ЗАКРЫВАЙТЕ ДВЕРЬ!!! ХОДИТ КОТ, МОЖЕТ СЪЕСТЬ ПОПУГАЕВ!!! 
+окт 03 01:11:27 #Obormots        1       Красно-желто-зеленые дети рисуют солнце, рисуют травы, они не знают как надо - поэтому правы.
+окт 03 01:11:27 #z80             2       ////////////  Welcome to Gilbert  ////////////
+окт 03 01:11:27 #btfkl           1       
+окт 03 01:11:27 #haute-ecole     1       
+окт 03 01:11:27 #horses          1       
+окт 03 01:11:27 #vagrant2        1       
+окт 03 01:11:27 #vagrant         1       
+окт 03 01:11:27 #pc-help         1       
+окт 03 01:11:27 #netchat         1       
+окт 03 01:11:27 #friendly        2       Vergiss nicht, dass Du ein Deutscher bist! | Jeder fur sich und Gott gegen alle! | https://www.youtube.com/watch?v=hWtapBIL9Jw
+окт 03 01:11:27 #kovonet.ru      1       
+окт 03 01:11:27 #r.i.p.          1       
+окт 03 01:11:27 #plus            1       
+окт 03 01:11:27 #hostel_7        1       
+окт 03 01:11:27 #vaz_classic     1       
+окт 03 01:11:27 #сессия    1       
+окт 03 01:11:27 #delix           1       
+окт 03 01:11:27 *                3       
+окт 03 01:11:27 #kaluga          1       
+окт 03 01:11:27 #japan           1       
+окт 03 01:11:27 #nihongo         1       
+окт 03 01:11:27 #manga           2       переводим правила по изобретениям из After the End. https://docs.google.com/document/d/1AdsFwlKOpMMtpvE1V2rAHKj5FzL6JeR-pdFBbsJxhhk/edit?usp=sharing
+окт 03 01:11:27 #vesna           1       
+окт 03 01:11:27 #krasnokamsk     1       
+окт 03 01:11:27 #html            1       Здесь никого нет.  Все на #xhtml
+окт 03 01:11:27 #kvsex           1       
+окт 03 01:11:27 #abuse+          2       
+окт 03 01:11:27 #3.141592653589793238462643383279502884197 1       Общество анонимных математиков (use /quit codepage cp1251 or port 6669)
+окт 03 01:11:27 #neutral_area    3       Нейтральная территория
+окт 03 01:11:27 #pda             2       
+окт 03 01:11:27 #minecraft       1       Вначале был камень, и камень был у Нотча... играем сайт и реалм  MCRAFT.CF (song https://www.youtube.com/watch?v=RBbYOEgXD1k )
+окт 03 01:11:27 #console_games   1       
+окт 03 01:11:27 #gtnr            1       
+окт 03 01:11:27 #rails           1       rails and ruby
+окт 03 01:11:27 #Крым        2       ВОПРОС ДНЯ: Если украина поставила пограничные посты на въезде в Крым - значит украина признает Крым Российским ? А если не признает - зачем тогда нужны погран.посты ?;)
+окт 03 01:11:27 #somadhy         2       
+окт 03 01:11:27 #anarchia        3       Metal anal
+окт 03 01:11:27 #line_age2       3       Ugnova suxxxxxxx
+окт 03 01:11:27 #internet        1       
+окт 03 01:11:27 #xatka           1       
+окт 03 01:11:27 #irkutsk         2       Irkutsk
+окт 03 01:11:27 #pubg            1       PlayerUnknown's Battlegrounds
+окт 03 01:11:27 *                1       
+окт 03 01:11:27 #russian-tormoz  1       Общество военной травмы
+окт 03 01:11:27 #lurknews        3       
+окт 03 01:11:27 #freebsd.talks   1       
+окт 03 01:11:27 #OnlineBible     1       Канал поддержки русскоязычных пользователей Библии Он-Лайн <http://onlinebible.github.io/olb.html>
+окт 03 01:11:27 #orenlinux       1       
+окт 03 01:11:27 #bf-front        1       
+окт 03 01:11:27 #bf1942          1       Все на #BattlefieldTsk
+окт 03 01:11:27 #bfvietnam       1       Все на #BattlefieldTsk
+окт 03 01:11:27 #ofptomsk        1       Все на #BattlefieldTsk
+окт 03 01:11:27 #armatomsk       1       Все на #BattlefieldTsk
+окт 03 01:11:27 #bfbc2_tomsk     1       Все на #BattlefieldTsk
+окт 03 01:11:27 #bf2142.tomsk    1       Все на #BattlefieldTsk
+окт 03 01:11:27 #seversk         1       
+окт 03 01:11:27 #tomica          1       
+окт 03 01:11:27 #f1-tomsk        1       
+окт 03 01:11:27 #artfield        1       
+окт 03 01:11:27 #amiga           1       
+окт 03 01:11:27 #nts             1       http://www.nts.su/pages/mobilnoe-prilojenie | http://www.nts.su/pages/iptv
+окт 03 01:11:27 #msf_tpu         2       
+окт 03 01:11:27 #tashtagol       1       
+окт 03 01:11:27 #GAD             1       
+окт 03 01:11:27 #satan           1       `%%,`%%,`%%,`%%  Мы сидим на http://coma.su и в Телеграмм https://t.me/joinchat/CzUlKQ3UN_PtoySLneXdhA `%%`%%`%%,`%%,
+окт 03 01:11:27 #Sanek508        3       
+окт 03 01:11:27 #ixx             2       Заходите на канал #Sanek508 и на сайт http://Sanek508.net
+окт 03 01:11:27 #padonki         2       'CheG рваный защеканец в жопу трахнутый поганец, друг его peet-bull_ хуила, пидорас,хуёв дрочила, криворотый вафлежуй, посасут вам нежно хуй. руснет вам не гейпарад. банан вам вжопу'
+окт 03 01:11:27 #samara          2       (С) (А) (М) (А) (Р) (А)
+окт 03 01:11:27 #space           2       '(К) (О) (С) (М) (О) (С)   НЛО и всё научное Маленькая коллекция сайтов и избранное нашего #space канала: .calclist и .calc <ключ_слово> '
+окт 03 01:11:27 #dgrad           3       [[|(|)|]] <<< Димитровград >>> [[|(|)|]] Новичкам совет, посидеть тут: http://www.rusnet.org.ru/rules.html
+окт 03 01:11:27 #dimitrovgrad    3       %% %% %% Необразованные люди не отвечают, и не могут ответить, за свои высказывания и поступки. Они жертвы культуры и агрессивны даже к себе подобным. %% %
+окт 03 01:11:27 #dnd-nsk         1       
+окт 03 01:11:27 #bf2             1       Канал БФ-сообщества Томск и России!
+окт 03 01:11:27 #06.06.09        1       Баня - как много в этом звуке!
+окт 03 01:11:27 #moecho          1       
+окт 03 01:11:27 #dominet         1       
+окт 03 01:11:27 #academ          1       
+окт 03 01:11:27 #Filya           1       
+окт 03 01:11:27 #antiopenair     3       
+окт 03 01:11:27 #sova            1       Канал для обсуждения вопросов, связанных с проектом СОВА в ПАО "Ростелеком"
+окт 03 01:11:27 #sibset          1       Чтобы помнили
+окт 03 01:11:27 #pulsefm         1       Чтобы помнили
+окт 03 01:11:27 #211fm           1       Чтобы помнили
+окт 03 01:11:27 #dars-ip         1       
+окт 03 01:11:27 #philosophy_of_cucumber 1       
+окт 03 01:11:27 #dsv             1       
+окт 03 01:11:27 #xakep           2       
+окт 03 01:11:27 #777             1       
+окт 03 01:11:27 #photo           1       
+окт 03 01:11:27 #kraftwerk       1       "Немецкий культовый музыкальный коллектив из Дюссельдорфа, внёсший заметный вклад в развитие электронной музыки. http://www.youtube.com/watch?v=KQ_grfKZGtY"
+окт 03 01:11:27 #cranberries     2       
+окт 03 01:11:27 #agmc            1       
+окт 03 01:11:27 #adminchan       2       Канал для администрации каналов begin_end. [ #100%_любви_и_знакомства!!!! #CodersZone #coding #DX-SWL #helnet ]
+окт 03 01:11:27 #music           2       
+окт 03 01:11:27 #укроп      1       -
+окт 03 01:11:27 #hosting         1       
+окт 03 01:11:27 #kurgan-telecom  1       
+окт 03 01:11:27 #home-co-ltd     1       
+окт 03 01:11:27 #partytalks-2    1       
+окт 03 01:11:27 #kurgan          1       
+окт 03 01:11:27 #godville        2       Официальный канал технической поддержки Годвилля || http://godville.info/519/main.html || /quote codepage cp1251 || !list !log || ПРИДУМЫВАЕМ ТРОФЕЙ, БЛЖАД 
+окт 03 01:11:27 #putin           1       
+окт 03 01:11:27 #linuxportal.ru  1       
+окт 03 01:11:27 #цыгель    1       шо
+окт 03 01:11:27 #vat4            2       
+окт 03 01:11:27 #lords_avalon    1       
+окт 03 01:11:27 #test_bot        1       
+окт 03 01:11:27 #ada             1       
+окт 03 01:11:27 #fights          1       | [Current Auction: ElectricMod]
+окт 03 01:11:27 #fallout         1       
+окт 03 01:11:27 #dump            1       ЕСТЬ КТО ЖЫВОЙ? || НЕД || иногда
+окт 03 01:11:27 #d2-nsk          1       
+окт 03 01:11:27 #Some-channel    1       Какой-то канал Хто здесь?
+окт 03 01:11:27 #Diablo_2        1       Добро пожаловать
+окт 03 01:11:27 #marine          1       
+окт 03 01:11:27 #beetroot        1       
+окт 03 01:11:27 #ministerstvo    1       
+окт 03 01:11:27 #html5           1       
+окт 03 01:11:27 #eveodessa       1       http://www.eveonline.com/odyssey
+окт 03 01:11:27 #c++             1       
+окт 03 01:11:27 #buktopuha       3       
+окт 03 01:11:27 #megasecurity    1       
+окт 03 01:11:27 #solarisflame    1       
+окт 03 01:11:27 #кислыйпонос 1       
+окт 03 01:11:27 #fightworld      1       
+окт 03 01:11:27 #arena           1       :D
+окт 03 01:11:27 #LunarBNC        1       
+окт 03 01:11:27 #sekta           3       свидетелей Яркко Ойкаринена
+окт 03 01:11:27 #satanism        3       Samhein. || Ave Satanas.
+окт 03 01:11:27 +79129745619     1       
+окт 03 01:11:27 #ur-test-bot     1       
+окт 03 01:11:27 *                1       
+окт 03 01:11:27 #intrice         2       obsolete
+окт 03 01:11:27 #paintball       1       channel dies
+окт 03 01:11:27 #cyberpunk       1       
+окт 03 01:11:27 #flightsim       1       
+окт 03 01:11:27 #vitz            2       
+окт 03 01:11:27 #Riddles         3       
+окт 03 01:11:27 #roulette        3       
+окт 03 01:11:27 #fight           3       Интерактивная ONLINE ИГРА <<<БОЙЦОВСКИЙ КЛУБ>>> Приглашаем также поиграть в <<<MUD>>> (Multi-User Dungeon). Пишем: /join #mudgame 
+окт 03 01:11:27 #labyrinth       3       Интерактивная многопользовательская <<<ИГРА>>> ЛАБИРИНТ. Поиграйте также в: /join #mudgame 
+окт 03 01:11:27 #ponimanie       3       
+окт 03 01:11:27 #newsman         2       
+окт 03 01:11:27 #lpr             2       Закон для всех, справедливость для некоторых!
+окт 03 01:11:27 #метрополия 1       
+окт 03 01:11:27 #strategy_games  1       http://zenrus.ru/
+окт 03 01:11:27 #kunaki          1       
+окт 03 01:11:27 #karbowanez      1       
+окт 03 01:11:27 #tavria          1       
+окт 03 01:11:27 #ПоСТ        1       
+окт 03 01:11:27 #IV74            1       
+окт 03 01:11:27 #umnepia         1       
+окт 03 01:11:27 #unp             1       
+окт 03 01:11:27 #airgun-kemerovo 1       
+окт 03 01:11:27 #187             1       Установка на красный гетц
+окт 03 01:11:27 #freetommy       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:27 #resist.se       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:27 #pravchat        1       : "По тому узнают все, что вы Мои ученики, если будете иметь любовь между собою." Ин 13:35 | Кодекс ПравЧата: https://pravchat.dreamwidth.org/298.html
+окт 03 01:11:27 #testik          1       
+окт 03 01:11:27 #alcobike        1       
+окт 03 01:11:27 #esoteric        1       
+окт 03 01:11:27 #cooper          1       
+окт 03 01:11:27 #kerch           1       Official Town webpage -> http://www.kerchrada.gov.ua
+окт 03 01:11:27 #dnz             2       
+окт 03 01:11:27 #переговорный 1       
+окт 03 01:11:27 #темный_уголок 1       
+окт 03 01:11:27 #qnx             2       QNX это: VISA, Atomic Energy of Canada Ltd., Open Architecture Distributed Control System, Cisco Systems & QNX Neutrino & IOS XR, BMW, Chrysler, Ford, General Motors, Toyota, Volkswagen, Робот bigdog, Разводной Троицкий мост, Система управления северными магистральными нефтепроводами, Сириус-QNX, Пульт космонавтов Нептун-МЭ, Octavo и многое другое.
+окт 03 01:11:27 #NeuroMusic      2       '|||||||||(N) (e) (u) (r) (o) (M) (u) (s) (i) (c)|||||||||Набери: .calc радио'
+окт 03 01:11:27 #notes           2       
+окт 03 01:11:27 #фсб          1       
+окт 03 01:11:27 #farpost         2       "Канал фарпост!"
+окт 03 01:11:27 #fsb             2       
+окт 03 01:11:27 #hacking         2       
+окт 03 01:11:27 #Mylene          2       
+окт 03 01:11:27 #vb              2       Р - 40 18:25 /// П - 003а 4:29 \\\ Expires: 28.10.2017 11:29:00 GMT \\\ DD125
+окт 03 01:11:27 #network         1       
+окт 03 01:11:27 #ror             1       
+окт 03 01:11:27 #general         1       
+окт 03 01:11:27 #noxious         1       http://noxiousofficial.com/med.jpg | Black Metal ist Krieg! | http://noxiousofficial.com
+окт 03 01:11:27 #usa             1       
+окт 03 01:11:27 #hostin          1       
+окт 03 01:11:27 #botnet.icf.org.ru 1       
+окт 03 01:11:27 #nixhelp         1       
+окт 03 01:11:27 #unix.talks      1       HB 2 GHhost...мурр!!!
+окт 03 01:11:27 #init            2       SUCCESS
+окт 03 01:11:27 #ruslinux        1       
+окт 03 01:11:27 #cyber           1       
+окт 03 01:11:27 #utr             1       
+окт 03 01:11:27 #erotic          1       
+окт 03 01:11:27 #mug             1       Moscow Unix Group | Linux/Unix || #nix'овка 13-го июня в МСК, просьба не планировать ничего на этот день 
+окт 03 01:11:27 #lfs             1       
+окт 03 01:11:27 #komy_3a_30      2       Баррель мне в танкер, да я же шедевр!
+окт 03 01:11:27 #n/o/rcalwat     1       
+окт 03 01:11:27 #some_channel    1       
+окт 03 01:11:27 #toyota          2       http://s00.yaplakal.com/pics/pics_original/7/9/4/6441497.jpg
+окт 03 01:11:27 #fleur           2       
+окт 03 01:11:27 #truedowngrade   1       
+окт 03 01:11:27 #Umka            2       
+окт 03 01:11:27 #trem            2       Urban Terror & Tremulous & WarSow game in Tomsk | http://tf.tomline.ru http://trem.opentomsk.net/ut/ http://trem.opentomsk.net/ http://trem.opentomsk.net/wsw
+окт 03 01:11:27 #banzai          1       
+окт 03 01:11:27 #ham             2       
+окт 03 01:11:27 #Россия    5       
+окт 03 01:11:27 #/rf/            2       
+окт 03 01:11:27 #dos             2       
+окт 03 01:11:27 #уютный_уголок 3       
+окт 03 01:11:27 #gordon          3       
+окт 03 01:11:27 #brony           2       
+окт 03 01:11:27 #vik_lm          3       
+окт 03 01:11:27 #apple           4       
+окт 03 01:11:27 #maidan          4       
+окт 03 01:11:27 #minsk           3       
+окт 03 01:11:27 #metal           2       
+окт 03 01:11:27 #aureon          9       
+окт 03 01:11:27 #rpg             1       
+окт 03 01:11:27 #partytalks      4       
+окт 03 01:11:27 #sw_kiev         2       
+окт 03 01:11:27 #zoo             1       
+окт 03 01:11:27 #teama_fpo       2       
+окт 03 01:11:27 #mikrotik        5       
+окт 03 01:11:27 #day-radio       1       
+окт 03 01:11:27 #urBydloCoding   2       
+окт 03 01:11:27 #bsdportal       2       
+окт 03 01:11:27 #geocaching      1       
+окт 03 01:11:27 #e-money         1       
+окт 03 01:11:27 #alexeco         2       #alexeco : - Off sites  alexeco.name
+окт 03 01:11:27 #francais        1       
+окт 03 01:11:27 #ulcamp          1       ULCAMP https://ulcamp.ru
+окт 03 01:11:27 #quiz            3       
+окт 03 01:11:27 #hides           1       Добро пожаловать!
+окт 03 01:11:27 #helpR           1       
+окт 03 01:11:27 #felineyiff      1       
+окт 03 01:11:27 #pawsru          1       
+окт 03 01:11:27 #cellular        1       
+окт 03 01:11:27 #/fg/            1       
+окт 03 01:11:27 #Vodka           1       2003-20XX RIP TC-EXE Алкоголизм для дураков, а мы отрываемся и отдыхаем!
+окт 03 01:11:27 #sosnovoborsk    1       WWW.SOSNOVOBORSK.SU :: Sosnovoborsk IRC channel :: //msg Spoofing Hello!
+окт 03 01:11:27 #kastaneda       1       [Bunker news] Upgrade to Debian 10, finally
+окт 03 01:11:27 #Tyumen          2       Время умирать
+окт 03 01:11:27 #bo              1       
+окт 03 01:11:27 #otvet           1       
+окт 03 01:11:27 *                3       
+окт 03 01:11:27 #rust            2       
+окт 03 01:11:27 #lua             2       Lua is a powerful, fast, lightweight, embeddable scripting language
+окт 03 01:11:27 #anta_baka       3        %%%%%% == ХАЙ-ХАЙ == %%%%%% 
+окт 03 01:11:27 #broccoli        2       http://zoome.jp/galaxyangel/ :E~ | <Xzaws> Тэ о Аряйо~ | missiles for free!!
+окт 03 01:11:27 #sailor_baka     3       rezervaciya dlya obdelennyh milost'yu Tsubatsu. построй свой звездолет, с маджонгом и девочками-волшебницами!
+окт 03 01:11:27 #asplinux        1       должен остаться только один | +1 | сегодня в 15:17 я остался один - win! (c) xor
+окт 03 01:11:27 #irssi           1       
+окт 03 01:11:27 #/b/             3       
+окт 03 01:11:27 #poring          5       
+окт 03 01:11:27 *                6       
+окт 03 01:11:27 #delphi          4       
+окт 03 01:11:27 #palatka         2       Посидели просто замечательно!
+окт 03 01:11:27 #torrents        3       
+окт 03 01:11:27 #rcl             2       
+окт 03 01:11:27 #mysql           3       
+окт 03 01:11:27 +                4       
+окт 03 01:11:27 #ufa             2       
+окт 03 01:11:27 #films           7       
+окт 03 01:11:27 #112             3       
+окт 03 01:11:27 #4747            2       
+окт 03 01:11:27 #koumakan        3       
+окт 03 01:11:27 #mvc             2       все ушли в Telegram :)
+окт 03 01:11:27 #vim             2       
+окт 03 01:11:27 #scala           1       
+окт 03 01:11:27 #sailormoon      4       
+окт 03 01:11:27 #tobolsk         4       
+окт 03 01:11:27 #doom2           4       
+окт 03 01:11:27 #32bit           2       
+окт 03 01:11:27 #NoMercy         1       .
+окт 03 01:11:27 #tsure           1       Taganrog Institute of Technology Southern Federal | Почтовый сервис: https://mail.tti.su/
+окт 03 01:11:27 #nazak           2       
+окт 03 01:11:27 #animesib        5       
+окт 03 01:11:27 #хуй          2       
+окт 03 01:11:27 #DDoS            2       ???? лорды милорды хуиные ваши морды ????
+окт 03 01:11:27 #bylins          1       муд былины
+окт 03 01:11:27 #???             1       
+окт 03 01:11:27 #???????         1       
+окт 03 01:11:27 #ur-l4d          1       
+окт 03 01:11:27 #c2h5(oh)        1       
+окт 03 01:11:27 #TTR-Releases    1       
+окт 03 01:11:27 #Elwar           3       
+окт 03 01:11:27 #ttr             1       
+окт 03 01:11:27 #torrents.tomsk.ru 2       Канал имени 'Первый Томский Торрент: TORRENTS.TOMSK.RU' [2006-02 - 2007-01]
+окт 03 01:11:27 #otaku-kh        1       
+окт 03 01:11:27 #vaping          1       
+окт 03 01:11:27 #macos           1       
+окт 03 01:11:27 #та3           1       
+окт 03 01:11:27 #distributed     1       
+окт 03 01:11:27 #velo.kiev       1       
+окт 03 01:11:27 #dorms           3       
+окт 03 01:11:27 #egghelp         1       
+окт 03 01:11:27 #psybnc          1       
+окт 03 01:11:27 #wow             1       
+окт 03 01:11:27 #tea             3       
+окт 03 01:11:27 #komi            2       Коми Республикаса irc-канал // http://www.rkomi.ru/gosud/simvol/index.phtml // http://www.komi.com/folk/myth/46.htm
+окт 03 01:11:27 #syktyvkar       2       'Виджа оланныд, донна йортьяс! Пыр локта да шуан став выльторьяс :) // http://kominarod.narod.ru/romposht/romposht.htm - Коми язык для взрослых
+окт 03 01:11:27 #metal.tomsk.ru  2       
+окт 03 01:11:27 #>>phoenix<<     1       
+окт 03 01:11:27 #zero            1       
+окт 03 01:11:27 #true            1       
+окт 03 01:11:27 #damage          2       pvt chan
+окт 03 01:11:27 #kuvalda         1       
+окт 03 01:11:27 #vkontakte       1       
+окт 03 01:11:27 #moonclub        1       
+окт 03 01:11:27 #xppop           2       http://ikle.ru/irc/xppop.html | Бывший канал попапов 14-15-16, popup is dead.
+окт 03 01:11:27 #ghl             1       
+окт 03 01:11:27 #glazov          1       
+окт 03 01:11:27 #lasher          1       
+окт 03 01:11:27 #shell           2       Продаются шеллы для ботов и бнц. Пишите в приват к в_танке и Trusty
+окт 03 01:11:27 #forex           4       Вот и начались трейдоебобудни...трейдуны к станку!
+окт 03 01:11:27 #stvr            2       
+окт 03 01:11:27 #cops            4       Угля, поздравля!
+окт 03 01:11:27 #antigop         1       
+окт 03 01:11:27 *                1       
+окт 03 01:11:27 #gmo             1       
+окт 03 01:11:27 #chelyabinsk     5       День надутых губ и запрокидывания головы
+окт 03 01:11:27 #mafia           5       
+окт 03 01:11:27 #j2me            6       
+окт 03 01:11:27 *                5       
+окт 03 01:11:27 #mafops          2       
+окт 03 01:11:27 #emule           4       
+окт 03 01:11:27 #sharp           1       
+окт 03 01:11:27 #humor           1        :: АНЕКДОТЫ :: BASH.ORG :: ФРАЗЫ -> [:]||||||||[:] из интернета каждые  5  минут!  :: 
+окт 03 01:11:27 #weird           1       "Я боюсь, что ты не достигнешь Мекки, о Номад, ведь дорога, которой ты идешь, ведет в Туркестан..." :: Societe anonyme d.hippophage ::  Команды бота: !help 
+окт 03 01:11:27 #Kosiak          1       
+окт 03 01:11:27 #bwc             1       Каналу 12 лет! | http://baikalwest.com
+окт 03 01:11:27 #Russian_zone    1       
+окт 03 01:11:27 #fluro           4       
+окт 03 01:11:27 #x1zer           2       
+окт 03 01:11:27 #sch_81          2       
+окт 03 01:11:27 #arda            2       Arda MUD | http://arda.pp.ru/
+окт 03 01:11:27 #hvmud           2       Hiervard MUD || http://hiervard.ru/
+окт 03 01:11:27 #neonnet         2       !list !log | NeonNet заморожено. NEON2 IP 2:463/877 набирает поинтов и линков в FidoNet. http://ncc.org.ua| http://ncc.org.ua/irc.php
+окт 03 01:11:27 #ragnarokonline  1       я хз || я могу поднять люми || тебе какой?
+окт 03 01:11:27 #cdrr            1       
+окт 03 01:11:27 #iichan          2       
+окт 03 01:11:27 #allex           2       
+окт 03 01:11:27 #gota            2       
+окт 03 01:11:27 #durdom          29      #БеляйпозвониЕвгении| Статистика и логи https://durdom.su | Правила http://bit.ly/_durdom ( ЧС - https://pastebin.com/ixKTYwhY )
+окт 03 01:11:27 #ulnet           2       В финском языке есть слово kalsarik?nnit [калсарикяннит], что в переводе значит <<выпивать дома в нижнем белье, не планируя никуда выходить>>. Хорошее слово.
+окт 03 01:11:27 #wintalk         1       
+окт 03 01:11:27 #irchelp         2       
+окт 03 01:11:27 #fiona           1       Закрытых дверей не бывает. Бывает недостаточно громкое Мяууу...
+окт 03 01:11:27 #ongoing         1       
+окт 03 01:11:27 #unequal         1       
+окт 03 01:11:27 #neotelecom      1       
+окт 03 01:11:27 #dnd_dnd         1       
+окт 03 01:11:27 #twidh           1       
+окт 03 01:11:27 #TeamB           1       
+окт 03 01:11:27 #mez_dh          1       
+окт 03 01:11:27 #ur_dh           1       
+окт 03 01:11:27 #cot             1       
+окт 03 01:11:28 #heresy          1       
+окт 03 01:11:28 #dnd_fpo         1       
+окт 03 01:11:28 #echoirlp        1       
+окт 03 01:11:28 #logchan         1       
+окт 03 01:11:28 #ndw             5       
+окт 03 01:11:28 #dwrpg           3       
+окт 03 01:11:28 #dwstaff         1       
+окт 03 01:11:28 #tweak           1       
+окт 03 01:11:28 #odessit         1       
+окт 03 01:11:28 #d_n_s           1       
+окт 03 01:11:28 #Sydiva          1       
+окт 03 01:11:28 #Dogs            3       
+окт 03 01:11:28 #b_p             3       
+окт 03 01:11:28 #matrix-inet     1       
+окт 03 01:11:28 #victorinka      1       
+окт 03 01:11:28 #exclusive       1       
+окт 03 01:11:28 #onmu            1       
+окт 03 01:11:28 #мр            1       
+окт 03 01:11:28 #temka           2       
+окт 03 01:11:28 #anarxi.st       1       
+окт 03 01:11:28 #дураки    1       
+окт 03 01:11:28 #sandtable       1       
+окт 03 01:11:28 #last.fm         1       
+окт 03 01:11:28 #buy_sell        2       
+окт 03 01:11:28 #lhvr            1       
+окт 03 01:11:28 #madonna         1       
+окт 03 01:11:28 #inf             1       
+окт 03 01:11:28 #animemagazine   1       
+окт 03 01:11:28 #anibel          1       
+окт 03 01:11:28 #aries           1       
+окт 03 01:11:28 #dofus           1       
+окт 03 01:11:28 #privoz          1       
+окт 03 01:11:28 #chtd            1       
+окт 03 01:11:28 #unix            3       expired
+окт 03 01:11:28 #lrn             1       
+окт 03 01:11:28 #flood           2       
+окт 03 01:11:28 #pikabu.ru       1       
+окт 03 01:11:28 *                6       
+окт 03 01:11:28 #kvirc           2       The official channel of KVIrc-client in RusNet. // Официальный канал клиента KVIrc в RusNet. http://www.kvirc.ru Скрипты: http://www.kvirc.ru/forum/board,12.0 // Хранилище скриптов: http://www.kvirc.info // FAQ: http://vk.cc/N8wTC 
+окт 03 01:11:28 #ЛУНАПАРК 9       
+окт 03 01:11:28 #geopolitics     3       
+окт 03 01:11:28 #TVR             1       
+окт 03 01:11:28 #mmtsr           1       
+окт 03 01:11:28 #vtomske.ru      1       
+окт 03 01:11:28 #redwix          1       
+окт 03 01:11:28 #jacaranda       1       
+окт 03 01:11:28 #src             2       
+окт 03 01:11:28 #tycyp           3       
+окт 03 01:11:28 #dirty.ru        2       
+окт 03 01:11:28 #mudgame         3        'Интерактивная многопользовательская IRC-ИГРА <<<MUD>>> (Multi-User Dungeon). Помощь по игре: !помощь, помощь, help, !help.
+окт 03 01:11:28 #victeam         1       |||||| #VicTeam ||||||| Командная викторина.  Играйте с удовольствием ! Помощь по командам !хелп (викторина) и !ахелп (анаграмма)
+окт 03 01:11:28 #фпесду    1       
+окт 03 01:11:28 #0бщага     1       
+окт 03 01:11:28 #Love&Sex        1       
+окт 03 01:11:28 #clan.war        1       
+окт 03 01:11:28 #cs              1       
+окт 03 01:11:28 #gamezone        1       
+окт 03 01:11:28 #pro.cs          1       
+окт 03 01:11:28 #cs.nettown      1       
+окт 03 01:11:28 #cstrike.tomsk   1       
+окт 03 01:11:28 #rasta.team      1       
+окт 03 01:11:28 #cs.shariki      1       
+окт 03 01:11:28 #tomgame         1       
+окт 03 01:11:28 #cs.seversk      1       
+окт 03 01:11:28 #cs_rubilovo     1       
+окт 03 01:11:28 #St-InGame       1       
+окт 03 01:11:28 #19Inches        1       
+окт 03 01:11:28 #cs.DABIGI       1       
+окт 03 01:11:28 #meatwars        1       
+окт 03 01:11:28 #cs.lazonet      1       
+окт 03 01:11:28 #cs.admins       1       
+окт 03 01:11:28 #cs-sibgame      1       
+окт 03 01:11:28 #CS.Tomtel       1       
+окт 03 01:11:28 #cs.arielnet     1       
+окт 03 01:11:28 #cs.19d          1       
+окт 03 01:11:28 #freebnc         1       
+окт 03 01:11:28 #antichat        3       https://forum.antichat.ru | off chan
+окт 03 01:11:28 #chem.by         1       
+окт 03 01:11:28 #rss             1       Канал для трансляции RSS с ИТ ресурсов (Habrahabr, SecurityLab, Xaker, Antichat, IRCRusNet и иные). Свежие новости с сайтов каждые несколько минут.
+окт 03 01:11:28 #shilka          1       
+окт 03 01:11:28 #byaks           1       
+окт 03 01:11:28 #wikireality     3       
+окт 03 01:11:28 #comedy          2       
+окт 03 01:11:28 #RusNet          2       
+окт 03 01:11:28 #iRC             1       
+окт 03 01:11:28 #sebastopol      1       
+окт 03 01:11:28 #Оймякон  1       
+окт 03 01:11:28 #css             2       .\0 {content: "<![CDATA["} .topic::after {content: "Это канал про Cascading Style Sheets"} .\0 {content: "]]>"}
+окт 03 01:11:28 #openair         2       
+окт 03 01:11:28 #politics-open   5       
+окт 03 01:11:28 #golang          4       GO language | golanger.xyz - там пока что ничего |
+окт 03 01:11:28 #16bits          4       
+окт 03 01:11:28 #blender         5       Blender 2.80 http://download.blender.org/release/Blender2.80/ | https://www.youtube.com/user/BlenderFoundation/videos | логи чата: http://h01.akhil.ru/rusnet/%23blender/?C=N;O=D
+окт 03 01:11:28 *                6       
+окт 03 01:11:28 #vladee          3       
+окт 03 01:11:28 #makelove        2       
+окт 03 01:11:28 #cvs_mirc        2       
+окт 03 01:11:28 #tomsknews       2       
+окт 03 01:11:28 #kuban           3       Кубань - это весь Краснодарский Край включая Красноярск, Минусинск, Томск, Севастополь, Сосновоборск, Новосибирск, Североуральск, Одесса, Верхняя Савоя, Подмосковье и др. 
+окт 03 01:11:28 #4pda            2       
+окт 03 01:11:28 #University      3       (В)(И)(К)(Т)(О)(Р)(И)(Н)(А) + addons. Лидеры дня 01.10.2019: 1. Taxa (54).
+окт 03 01:11:28 #Kaliningrad     2       
+окт 03 01:11:28 #lore            1       
+окт 03 01:11:28 #soft            3       Правила канала: http://www.rus-net.org/forum/index.php?showtopic=3791
+окт 03 01:11:28 #mirc-scripts    3       
+окт 03 01:11:28 #Holomi          2       
+окт 03 01:11:28 #Philology       3       Канал любителей грамотной речи. Мы знаем, что ЧК и ЧН пишутся без мягкого знака. Мы знаем, что мну -- от глагола мять, а не от местоимения меня. Но главное -- мы применяем свои знания! Знания можно черпать из http://gramota.ru
+окт 03 01:11:28 #irc.seb.org.ua  10      +bnc |Хосты: +bvhosts или http://irc.seb.org.ua/ | Connect: irc.seb.org.ua:4444 (4443, 1111) (SSL:4343) | Аккаунты более не удаляются
+окт 03 01:11:28 #tfug            4       
+окт 03 01:11:28 #elene           8       
+окт 03 01:11:28 #enigma          5       **..***.. Викторина.. .. ..      .: http://tt.erinome.net/cc/quiz :.       Лучший игрок дня: SmallCat  Делаем ставки в аукционах, супериграх, рандом-вопросах. 
+окт 03 01:11:28 #opensuse        5       openSUSE Linux channel | openSUSE Leap 15.1 RELEASED | Ресурсы: !calclist !calc [название] | Новости: !opensuse (starlfur)
+окт 03 01:11:28 #odessa          22      Людской цивилизации тотальный демонтаж.
+окт 03 01:11:28 #100%_любви_и_знакомства!!!! 9       Канал хорошего и доброго общения
+окт 03 01:11:28 #philosophy      18      
+окт 03 01:11:28 #asm             2       https://www.youtube.com/watch?v=ALBgsXOq11o => https://github.com/nanochess/Invaders/blob/master/invaders.asm
+окт 03 01:11:28 #astral          4       Уютный астральчик :3
+окт 03 01:11:28 #cqdx            3       DX CLUSTER RETRANSLATOR | HAMRADIO
+окт 03 01:11:28 #nikolaev        3       HB2U, HiX!!! /v0lant, вых
+окт 03 01:11:28 #nsu             2       
+окт 03 01:11:28 #500             1       рябчек-
+окт 03 01:11:28 #haskell         1       
+окт 03 01:11:28 #vrn             1       
+окт 03 01:11:28 #Hack-Academy    3       Поуков! - требуют наши сердца. Поуков - требуют наши глаза. Поуки - в пульсации вен. Мыждем-Поуков! :)|ыгыгы /только илитных, прочеканых/
+окт 03 01:11:28 #derp            1       
+окт 03 01:11:28 #avia            7       
+окт 03 01:11:28 #kvidex          1       
+окт 03 01:11:28 #yoga            3       
+окт 03 01:11:28 *                3       
+окт 03 01:11:28 #vita            5       
+окт 03 01:11:28 *                27      
+окт 03 01:11:28 #taganrog        2       
+окт 03 01:11:28 #coding          18      Канал для бесед о программировании. БНЦ (BNC) (coderszone.net:6589) Закрыто.
+окт 03 01:11:28 #subword         15      
+окт 03 01:11:28 #victorina       4       
+окт 03 01:11:28 #announces       13      
+окт 03 01:11:28 #DarkCrystal     5       МКС / ISS
+окт 03 01:11:28 #science         16      Наука
+окт 03 01:11:28 #crimea          12      Крим
+окт 03 01:11:28 #castaneda       16      люби то, что не любит ОНО
+окт 03 01:11:28 #bash            2       
+окт 03 01:11:28 #dirty           9       мы покакунькали
+окт 03 01:11:28 #oracle          1       
+окт 03 01:11:28 #eggdrop         29      
+окт 03 01:11:28 #komy_3a_25      9       Лучше ездить каждый день на велосипеде на пляж, чем на Мерседесе на работу.
+окт 03 01:11:28 #habrahabr       27      Канал хабры в интернетах.|| flood, оффтопик и прочий спам не приветствуется.
+окт 03 01:11:28 #funchat         2       
+окт 03 01:11:28 #Dom_u_Mosta     1       
+окт 03 01:11:28 #Bunba           1       
+окт 03 01:11:28 #feaell          1       
+окт 03 01:11:28 #netrunners      1       
+окт 03 01:11:28 #anime-nihongo   1       
+окт 03 01:11:28 #frei            1       
+окт 03 01:11:28 #wesna           1       
+окт 03 01:11:28 #sm              1       
+окт 03 01:11:28 #idle            2       
+окт 03 01:11:28 #$               1       
+окт 03 01:11:28 #primorye        2       
+окт 03 01:11:28 #stormrage       6       
+окт 03 01:11:28 #!               2       Портал - /dev/null Здесь живут культурные и интеллигентные люди! | Список ников удаленного канала: !cnlist | Информация: http://null.a-ec.name/
+окт 03 01:11:28 #punk.lug        3       RIP Dennis M. Ritchie | ПУНК LUG | http://ikle.ru/irc/punk-lug.html | If you can't  explain it simply, you don't understand it well enough. (c) Al. Ei.
+окт 03 01:11:28 #freebot         10      
+окт 03 01:11:28 #magi            28      Канал свободы, бан только за неукратимый флуд. Маги в телеге: https://t.me/magi_ru
+окт 03 01:11:28 #windrop         6       
+окт 03 01:11:28 #magnit          2       `%%,`%%,`%%,`%%'`% Лучше спортивная фигура чем спортивное лицо %`%%,`%%'`%%,`%%,
+окт 03 01:11:28 #love            6       
+окт 03 01:11:28 #adultlion       2       
+окт 03 01:11:28 #mlp             4       Канал про малогабаритных непарнокопытных
+окт 03 01:11:28 *                2       
+окт 03 01:11:28 #openarena       4       
+окт 03 01:11:28 #krasnoyarsk     2       
+окт 03 01:11:28 #politics_open   25      <MoHaX> вертухаи - это зеки.
+окт 03 01:11:28 #позитивчик 8       
+окт 03 01:11:28 #центральный 19      Ксения Собчак будет вести шоу <<Пусть Говорят>> на Первом канале. А вы говорили, что она ничего не добьётся на президентских выборах!
+окт 03 01:11:28 #politics        48      Управляющий колонией Путин поздравил российских евреев с иудейским Новым годом.  | Игровой канал #subword
+окт 03 01:11:28 #piter           13      С Днём Семьи, Любви и Верности
+окт 03 01:11:28 #fido            9       
+окт 03 01:11:28 #hamradio        16      Radio Amateurs Community
+окт 03 01:11:28 #tomtel          4       
+окт 03 01:11:28 #android         7       
+окт 03 01:11:28 #overclockers.ru 7       
+окт 03 01:11:28 #russia+30       14      
+окт 03 01:11:28 #webdev          13      Веб-разработчики - общайтесь! links: [ http://rusnet-webdev.surge.sh , http://www.opennet.ru/mp/web , http://codeguide.co , http://www.cheat-sheets.org ] , rules: http://goo.gl/sXAIJ , books: http://goo.gl/SJc4o4 , web: https://webdev.a-ec.name  
+окт 03 01:11:28 #Help            36      
+окт 03 01:11:28 #python          10      Python 2.7.15, Python 3.7.3
+окт 03 01:11:28 #orthodoxy       4       Православный чат
+окт 03 01:11:28 #ortho-it        7       Мы переехали в Telegram заходите по ссылке https://t.me/ortho_it либо напишите боту http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:28 #anastasis       5       Мы переехали в Telegram, если кому-то туда нужно, то обращайтесь в приват к kocc, либо обращайтесь через бота http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:28 #hentai          4       
+окт 03 01:11:28 #16bit           28      Канал шоу "16 бит тому назад" и других проектов Дмитрия Бачило | Кремниевые Титаны #25: Ryzen -- https://youtu.be/zMkkFtPISWk | [VLOG] Level Up Days 2019 Новосибирск -- https://youtu.be/12NnQ-rGOrc | Круглосуточный сервак OpenArena: arena.allunix.ru
+окт 03 01:11:28 #gay             3       
+окт 03 01:11:28 &AUTH            1       SERVER MESSAGES: messages from the authentication slave
+окт 03 01:11:28 &SERVICES        1       SERVER MESSAGES: services joining and leaving
+окт 03 01:11:28 &LOCAL           1       SERVER MESSAGES: notices about local connections
+окт 03 01:11:28 &HASH            1       SERVER MESSAGES: hash tables growth
+окт 03 01:11:28 &SERVERS         2       SERVER MESSAGES: servers joining and leaving
+окт 03 01:11:28 &NUMERICS        1       SERVER MESSAGES: numerics received
+окт 03 01:11:28 &CHANNEL         1       SERVER MESSAGES: fake modes
+окт 03 01:11:28 &KILLS           1       SERVER MESSAGES: operator and server kills
+окт 03 01:11:28 &NOTICES         1       SERVER MESSAGES: warnings and notices
+окт 03 01:11:28 &ERRORS          1       SERVER MESSAGES: server errors
+окт 03 01:11:28 *	End of LIST
+окт 03 01:11:28 #mtg             1       
+окт 03 01:11:28 #lotwar          1       
+окт 03 01:11:28 #cccpwar         1       
+окт 03 01:11:28 #sram            1       
+окт 03 01:11:28 #centaurs        1       
+окт 03 01:11:28 #cosmos          1       
+окт 03 01:11:28 #ru              1       
+окт 03 01:11:28 #floods          1       
+окт 03 01:11:28 #yukka           1       
+окт 03 01:11:28 #spbranma        1       
+окт 03 01:11:28 #ranma           1       
+окт 03 01:11:28 #diablo          1        The Diablo game Channel | Friends: #median #elene | Все тут  ==> #diablo3 
+окт 03 01:11:28 #tomebont3       1       
+окт 03 01:11:28 #CnC             1        ][][][][][][= ComManD & ConQueR =][][][][][][ 
+окт 03 01:11:28 #rss.dev         2       
+окт 03 01:11:28 #rss.it          2       
+окт 03 01:11:28 #rss.work        2       
+окт 03 01:11:28 #rss.news        2       
+окт 03 01:11:28 #sed             2       http://helpers.net.ru/wiki/rusnet-faq/specific/utf8
+окт 03 01:11:28 #rendezvous      1       
+окт 03 01:11:28 #make            1       #chaos - наши соседи + на десерт http://s1d6.turboimagehost.com/sp/9ac2d0b518068952cd9d9d5819eb58e6/011.JPG
+окт 03 01:11:28 #idm             1       
+окт 03 01:11:28 #ay              1       zx ay-chip channel
+окт 03 01:11:28 #уруру      1       
+окт 03 01:11:28 #English         1       Do English and have fun. WOTD is bothy. Example sentence: As a perplexed girl I pictured people in sleeping bags on the floors of large public rest rooms, before learning that Pop meant the bothies, shacks with no separate toilet where immigrant Irish laborers stayed.
+окт 03 01:11:28 #ParadiseLost    1       Don't look back on disaster. Ask your questions in time
+окт 03 01:11:28 #ebm             1       
+окт 03 01:11:28 #gothic          1       
+окт 03 01:11:28 #support         1       
+окт 03 01:11:28 *                1       
+окт 03 01:11:28 #sbnc            1       Канал посвящен shroudBNC и всему что с этим бнц связано. Welcome. http://sterkh.name/sbnc/ || http://panel.aghost.biz/aff.php?aff=011
+окт 03 01:11:28 #opers           1       
+окт 03 01:11:28 #dx-swl          1       DX-кластер работает на канале #cqdx !
+окт 03 01:11:28 #botget          2       Канал раздачи бесплатных ботов и выдачи платных. Боты больше не выдаются.
+окт 03 01:11:28 #prostir         1       Поздравляем В. А. Зеленского со вступлением в должность Президента Украины!
+окт 03 01:11:28 #cstrike         1       
+окт 03 01:11:28 +#abuse          3       
+окт 03 01:11:28 #tomck           1       этот крот был выдрой
+окт 03 01:11:28 #car             1       *****В связи со скорой кончиной IRC тестируется канал #car в вацапе. Желающим туда попасть просьба огласить свои номера телефонов.*****
+окт 03 01:11:28 +ISERV           2       
+окт 03 01:11:28 #swift           1       
+окт 03 01:11:28 #xcode           1       
+окт 03 01:11:28 #alt             1       
+окт 03 01:11:28 #apple-ru        1       
+окт 03 01:11:28 #amine           1       
+окт 03 01:11:28 #alt-linux       1       
+окт 03 01:11:28 #altlinux        1       
+окт 03 01:11:28 #...             1       |||||||||Все мы ангелы,но с одним крылом,нужно лишь обняться и полететь... ||||||||http://wi.at.ua/index/0-4
+окт 03 01:11:28 #chaos           1       
+окт 03 01:11:28 #miranda         1       Клиент IM Miranda NG
+окт 03 01:11:28 #Qipish          1       
+окт 03 01:11:28 #zloy_zay        1       
+окт 03 01:11:28 #longhorn        1       
+окт 03 01:11:28 #digiphoto       1       http://www.dpreview.com/reviews/canon-eos-6d/      |        http://www.dpreview.com/previews/nikon-d600/     |     http://www.dpreview.com/news/0380638044/canon-announces-budget-friendly-eos-rebel-t6-1300d
+окт 03 01:11:28 #chelbike        1       
+окт 03 01:11:28 #exo             1       Мемориал города #Ехо
+окт 03 01:11:28 #alizee          1       ЗАКРЫВАЙТЕ ДВЕРЬ!!! ХОДИТ КОТ, МОЖЕТ СЪЕСТЬ ПОПУГАЕВ!!! 
+окт 03 01:11:28 #Obormots        1       Красно-желто-зеленые дети рисуют солнце, рисуют травы, они не знают как надо - поэтому правы.
+окт 03 01:11:28 #z80             2       ////////////  Welcome to Gilbert  ////////////
+окт 03 01:11:28 #btfkl           1       
+окт 03 01:11:28 #haute-ecole     1       
+окт 03 01:11:28 #horses          1       
+окт 03 01:11:28 #vagrant2        1       
+окт 03 01:11:28 #vagrant         1       
+окт 03 01:11:28 #pc-help         1       
+окт 03 01:11:28 #netchat         1       
+окт 03 01:11:28 #friendly        2       Vergiss nicht, dass Du ein Deutscher bist! | Jeder fur sich und Gott gegen alle! | https://www.youtube.com/watch?v=hWtapBIL9Jw
+окт 03 01:11:28 #kovonet.ru      1       
+окт 03 01:11:28 #r.i.p.          1       
+окт 03 01:11:28 #plus            1       
+окт 03 01:11:28 #hostel_7        1       
+окт 03 01:11:28 #vaz_classic     1       
+окт 03 01:11:28 #сессия    1       
+окт 03 01:11:28 #delix           1       
+окт 03 01:11:28 *                3       
+окт 03 01:11:28 #kaluga          1       
+окт 03 01:11:28 #japan           1       
+окт 03 01:11:28 #nihongo         1       
+окт 03 01:11:28 #manga           2       переводим правила по изобретениям из After the End. https://docs.google.com/document/d/1AdsFwlKOpMMtpvE1V2rAHKj5FzL6JeR-pdFBbsJxhhk/edit?usp=sharing
+окт 03 01:11:28 #vesna           1       
+окт 03 01:11:28 #krasnokamsk     1       
+окт 03 01:11:28 #html            1       Здесь никого нет.  Все на #xhtml
+окт 03 01:11:28 #kvsex           1       
+окт 03 01:11:28 #abuse+          2       
+окт 03 01:11:28 #3.141592653589793238462643383279502884197 1       Общество анонимных математиков (use /quit codepage cp1251 or port 6669)
+окт 03 01:11:28 #neutral_area    3       Нейтральная территория
+окт 03 01:11:28 #pda             2       
+окт 03 01:11:28 #minecraft       1       Вначале был камень, и камень был у Нотча... играем сайт и реалм  MCRAFT.CF (song https://www.youtube.com/watch?v=RBbYOEgXD1k )
+окт 03 01:11:28 #console_games   1       
+окт 03 01:11:28 #gtnr            1       
+окт 03 01:11:28 #rails           1       rails and ruby
+окт 03 01:11:28 #Крым        2       ВОПРОС ДНЯ: Если украина поставила пограничные посты на въезде в Крым - значит украина признает Крым Российским ? А если не признает - зачем тогда нужны погран.посты ?;)
+окт 03 01:11:28 #somadhy         2       
+окт 03 01:11:28 #anarchia        3       Metal anal
+окт 03 01:11:28 #line_age2       3       Ugnova suxxxxxxx
+окт 03 01:11:28 #internet        1       
+окт 03 01:11:28 #xatka           1       
+окт 03 01:11:28 #irkutsk         2       Irkutsk
+окт 03 01:11:28 #pubg            1       PlayerUnknown's Battlegrounds
+окт 03 01:11:28 *                1       
+окт 03 01:11:28 #russian-tormoz  1       Общество военной травмы
+окт 03 01:11:28 #lurknews        3       
+окт 03 01:11:28 #freebsd.talks   1       
+окт 03 01:11:28 #OnlineBible     1       Канал поддержки русскоязычных пользователей Библии Он-Лайн <http://onlinebible.github.io/olb.html>
+окт 03 01:11:28 #orenlinux       1       
+окт 03 01:11:28 #bf-front        1       
+окт 03 01:11:28 #bf1942          1       Все на #BattlefieldTsk
+окт 03 01:11:28 #bfvietnam       1       Все на #BattlefieldTsk
+окт 03 01:11:28 #ofptomsk        1       Все на #BattlefieldTsk
+окт 03 01:11:28 #armatomsk       1       Все на #BattlefieldTsk
+окт 03 01:11:28 #bfbc2_tomsk     1       Все на #BattlefieldTsk
+окт 03 01:11:28 #bf2142.tomsk    1       Все на #BattlefieldTsk
+окт 03 01:11:28 #seversk         1       
+окт 03 01:11:28 #tomica          1       
+окт 03 01:11:28 #f1-tomsk        1       
+окт 03 01:11:28 #artfield        1       
+окт 03 01:11:28 #amiga           1       
+окт 03 01:11:28 #nts             1       http://www.nts.su/pages/mobilnoe-prilojenie | http://www.nts.su/pages/iptv
+окт 03 01:11:28 #msf_tpu         2       
+окт 03 01:11:28 #tashtagol       1       
+окт 03 01:11:28 #GAD             1       
+окт 03 01:11:28 #satan           1       `%%,`%%,`%%,`%%  Мы сидим на http://coma.su и в Телеграмм https://t.me/joinchat/CzUlKQ3UN_PtoySLneXdhA `%%`%%`%%,`%%,
+окт 03 01:11:28 #Sanek508        3       
+окт 03 01:11:28 #ixx             2       Заходите на канал #Sanek508 и на сайт http://Sanek508.net
+окт 03 01:11:28 #padonki         2       'CheG рваный защеканец в жопу трахнутый поганец, друг его peet-bull_ хуила, пидорас,хуёв дрочила, криворотый вафлежуй, посасут вам нежно хуй. руснет вам не гейпарад. банан вам вжопу'
+окт 03 01:11:28 #samara          2       (С) (А) (М) (А) (Р) (А)
+окт 03 01:11:28 #space           2       '(К) (О) (С) (М) (О) (С)   НЛО и всё научное Маленькая коллекция сайтов и избранное нашего #space канала: .calclist и .calc <ключ_слово> '
+окт 03 01:11:28 #dgrad           3       [[|(|)|]] <<< Димитровград >>> [[|(|)|]] Новичкам совет, посидеть тут: http://www.rusnet.org.ru/rules.html
+окт 03 01:11:28 #dimitrovgrad    3       %% %% %% Необразованные люди не отвечают, и не могут ответить, за свои высказывания и поступки. Они жертвы культуры и агрессивны даже к себе подобным. %% %
+окт 03 01:11:28 #dnd-nsk         1       
+окт 03 01:11:28 #bf2             1       Канал БФ-сообщества Томск и России!
+окт 03 01:11:28 #06.06.09        1       Баня - как много в этом звуке!
+окт 03 01:11:28 #moecho          1       
+окт 03 01:11:28 #dominet         1       
+окт 03 01:11:28 #academ          1       
+окт 03 01:11:28 #Filya           1       
+окт 03 01:11:28 #antiopenair     3       
+окт 03 01:11:28 #sova            1       Канал для обсуждения вопросов, связанных с проектом СОВА в ПАО "Ростелеком"
+окт 03 01:11:28 #sibset          1       Чтобы помнили
+окт 03 01:11:28 #pulsefm         1       Чтобы помнили
+окт 03 01:11:28 #211fm           1       Чтобы помнили
+окт 03 01:11:28 #dars-ip         1       
+окт 03 01:11:28 #philosophy_of_cucumber 1       
+окт 03 01:11:28 #dsv             1       
+окт 03 01:11:28 #xakep           2       
+окт 03 01:11:28 #777             1       
+окт 03 01:11:28 #photo           1       
+окт 03 01:11:28 #kraftwerk       1       "Немецкий культовый музыкальный коллектив из Дюссельдорфа, внёсший заметный вклад в развитие электронной музыки. http://www.youtube.com/watch?v=KQ_grfKZGtY"
+окт 03 01:11:28 #cranberries     2       
+окт 03 01:11:28 #agmc            1       
+окт 03 01:11:28 #adminchan       2       Канал для администрации каналов begin_end. [ #100%_любви_и_знакомства!!!! #CodersZone #coding #DX-SWL #helnet ]
+окт 03 01:11:28 #music           2       
+окт 03 01:11:28 #укроп      1       -
+окт 03 01:11:28 #hosting         1       
+окт 03 01:11:28 #kurgan-telecom  1       
+окт 03 01:11:28 #home-co-ltd     1       
+окт 03 01:11:28 #partytalks-2    1       
+окт 03 01:11:28 #kurgan          1       
+окт 03 01:11:28 #godville        2       Официальный канал технической поддержки Годвилля || http://godville.info/519/main.html || /quote codepage cp1251 || !list !log || ПРИДУМЫВАЕМ ТРОФЕЙ, БЛЖАД 
+окт 03 01:11:28 #putin           1       
+окт 03 01:11:28 #linuxportal.ru  1       
+окт 03 01:11:28 #цыгель    1       шо
+окт 03 01:11:28 #vat4            2       
+окт 03 01:11:28 #lords_avalon    1       
+окт 03 01:11:28 #test_bot        1       
+окт 03 01:11:28 #ada             1       
+окт 03 01:11:28 #fights          1       | [Current Auction: ElectricMod]
+окт 03 01:11:28 #fallout         1       
+окт 03 01:11:28 #dump            1       ЕСТЬ КТО ЖЫВОЙ? || НЕД || иногда
+окт 03 01:11:28 #d2-nsk          1       
+окт 03 01:11:28 #Some-channel    1       Какой-то канал Хто здесь?
+окт 03 01:11:28 #Diablo_2        1       Добро пожаловать
+окт 03 01:11:28 #marine          1       
+окт 03 01:11:28 #beetroot        1       
+окт 03 01:11:28 #ministerstvo    1       
+окт 03 01:11:28 #html5           1       
+окт 03 01:11:28 #eveodessa       1       http://www.eveonline.com/odyssey
+окт 03 01:11:28 #c++             1       
+окт 03 01:11:28 #buktopuha       3       
+окт 03 01:11:28 #megasecurity    1       
+окт 03 01:11:28 #solarisflame    1       
+окт 03 01:11:28 #кислыйпонос 1       
+окт 03 01:11:28 #fightworld      1       
+окт 03 01:11:28 #arena           1       :D
+окт 03 01:11:28 #LunarBNC        1       
+окт 03 01:11:28 #sekta           3       свидетелей Яркко Ойкаринена
+окт 03 01:11:28 #satanism        3       Samhein. || Ave Satanas.
+окт 03 01:11:28 +79129745619     1       
+окт 03 01:11:28 #ur-test-bot     1       
+окт 03 01:11:28 *                1       
+окт 03 01:11:28 #intrice         2       obsolete
+окт 03 01:11:28 #paintball       1       channel dies
+окт 03 01:11:28 #cyberpunk       1       
+окт 03 01:11:28 #flightsim       1       
+окт 03 01:11:28 #vitz            2       
+окт 03 01:11:28 #Riddles         3       
+окт 03 01:11:28 #roulette        3       
+окт 03 01:11:28 #fight           3       Интерактивная ONLINE ИГРА <<<БОЙЦОВСКИЙ КЛУБ>>> Приглашаем также поиграть в <<<MUD>>> (Multi-User Dungeon). Пишем: /join #mudgame 
+окт 03 01:11:28 #labyrinth       3       Интерактивная многопользовательская <<<ИГРА>>> ЛАБИРИНТ. Поиграйте также в: /join #mudgame 
+окт 03 01:11:28 #ponimanie       3       
+окт 03 01:11:28 #newsman         2       
+окт 03 01:11:28 #lpr             2       Закон для всех, справедливость для некоторых!
+окт 03 01:11:28 #метрополия 1       
+окт 03 01:11:28 #strategy_games  1       http://zenrus.ru/
+окт 03 01:11:28 #kunaki          1       
+окт 03 01:11:28 #karbowanez      1       
+окт 03 01:11:28 #tavria          1       
+окт 03 01:11:28 #ПоСТ        1       
+окт 03 01:11:28 #IV74            1       
+окт 03 01:11:28 #umnepia         1       
+окт 03 01:11:28 #unp             1       
+окт 03 01:11:28 #airgun-kemerovo 1       
+окт 03 01:11:28 #187             1       Установка на красный гетц
+окт 03 01:11:28 #freetommy       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:28 #resist.se       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:28 #pravchat        1       : "По тому узнают все, что вы Мои ученики, если будете иметь любовь между собою." Ин 13:35 | Кодекс ПравЧата: https://pravchat.dreamwidth.org/298.html
+окт 03 01:11:28 #testik          1       
+окт 03 01:11:28 #alcobike        1       
+окт 03 01:11:28 #esoteric        1       
+окт 03 01:11:28 #cooper          1       
+окт 03 01:11:28 #kerch           1       Official Town webpage -> http://www.kerchrada.gov.ua
+окт 03 01:11:28 #dnz             2       
+окт 03 01:11:28 #переговорный 1       
+окт 03 01:11:28 #темный_уголок 1       
+окт 03 01:11:28 #qnx             2       QNX это: VISA, Atomic Energy of Canada Ltd., Open Architecture Distributed Control System, Cisco Systems & QNX Neutrino & IOS XR, BMW, Chrysler, Ford, General Motors, Toyota, Volkswagen, Робот bigdog, Разводной Троицкий мост, Система управления северными магистральными нефтепроводами, Сириус-QNX, Пульт космонавтов Нептун-МЭ, Octavo и многое другое.
+окт 03 01:11:28 #NeuroMusic      2       '|||||||||(N) (e) (u) (r) (o) (M) (u) (s) (i) (c)|||||||||Набери: .calc радио'
+окт 03 01:11:28 #notes           2       
+окт 03 01:11:29 #фсб          1       
+окт 03 01:11:29 #farpost         2       "Канал фарпост!"
+окт 03 01:11:29 #fsb             2       
+окт 03 01:11:29 #hacking         2       
+окт 03 01:11:29 #Mylene          2       
+окт 03 01:11:29 #vb              2       Р - 40 18:25 /// П - 003а 4:29 \\\ Expires: 28.10.2017 11:29:00 GMT \\\ DD125
+окт 03 01:11:29 #network         1       
+окт 03 01:11:29 #ror             1       
+окт 03 01:11:29 #general         1       
+окт 03 01:11:29 #noxious         1       http://noxiousofficial.com/med.jpg | Black Metal ist Krieg! | http://noxiousofficial.com
+окт 03 01:11:29 #usa             1       
+окт 03 01:11:29 #hostin          1       
+окт 03 01:11:29 #botnet.icf.org.ru 1       
+окт 03 01:11:29 #nixhelp         1       
+окт 03 01:11:29 #unix.talks      1       HB 2 GHhost...мурр!!!
+окт 03 01:11:29 #init            2       SUCCESS
+окт 03 01:11:29 #ruslinux        1       
+окт 03 01:11:29 #cyber           1       
+окт 03 01:11:29 #utr             1       
+окт 03 01:11:29 #erotic          1       
+окт 03 01:11:29 #mug             1       Moscow Unix Group | Linux/Unix || #nix'овка 13-го июня в МСК, просьба не планировать ничего на этот день 
+окт 03 01:11:29 #lfs             1       
+окт 03 01:11:29 #komy_3a_30      2       Баррель мне в танкер, да я же шедевр!
+окт 03 01:11:29 #n/o/rcalwat     1       
+окт 03 01:11:29 #some_channel    1       
+окт 03 01:11:29 #toyota          2       http://s00.yaplakal.com/pics/pics_original/7/9/4/6441497.jpg
+окт 03 01:11:29 #fleur           2       
+окт 03 01:11:29 #truedowngrade   1       
+окт 03 01:11:29 #Umka            2       
+окт 03 01:11:29 #trem            2       Urban Terror & Tremulous & WarSow game in Tomsk | http://tf.tomline.ru http://trem.opentomsk.net/ut/ http://trem.opentomsk.net/ http://trem.opentomsk.net/wsw
+окт 03 01:11:29 #banzai          1       
+окт 03 01:11:29 #ham             2       
+окт 03 01:11:29 #Россия    5       
+окт 03 01:11:29 #/rf/            2       
+окт 03 01:11:29 #dos             2       
+окт 03 01:11:29 #уютный_уголок 3       
+окт 03 01:11:29 #gordon          3       
+окт 03 01:11:29 #brony           2       
+окт 03 01:11:29 #vik_lm          3       
+окт 03 01:11:29 #apple           4       
+окт 03 01:11:29 #maidan          4       
+окт 03 01:11:29 #minsk           3       
+окт 03 01:11:29 #metal           2       
+окт 03 01:11:29 #aureon          9       
+окт 03 01:11:29 #rpg             1       
+окт 03 01:11:29 #partytalks      4       
+окт 03 01:11:29 #sw_kiev         2       
+окт 03 01:11:29 #zoo             1       
+окт 03 01:11:29 #teama_fpo       2       
+окт 03 01:11:29 #mikrotik        5       
+окт 03 01:11:29 #day-radio       1       
+окт 03 01:11:29 #urBydloCoding   2       
+окт 03 01:11:29 #bsdportal       2       
+окт 03 01:11:29 #geocaching      1       
+окт 03 01:11:29 #e-money         1       
+окт 03 01:11:29 #alexeco         2       #alexeco : - Off sites  alexeco.name
+окт 03 01:11:29 #francais        1       
+окт 03 01:11:29 #ulcamp          1       ULCAMP https://ulcamp.ru
+окт 03 01:11:29 #quiz            3       
+окт 03 01:11:29 #hides           1       Добро пожаловать!
+окт 03 01:11:29 #helpR           1       
+окт 03 01:11:29 #felineyiff      1       
+окт 03 01:11:29 #pawsru          1       
+окт 03 01:11:29 #cellular        1       
+окт 03 01:11:29 #/fg/            1       
+окт 03 01:11:29 #Vodka           1       2003-20XX RIP TC-EXE Алкоголизм для дураков, а мы отрываемся и отдыхаем!
+окт 03 01:11:29 #sosnovoborsk    1       WWW.SOSNOVOBORSK.SU :: Sosnovoborsk IRC channel :: //msg Spoofing Hello!
+окт 03 01:11:29 #kastaneda       1       [Bunker news] Upgrade to Debian 10, finally
+окт 03 01:11:29 #Tyumen          2       Время умирать
+окт 03 01:11:29 #bo              1       
+окт 03 01:11:29 #otvet           1       
+окт 03 01:11:29 *                3       
+окт 03 01:11:29 #rust            2       
+окт 03 01:11:29 #lua             2       Lua is a powerful, fast, lightweight, embeddable scripting language
+окт 03 01:11:29 #anta_baka       3        %%%%%% == ХАЙ-ХАЙ == %%%%%% 
+окт 03 01:11:29 #broccoli        2       http://zoome.jp/galaxyangel/ :E~ | <Xzaws> Тэ о Аряйо~ | missiles for free!!
+окт 03 01:11:29 #sailor_baka     3       rezervaciya dlya obdelennyh milost'yu Tsubatsu. построй свой звездолет, с маджонгом и девочками-волшебницами!
+окт 03 01:11:29 #asplinux        1       должен остаться только один | +1 | сегодня в 15:17 я остался один - win! (c) xor
+окт 03 01:11:29 #irssi           1       
+окт 03 01:11:29 #/b/             3       
+окт 03 01:11:29 #poring          5       
+окт 03 01:11:29 *                6       
+окт 03 01:11:29 #delphi          4       
+окт 03 01:11:29 #palatka         2       Посидели просто замечательно!
+окт 03 01:11:29 #torrents        3       
+окт 03 01:11:29 #rcl             2       
+окт 03 01:11:29 #mysql           3       
+окт 03 01:11:29 +                4       
+окт 03 01:11:29 #ufa             2       
+окт 03 01:11:29 #films           7       
+окт 03 01:11:29 #112             3       
+окт 03 01:11:29 #4747            2       
+окт 03 01:11:29 #koumakan        3       
+окт 03 01:11:29 #mvc             2       все ушли в Telegram :)
+окт 03 01:11:29 #vim             2       
+окт 03 01:11:29 #scala           1       
+окт 03 01:11:29 #sailormoon      4       
+окт 03 01:11:29 #tobolsk         4       
+окт 03 01:11:29 #doom2           4       
+окт 03 01:11:29 #32bit           2       
+окт 03 01:11:29 #NoMercy         1       .
+окт 03 01:11:29 #tsure           1       Taganrog Institute of Technology Southern Federal | Почтовый сервис: https://mail.tti.su/
+окт 03 01:11:29 #nazak           2       
+окт 03 01:11:29 #animesib        5       
+окт 03 01:11:29 #хуй          2       
+окт 03 01:11:29 #DDoS            2       ???? лорды милорды хуиные ваши морды ????
+окт 03 01:11:29 #bylins          1       муд былины
+окт 03 01:11:29 #???             1       
+окт 03 01:11:29 #???????         1       
+окт 03 01:11:29 #ur-l4d          1       
+окт 03 01:11:29 #c2h5(oh)        1       
+окт 03 01:11:29 #TTR-Releases    1       
+окт 03 01:11:29 #Elwar           3       
+окт 03 01:11:29 #ttr             1       
+окт 03 01:11:29 #torrents.tomsk.ru 2       Канал имени 'Первый Томский Торрент: TORRENTS.TOMSK.RU' [2006-02 - 2007-01]
+окт 03 01:11:29 #otaku-kh        1       
+окт 03 01:11:29 #vaping          1       
+окт 03 01:11:29 #macos           1       
+окт 03 01:11:29 #та3           1       
+окт 03 01:11:29 #distributed     1       
+окт 03 01:11:29 #velo.kiev       1       
+окт 03 01:11:29 #dorms           3       
+окт 03 01:11:29 #egghelp         1       
+окт 03 01:11:29 #psybnc          1       
+окт 03 01:11:29 #wow             1       
+окт 03 01:11:29 #tea             3       
+окт 03 01:11:29 #komi            2       Коми Республикаса irc-канал // http://www.rkomi.ru/gosud/simvol/index.phtml // http://www.komi.com/folk/myth/46.htm
+окт 03 01:11:29 #syktyvkar       2       'Виджа оланныд, донна йортьяс! Пыр локта да шуан став выльторьяс :) // http://kominarod.narod.ru/romposht/romposht.htm - Коми язык для взрослых
+окт 03 01:11:29 #metal.tomsk.ru  2       
+окт 03 01:11:29 #>>phoenix<<     1       
+окт 03 01:11:29 #zero            1       
+окт 03 01:11:29 #true            1       
+окт 03 01:11:29 #damage          2       pvt chan
+окт 03 01:11:29 #kuvalda         1       
+окт 03 01:11:29 #vkontakte       1       
+окт 03 01:11:29 #moonclub        1       
+окт 03 01:11:29 #xppop           2       http://ikle.ru/irc/xppop.html | Бывший канал попапов 14-15-16, popup is dead.
+окт 03 01:11:29 #ghl             1       
+окт 03 01:11:29 #glazov          1       
+окт 03 01:11:29 #lasher          1       
+окт 03 01:11:29 #shell           2       Продаются шеллы для ботов и бнц. Пишите в приват к в_танке и Trusty
+окт 03 01:11:29 #forex           4       Вот и начались трейдоебобудни...трейдуны к станку!
+окт 03 01:11:29 #stvr            2       
+окт 03 01:11:29 #cops            4       Угля, поздравля!
+окт 03 01:11:29 #antigop         1       
+окт 03 01:11:29 *                1       
+окт 03 01:11:29 #gmo             1       
+окт 03 01:11:29 #chelyabinsk     5       День надутых губ и запрокидывания головы
+окт 03 01:11:29 #mafia           5       
+окт 03 01:11:29 #j2me            6       
+окт 03 01:11:29 *                5       
+окт 03 01:11:29 #mafops          2       
+окт 03 01:11:29 #emule           4       
+окт 03 01:11:29 #sharp           1       
+окт 03 01:11:29 #humor           1        :: АНЕКДОТЫ :: BASH.ORG :: ФРАЗЫ -> [:]||||||||[:] из интернета каждые  5  минут!  :: 
+окт 03 01:11:29 #weird           1       "Я боюсь, что ты не достигнешь Мекки, о Номад, ведь дорога, которой ты идешь, ведет в Туркестан..." :: Societe anonyme d.hippophage ::  Команды бота: !help 
+окт 03 01:11:29 #Kosiak          1       
+окт 03 01:11:29 #bwc             1       Каналу 12 лет! | http://baikalwest.com
+окт 03 01:11:29 #Russian_zone    1       
+окт 03 01:11:29 #fluro           4       
+окт 03 01:11:29 #x1zer           2       
+окт 03 01:11:29 #sch_81          2       
+окт 03 01:11:29 #arda            2       Arda MUD | http://arda.pp.ru/
+окт 03 01:11:29 #hvmud           2       Hiervard MUD || http://hiervard.ru/
+окт 03 01:11:29 #neonnet         2       !list !log | NeonNet заморожено. NEON2 IP 2:463/877 набирает поинтов и линков в FidoNet. http://ncc.org.ua| http://ncc.org.ua/irc.php
+окт 03 01:11:29 #ragnarokonline  1       я хз || я могу поднять люми || тебе какой?
+окт 03 01:11:29 #cdrr            1       
+окт 03 01:11:29 #iichan          2       
+окт 03 01:11:29 #allex           2       
+окт 03 01:11:29 #gota            2       
+окт 03 01:11:29 #durdom          29      #БеляйпозвониЕвгении| Статистика и логи https://durdom.su | Правила http://bit.ly/_durdom ( ЧС - https://pastebin.com/ixKTYwhY )
+окт 03 01:11:29 #ulnet           2       В финском языке есть слово kalsarik?nnit [калсарикяннит], что в переводе значит <<выпивать дома в нижнем белье, не планируя никуда выходить>>. Хорошее слово.
+окт 03 01:11:29 #wintalk         1       
+окт 03 01:11:29 #irchelp         2       
+окт 03 01:11:29 #fiona           1       Закрытых дверей не бывает. Бывает недостаточно громкое Мяууу...
+окт 03 01:11:29 #ongoing         1       
+окт 03 01:11:29 #unequal         1       
+окт 03 01:11:29 #neotelecom      1       
+окт 03 01:11:29 #dnd_dnd         1       
+окт 03 01:11:29 #twidh           1       
+окт 03 01:11:29 #TeamB           1       
+окт 03 01:11:29 #mez_dh          1       
+окт 03 01:11:29 #ur_dh           1       
+окт 03 01:11:29 #cot             1       
+окт 03 01:11:29 #heresy          1       
+окт 03 01:11:29 #dnd_fpo         1       
+окт 03 01:11:29 #echoirlp        1       
+окт 03 01:11:29 #logchan         1       
+окт 03 01:11:29 #ndw             5       
+окт 03 01:11:29 #dwrpg           3       
+окт 03 01:11:29 #dwstaff         1       
+окт 03 01:11:29 #tweak           1       
+окт 03 01:11:29 #odessit         1       
+окт 03 01:11:29 #d_n_s           1       
+окт 03 01:11:29 #Sydiva          1       
+окт 03 01:11:29 #Dogs            3       
+окт 03 01:11:29 #b_p             3       
+окт 03 01:11:29 #matrix-inet     1       
+окт 03 01:11:29 #victorinka      1       
+окт 03 01:11:29 #exclusive       1       
+окт 03 01:11:29 #onmu            1       
+окт 03 01:11:29 #мр            1       
+окт 03 01:11:29 #temka           2       
+окт 03 01:11:29 #anarxi.st       1       
+окт 03 01:11:29 #дураки    1       
+окт 03 01:11:29 #sandtable       1       
+окт 03 01:11:29 #last.fm         1       
+окт 03 01:11:29 #buy_sell        2       
+окт 03 01:11:29 #lhvr            1       
+окт 03 01:11:29 #madonna         1       
+окт 03 01:11:29 #inf             1       
+окт 03 01:11:29 #animemagazine   1       
+окт 03 01:11:29 #anibel          1       
+окт 03 01:11:29 #aries           1       
+окт 03 01:11:29 #dofus           1       
+окт 03 01:11:29 #privoz          1       
+окт 03 01:11:29 #chtd            1       
+окт 03 01:11:29 #unix            3       expired
+окт 03 01:11:29 #lrn             1       
+окт 03 01:11:29 #flood           2       
+окт 03 01:11:29 #pikabu.ru       1       
+окт 03 01:11:29 *                6       
+окт 03 01:11:29 #kvirc           2       The official channel of KVIrc-client in RusNet. // Официальный канал клиента KVIrc в RusNet. http://www.kvirc.ru Скрипты: http://www.kvirc.ru/forum/board,12.0 // Хранилище скриптов: http://www.kvirc.info // FAQ: http://vk.cc/N8wTC 
+окт 03 01:11:29 #ЛУНАПАРК 9       
+окт 03 01:11:29 #geopolitics     3       
+окт 03 01:11:29 #TVR             1       
+окт 03 01:11:29 #mmtsr           1       
+окт 03 01:11:29 #vtomske.ru      1       
+окт 03 01:11:29 #redwix          1       
+окт 03 01:11:29 #jacaranda       1       
+окт 03 01:11:29 #src             2       
+окт 03 01:11:29 #tycyp           3       
+окт 03 01:11:29 #dirty.ru        2       
+окт 03 01:11:29 #mudgame         3        'Интерактивная многопользовательская IRC-ИГРА <<<MUD>>> (Multi-User Dungeon). Помощь по игре: !помощь, помощь, help, !help.
+окт 03 01:11:29 #victeam         1       |||||| #VicTeam ||||||| Командная викторина.  Играйте с удовольствием ! Помощь по командам !хелп (викторина) и !ахелп (анаграмма)
+окт 03 01:11:29 #фпесду    1       
+окт 03 01:11:29 #0бщага     1       
+окт 03 01:11:29 #Love&Sex        1       
+окт 03 01:11:29 #clan.war        1       
+окт 03 01:11:29 #cs              1       
+окт 03 01:11:29 #gamezone        1       
+окт 03 01:11:29 #pro.cs          1       
+окт 03 01:11:29 #cs.nettown      1       
+окт 03 01:11:29 #cstrike.tomsk   1       
+окт 03 01:11:29 #rasta.team      1       
+окт 03 01:11:29 #cs.shariki      1       
+окт 03 01:11:29 #tomgame         1       
+окт 03 01:11:29 #cs.seversk      1       
+окт 03 01:11:29 #cs_rubilovo     1       
+окт 03 01:11:29 #St-InGame       1       
+окт 03 01:11:29 #19Inches        1       
+окт 03 01:11:29 #cs.DABIGI       1       
+окт 03 01:11:29 #meatwars        1       
+окт 03 01:11:29 #cs.lazonet      1       
+окт 03 01:11:29 #cs.admins       1       
+окт 03 01:11:29 #cs-sibgame      1       
+окт 03 01:11:29 #CS.Tomtel       1       
+окт 03 01:11:29 #cs.arielnet     1       
+окт 03 01:11:29 #cs.19d          1       
+окт 03 01:11:29 #freebnc         1       
+окт 03 01:11:29 #antichat        3       https://forum.antichat.ru | off chan
+окт 03 01:11:29 #chem.by         1       
+окт 03 01:11:29 #rss             1       Канал для трансляции RSS с ИТ ресурсов (Habrahabr, SecurityLab, Xaker, Antichat, IRCRusNet и иные). Свежие новости с сайтов каждые несколько минут.
+окт 03 01:11:29 #shilka          1       
+окт 03 01:11:29 #byaks           1       
+окт 03 01:11:29 #wikireality     3       
+окт 03 01:11:29 #comedy          2       
+окт 03 01:11:29 #RusNet          2       
+окт 03 01:11:29 #iRC             1       
+окт 03 01:11:29 #sebastopol      1       
+окт 03 01:11:29 #Оймякон  1       
+окт 03 01:11:29 #css             2       .\0 {content: "<![CDATA["} .topic::after {content: "Это канал про Cascading Style Sheets"} .\0 {content: "]]>"}
+окт 03 01:11:29 #openair         2       
+окт 03 01:11:29 #politics-open   5       
+окт 03 01:11:29 #golang          4       GO language | golanger.xyz - там пока что ничего |
+окт 03 01:11:29 #16bits          4       
+окт 03 01:11:29 #blender         5       Blender 2.80 http://download.blender.org/release/Blender2.80/ | https://www.youtube.com/user/BlenderFoundation/videos | логи чата: http://h01.akhil.ru/rusnet/%23blender/?C=N;O=D
+окт 03 01:11:29 *                6       
+окт 03 01:11:29 #vladee          3       
+окт 03 01:11:29 #makelove        2       
+окт 03 01:11:29 #cvs_mirc        2       
+окт 03 01:11:29 #tomsknews       2       
+окт 03 01:11:29 #kuban           3       Кубань - это весь Краснодарский Край включая Красноярск, Минусинск, Томск, Севастополь, Сосновоборск, Новосибирск, Североуральск, Одесса, Верхняя Савоя, Подмосковье и др. 
+окт 03 01:11:29 #4pda            2       
+окт 03 01:11:29 #University      3       (В)(И)(К)(Т)(О)(Р)(И)(Н)(А) + addons. Лидеры дня 01.10.2019: 1. Taxa (54).
+окт 03 01:11:29 #Kaliningrad     2       
+окт 03 01:11:29 #lore            1       
+окт 03 01:11:29 #soft            3       Правила канала: http://www.rus-net.org/forum/index.php?showtopic=3791
+окт 03 01:11:29 #mirc-scripts    3       
+окт 03 01:11:29 #Holomi          2       
+окт 03 01:11:29 #Philology       3       Канал любителей грамотной речи. Мы знаем, что ЧК и ЧН пишутся без мягкого знака. Мы знаем, что мну -- от глагола мять, а не от местоимения меня. Но главное -- мы применяем свои знания! Знания можно черпать из http://gramota.ru
+окт 03 01:11:29 #irc.seb.org.ua  10      +bnc |Хосты: +bvhosts или http://irc.seb.org.ua/ | Connect: irc.seb.org.ua:4444 (4443, 1111) (SSL:4343) | Аккаунты более не удаляются
+окт 03 01:11:29 #tfug            4       
+окт 03 01:11:29 #elene           8       
+окт 03 01:11:29 #enigma          5       **..***.. Викторина.. .. ..      .: http://tt.erinome.net/cc/quiz :.       Лучший игрок дня: SmallCat  Делаем ставки в аукционах, супериграх, рандом-вопросах. 
+окт 03 01:11:29 #opensuse        5       openSUSE Linux channel | openSUSE Leap 15.1 RELEASED | Ресурсы: !calclist !calc [название] | Новости: !opensuse (starlfur)
+окт 03 01:11:29 #odessa          22      Людской цивилизации тотальный демонтаж.
+окт 03 01:11:29 #100%_любви_и_знакомства!!!! 9       Канал хорошего и доброго общения
+окт 03 01:11:29 #philosophy      18      
+окт 03 01:11:29 #asm             2       https://www.youtube.com/watch?v=ALBgsXOq11o => https://github.com/nanochess/Invaders/blob/master/invaders.asm
+окт 03 01:11:29 #astral          4       Уютный астральчик :3
+окт 03 01:11:29 #cqdx            3       DX CLUSTER RETRANSLATOR | HAMRADIO
+окт 03 01:11:29 #nikolaev        3       HB2U, HiX!!! /v0lant, вых
+окт 03 01:11:29 #nsu             2       
+окт 03 01:11:29 #500             1       рябчек-
+окт 03 01:11:29 #haskell         1       
+окт 03 01:11:29 #vrn             1       
+окт 03 01:11:29 #Hack-Academy    3       Поуков! - требуют наши сердца. Поуков - требуют наши глаза. Поуки - в пульсации вен. Мыждем-Поуков! :)|ыгыгы /только илитных, прочеканых/
+окт 03 01:11:29 #derp            1       
+окт 03 01:11:29 #avia            7       
+окт 03 01:11:29 #kvidex          1       
+окт 03 01:11:29 #yoga            3       
+окт 03 01:11:29 *                3       
+окт 03 01:11:29 #vita            5       
+окт 03 01:11:29 *                27      
+окт 03 01:11:29 #taganrog        2       
+окт 03 01:11:29 #coding          18      Канал для бесед о программировании. БНЦ (BNC) (coderszone.net:6589) Закрыто.
+окт 03 01:11:29 #subword         15      
+окт 03 01:11:29 #victorina       4       
+окт 03 01:11:29 #announces       13      
+окт 03 01:11:29 #DarkCrystal     5       МКС / ISS
+окт 03 01:11:29 #science         16      Наука
+окт 03 01:11:29 #crimea          12      Крим
+окт 03 01:11:29 #castaneda       16      люби то, что не любит ОНО
+окт 03 01:11:29 #bash            2       
+окт 03 01:11:29 #dirty           9       мы покакунькали
+окт 03 01:11:29 #oracle          1       
+окт 03 01:11:29 #eggdrop         29      
+окт 03 01:11:29 #komy_3a_25      9       Лучше ездить каждый день на велосипеде на пляж, чем на Мерседесе на работу.
+окт 03 01:11:29 #habrahabr       27      Канал хабры в интернетах.|| flood, оффтопик и прочий спам не приветствуется.
+окт 03 01:11:29 #funchat         2       
+окт 03 01:11:29 #Dom_u_Mosta     1       
+окт 03 01:11:29 #Bunba           1       
+окт 03 01:11:29 #feaell          1       
+окт 03 01:11:29 #netrunners      1       
+окт 03 01:11:29 #anime-nihongo   1       
+окт 03 01:11:29 #frei            1       
+окт 03 01:11:29 #wesna           1       
+окт 03 01:11:29 #sm              1       
+окт 03 01:11:29 #idle            2       
+окт 03 01:11:29 #$               1       
+окт 03 01:11:29 #primorye        2       
+окт 03 01:11:29 #stormrage       6       
+окт 03 01:11:29 #!               2       Портал - /dev/null Здесь живут культурные и интеллигентные люди! | Список ников удаленного канала: !cnlist | Информация: http://null.a-ec.name/
+окт 03 01:11:29 #punk.lug        3       RIP Dennis M. Ritchie | ПУНК LUG | http://ikle.ru/irc/punk-lug.html | If you can't  explain it simply, you don't understand it well enough. (c) Al. Ei.
+окт 03 01:11:29 #freebot         10      
+окт 03 01:11:29 #magi            28      Канал свободы, бан только за неукратимый флуд. Маги в телеге: https://t.me/magi_ru
+окт 03 01:11:29 #windrop         6       
+окт 03 01:11:29 #magnit          2       `%%,`%%,`%%,`%%'`% Лучше спортивная фигура чем спортивное лицо %`%%,`%%'`%%,`%%,
+окт 03 01:11:29 #love            6       
+окт 03 01:11:29 #adultlion       2       
+окт 03 01:11:29 #mlp             4       Канал про малогабаритных непарнокопытных
+окт 03 01:11:29 *                2       
+окт 03 01:11:29 #openarena       4       
+окт 03 01:11:29 #krasnoyarsk     2       
+окт 03 01:11:29 #politics_open   25      <MoHaX> вертухаи - это зеки.
+окт 03 01:11:29 #позитивчик 8       
+окт 03 01:11:29 #центральный 19      Ксения Собчак будет вести шоу <<Пусть Говорят>> на Первом канале. А вы говорили, что она ничего не добьётся на президентских выборах!
+окт 03 01:11:29 #politics        48      Управляющий колонией Путин поздравил российских евреев с иудейским Новым годом.  | Игровой канал #subword
+окт 03 01:11:29 #piter           13      С Днём Семьи, Любви и Верности
+окт 03 01:11:29 #fido            9       
+окт 03 01:11:29 #hamradio        16      Radio Amateurs Community
+окт 03 01:11:29 #tomtel          4       
+окт 03 01:11:29 #android         7       
+окт 03 01:11:29 #overclockers.ru 7       
+окт 03 01:11:29 #russia+30       14      
+окт 03 01:11:29 #webdev          13      Веб-разработчики - общайтесь! links: [ http://rusnet-webdev.surge.sh , http://www.opennet.ru/mp/web , http://codeguide.co , http://www.cheat-sheets.org ] , rules: http://goo.gl/sXAIJ , books: http://goo.gl/SJc4o4 , web: https://webdev.a-ec.name  
+окт 03 01:11:29 #Help            36      
+окт 03 01:11:29 #python          10      Python 2.7.15, Python 3.7.3
+окт 03 01:11:29 #orthodoxy       4       Православный чат
+окт 03 01:11:29 #ortho-it        7       Мы переехали в Telegram заходите по ссылке https://t.me/ortho_it либо напишите боту http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:29 #anastasis       5       Мы переехали в Telegram, если кому-то туда нужно, то обращайтесь в приват к kocc, либо обращайтесь через бота http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:29 #hentai          4       
+окт 03 01:11:29 #16bit           28      Канал шоу "16 бит тому назад" и других проектов Дмитрия Бачило | Кремниевые Титаны #25: Ryzen -- https://youtu.be/zMkkFtPISWk | [VLOG] Level Up Days 2019 Новосибирск -- https://youtu.be/12NnQ-rGOrc | Круглосуточный сервак OpenArena: arena.allunix.ru
+окт 03 01:11:29 #gay             3       
+окт 03 01:11:29 &AUTH            1       SERVER MESSAGES: messages from the authentication slave
+окт 03 01:11:29 &SERVICES        1       SERVER MESSAGES: services joining and leaving
+окт 03 01:11:29 &LOCAL           1       SERVER MESSAGES: notices about local connections
+окт 03 01:11:29 &HASH            1       SERVER MESSAGES: hash tables growth
+окт 03 01:11:29 &SERVERS         2       SERVER MESSAGES: servers joining and leaving
+окт 03 01:11:29 &NUMERICS        1       SERVER MESSAGES: numerics received
+окт 03 01:11:29 &CHANNEL         1       SERVER MESSAGES: fake modes
+окт 03 01:11:29 &KILLS           1       SERVER MESSAGES: operator and server kills
+окт 03 01:11:29 &NOTICES         1       SERVER MESSAGES: warnings and notices
+окт 03 01:11:29 &ERRORS          1       SERVER MESSAGES: server errors
+окт 03 01:11:29 *	End of LIST
+окт 03 01:11:29 #mtg             1       
+окт 03 01:11:29 #lotwar          1       
+окт 03 01:11:29 #cccpwar         1       
+окт 03 01:11:29 #sram            1       
+окт 03 01:11:29 #centaurs        1       
+окт 03 01:11:29 #cosmos          1       
+окт 03 01:11:29 #ru              1       
+окт 03 01:11:29 #floods          1       
+окт 03 01:11:29 #yukka           1       
+окт 03 01:11:29 #spbranma        1       
+окт 03 01:11:29 #ranma           1       
+окт 03 01:11:29 #diablo          1        The Diablo game Channel | Friends: #median #elene | Все тут  ==> #diablo3 
+окт 03 01:11:29 #tomebont3       1       
+окт 03 01:11:29 #CnC             1        ][][][][][][= ComManD & ConQueR =][][][][][][ 
+окт 03 01:11:29 #rss.dev         2       
+окт 03 01:11:29 #rss.it          2       
+окт 03 01:11:29 #rss.work        2       
+окт 03 01:11:29 #rss.news        2       
+окт 03 01:11:29 #sed             2       http://helpers.net.ru/wiki/rusnet-faq/specific/utf8
+окт 03 01:11:29 #rendezvous      1       
+окт 03 01:11:29 #make            1       #chaos - наши соседи + на десерт http://s1d6.turboimagehost.com/sp/9ac2d0b518068952cd9d9d5819eb58e6/011.JPG
+окт 03 01:11:29 #idm             1       
+окт 03 01:11:29 #ay              1       zx ay-chip channel
+окт 03 01:11:29 #уруру      1       
+окт 03 01:11:29 #English         1       Do English and have fun. WOTD is bothy. Example sentence: As a perplexed girl I pictured people in sleeping bags on the floors of large public rest rooms, before learning that Pop meant the bothies, shacks with no separate toilet where immigrant Irish laborers stayed.
+окт 03 01:11:29 #ParadiseLost    1       Don't look back on disaster. Ask your questions in time
+окт 03 01:11:29 #ebm             1       
+окт 03 01:11:29 #gothic          1       
+окт 03 01:11:29 #support         1       
+окт 03 01:11:29 *                1       
+окт 03 01:11:29 #sbnc            1       Канал посвящен shroudBNC и всему что с этим бнц связано. Welcome. http://sterkh.name/sbnc/ || http://panel.aghost.biz/aff.php?aff=011
+окт 03 01:11:29 #opers           1       
+окт 03 01:11:29 #dx-swl          1       DX-кластер работает на канале #cqdx !
+окт 03 01:11:29 #botget          2       Канал раздачи бесплатных ботов и выдачи платных. Боты больше не выдаются.
+окт 03 01:11:29 #prostir         1       Поздравляем В. А. Зеленского со вступлением в должность Президента Украины!
+окт 03 01:11:29 #cstrike         1       
+окт 03 01:11:29 +#abuse          3       
+окт 03 01:11:29 #tomck           1       этот крот был выдрой
+окт 03 01:11:29 #car             1       *****В связи со скорой кончиной IRC тестируется канал #car в вацапе. Желающим туда попасть просьба огласить свои номера телефонов.*****
+окт 03 01:11:29 +ISERV           2       
+окт 03 01:11:29 #swift           1       
+окт 03 01:11:29 #xcode           1       
+окт 03 01:11:29 #alt             1       
+окт 03 01:11:29 #apple-ru        1       
+окт 03 01:11:29 #amine           1       
+окт 03 01:11:29 #alt-linux       1       
+окт 03 01:11:29 #altlinux        1       
+окт 03 01:11:29 #...             1       |||||||||Все мы ангелы,но с одним крылом,нужно лишь обняться и полететь... ||||||||http://wi.at.ua/index/0-4
+окт 03 01:11:29 #chaos           1       
+окт 03 01:11:29 #miranda         1       Клиент IM Miranda NG
+окт 03 01:11:29 #Qipish          1       
+окт 03 01:11:29 #zloy_zay        1       
+окт 03 01:11:29 #longhorn        1       
+окт 03 01:11:29 #digiphoto       1       http://www.dpreview.com/reviews/canon-eos-6d/      |        http://www.dpreview.com/previews/nikon-d600/     |     http://www.dpreview.com/news/0380638044/canon-announces-budget-friendly-eos-rebel-t6-1300d
+окт 03 01:11:29 #chelbike        1       
+окт 03 01:11:29 #exo             1       Мемориал города #Ехо
+окт 03 01:11:29 #alizee          1       ЗАКРЫВАЙТЕ ДВЕРЬ!!! ХОДИТ КОТ, МОЖЕТ СЪЕСТЬ ПОПУГАЕВ!!! 
+окт 03 01:11:29 #Obormots        1       Красно-желто-зеленые дети рисуют солнце, рисуют травы, они не знают как надо - поэтому правы.
+окт 03 01:11:29 #z80             2       ////////////  Welcome to Gilbert  ////////////
+окт 03 01:11:29 #btfkl           1       
+окт 03 01:11:29 #haute-ecole     1       
+окт 03 01:11:29 #horses          1       
+окт 03 01:11:29 #vagrant2        1       
+окт 03 01:11:29 #vagrant         1       
+окт 03 01:11:29 #pc-help         1       
+окт 03 01:11:29 #netchat         1       
+окт 03 01:11:29 #friendly        2       Vergiss nicht, dass Du ein Deutscher bist! | Jeder fur sich und Gott gegen alle! | https://www.youtube.com/watch?v=hWtapBIL9Jw
+окт 03 01:11:29 #kovonet.ru      1       
+окт 03 01:11:29 #r.i.p.          1       
+окт 03 01:11:29 #plus            1       
+окт 03 01:11:29 #hostel_7        1       
+окт 03 01:11:29 #vaz_classic     1       
+окт 03 01:11:29 #сессия    1       
+окт 03 01:11:29 #delix           1       
+окт 03 01:11:29 *                3       
+окт 03 01:11:29 #kaluga          1       
+окт 03 01:11:29 #japan           1       
+окт 03 01:11:29 #nihongo         1       
+окт 03 01:11:29 #manga           2       переводим правила по изобретениям из After the End. https://docs.google.com/document/d/1AdsFwlKOpMMtpvE1V2rAHKj5FzL6JeR-pdFBbsJxhhk/edit?usp=sharing
+окт 03 01:11:29 #vesna           1       
+окт 03 01:11:29 #krasnokamsk     1       
+окт 03 01:11:29 #html            1       Здесь никого нет.  Все на #xhtml
+окт 03 01:11:29 #kvsex           1       
+окт 03 01:11:29 #abuse+          2       
+окт 03 01:11:29 #3.141592653589793238462643383279502884197 1       Общество анонимных математиков (use /quit codepage cp1251 or port 6669)
+окт 03 01:11:29 #neutral_area    3       Нейтральная территория
+окт 03 01:11:29 #pda             2       
+окт 03 01:11:29 #minecraft       1       Вначале был камень, и камень был у Нотча... играем сайт и реалм  MCRAFT.CF (song https://www.youtube.com/watch?v=RBbYOEgXD1k )
+окт 03 01:11:29 #console_games   1       
+окт 03 01:11:29 #gtnr            1       
+окт 03 01:11:29 #rails           1       rails and ruby
+окт 03 01:11:29 #Крым        2       ВОПРОС ДНЯ: Если украина поставила пограничные посты на въезде в Крым - значит украина признает Крым Российским ? А если не признает - зачем тогда нужны погран.посты ?;)
+окт 03 01:11:29 #somadhy         2       
+окт 03 01:11:29 #anarchia        3       Metal anal
+окт 03 01:11:29 #line_age2       3       Ugnova suxxxxxxx
+окт 03 01:11:29 #internet        1       
+окт 03 01:11:29 #xatka           1       
+окт 03 01:11:29 #irkutsk         2       Irkutsk
+окт 03 01:11:29 #pubg            1       PlayerUnknown's Battlegrounds
+окт 03 01:11:29 *                1       
+окт 03 01:11:29 #russian-tormoz  1       Общество военной травмы
+окт 03 01:11:29 #lurknews        3       
+окт 03 01:11:29 #freebsd.talks   1       
+окт 03 01:11:29 #OnlineBible     1       Канал поддержки русскоязычных пользователей Библии Он-Лайн <http://onlinebible.github.io/olb.html>
+окт 03 01:11:29 #orenlinux       1       
+окт 03 01:11:29 #bf-front        1       
+окт 03 01:11:29 #bf1942          1       Все на #BattlefieldTsk
+окт 03 01:11:29 #bfvietnam       1       Все на #BattlefieldTsk
+окт 03 01:11:29 #ofptomsk        1       Все на #BattlefieldTsk
+окт 03 01:11:29 #armatomsk       1       Все на #BattlefieldTsk
+окт 03 01:11:29 #bfbc2_tomsk     1       Все на #BattlefieldTsk
+окт 03 01:11:29 #bf2142.tomsk    1       Все на #BattlefieldTsk
+окт 03 01:11:29 #seversk         1       
+окт 03 01:11:29 #tomica          1       
+окт 03 01:11:29 #f1-tomsk        1       
+окт 03 01:11:29 #artfield        1       
+окт 03 01:11:29 #amiga           1       
+окт 03 01:11:29 #nts             1       http://www.nts.su/pages/mobilnoe-prilojenie | http://www.nts.su/pages/iptv
+окт 03 01:11:29 #msf_tpu         2       
+окт 03 01:11:29 #tashtagol       1       
+окт 03 01:11:29 #GAD             1       
+окт 03 01:11:29 #satan           1       `%%,`%%,`%%,`%%  Мы сидим на http://coma.su и в Телеграмм https://t.me/joinchat/CzUlKQ3UN_PtoySLneXdhA `%%`%%`%%,`%%,
+окт 03 01:11:29 #Sanek508        3       
+окт 03 01:11:29 #ixx             2       Заходите на канал #Sanek508 и на сайт http://Sanek508.net
+окт 03 01:11:29 #padonki         2       'CheG рваный защеканец в жопу трахнутый поганец, друг его peet-bull_ хуила, пидорас,хуёв дрочила, криворотый вафлежуй, посасут вам нежно хуй. руснет вам не гейпарад. банан вам вжопу'
+окт 03 01:11:29 #samara          2       (С) (А) (М) (А) (Р) (А)
+окт 03 01:11:29 #space           2       '(К) (О) (С) (М) (О) (С)   НЛО и всё научное Маленькая коллекция сайтов и избранное нашего #space канала: .calclist и .calc <ключ_слово> '
+окт 03 01:11:29 #dgrad           3       [[|(|)|]] <<< Димитровград >>> [[|(|)|]] Новичкам совет, посидеть тут: http://www.rusnet.org.ru/rules.html
+окт 03 01:11:29 #dimitrovgrad    3       %% %% %% Необразованные люди не отвечают, и не могут ответить, за свои высказывания и поступки. Они жертвы культуры и агрессивны даже к себе подобным. %% %
+окт 03 01:11:29 #dnd-nsk         1       
+окт 03 01:11:29 #bf2             1       Канал БФ-сообщества Томск и России!
+окт 03 01:11:29 #06.06.09        1       Баня - как много в этом звуке!
+окт 03 01:11:29 #moecho          1       
+окт 03 01:11:29 #dominet         1       
+окт 03 01:11:29 #academ          1       
+окт 03 01:11:29 #Filya           1       
+окт 03 01:11:29 #antiopenair     3       
+окт 03 01:11:29 #sova            1       Канал для обсуждения вопросов, связанных с проектом СОВА в ПАО "Ростелеком"
+окт 03 01:11:29 #sibset          1       Чтобы помнили
+окт 03 01:11:29 #pulsefm         1       Чтобы помнили
+окт 03 01:11:29 #211fm           1       Чтобы помнили
+окт 03 01:11:29 #dars-ip         1       
+окт 03 01:11:29 #philosophy_of_cucumber 1       
+окт 03 01:11:29 #dsv             1       
+окт 03 01:11:29 #xakep           2       
+окт 03 01:11:29 #777             1       
+окт 03 01:11:29 #photo           1       
+окт 03 01:11:29 #kraftwerk       1       "Немецкий культовый музыкальный коллектив из Дюссельдорфа, внёсший заметный вклад в развитие электронной музыки. http://www.youtube.com/watch?v=KQ_grfKZGtY"
+окт 03 01:11:29 #cranberries     2       
+окт 03 01:11:29 #agmc            1       
+окт 03 01:11:29 #adminchan       2       Канал для администрации каналов begin_end. [ #100%_любви_и_знакомства!!!! #CodersZone #coding #DX-SWL #helnet ]
+окт 03 01:11:29 #music           2       
+окт 03 01:11:29 #укроп      1       -
+окт 03 01:11:29 #hosting         1       
+окт 03 01:11:29 #kurgan-telecom  1       
+окт 03 01:11:29 #home-co-ltd     1       
+окт 03 01:11:29 #partytalks-2    1       
+окт 03 01:11:29 #kurgan          1       
+окт 03 01:11:29 #godville        2       Официальный канал технической поддержки Годвилля || http://godville.info/519/main.html || /quote codepage cp1251 || !list !log || ПРИДУМЫВАЕМ ТРОФЕЙ, БЛЖАД 
+окт 03 01:11:29 #putin           1       
+окт 03 01:11:29 #linuxportal.ru  1       
+окт 03 01:11:29 #цыгель    1       шо
+окт 03 01:11:29 #vat4            2       
+окт 03 01:11:29 #lords_avalon    1       
+окт 03 01:11:29 #test_bot        1       
+окт 03 01:11:29 #ada             1       
+окт 03 01:11:29 #fights          1       | [Current Auction: ElectricMod]
+окт 03 01:11:29 #fallout         1       
+окт 03 01:11:29 #dump            1       ЕСТЬ КТО ЖЫВОЙ? || НЕД || иногда
+окт 03 01:11:29 #d2-nsk          1       
+окт 03 01:11:29 #Some-channel    1       Какой-то канал Хто здесь?
+окт 03 01:11:29 #Diablo_2        1       Добро пожаловать
+окт 03 01:11:29 #marine          1       
+окт 03 01:11:29 #beetroot        1       
+окт 03 01:11:29 #ministerstvo    1       
+окт 03 01:11:29 #html5           1       
+окт 03 01:11:29 #eveodessa       1       http://www.eveonline.com/odyssey
+окт 03 01:11:29 #c++             1       
+окт 03 01:11:29 #buktopuha       3       
+окт 03 01:11:29 #megasecurity    1       
+окт 03 01:11:29 #solarisflame    1       
+окт 03 01:11:29 #кислыйпонос 1       
+окт 03 01:11:29 #fightworld      1       
+окт 03 01:11:29 #arena           1       :D
+окт 03 01:11:29 #LunarBNC        1       
+окт 03 01:11:29 #sekta           3       свидетелей Яркко Ойкаринена
+окт 03 01:11:29 #satanism        3       Samhein. || Ave Satanas.
+окт 03 01:11:29 +79129745619     1       
+окт 03 01:11:29 #ur-test-bot     1       
+окт 03 01:11:29 *                1       
+окт 03 01:11:29 #intrice         2       obsolete
+окт 03 01:11:29 #paintball       1       channel dies
+окт 03 01:11:29 #cyberpunk       1       
+окт 03 01:11:29 #flightsim       1       
+окт 03 01:11:29 #vitz            2       
+окт 03 01:11:29 #Riddles         3       
+окт 03 01:11:29 #roulette        3       
+окт 03 01:11:29 #fight           3       Интерактивная ONLINE ИГРА <<<БОЙЦОВСКИЙ КЛУБ>>> Приглашаем также поиграть в <<<MUD>>> (Multi-User Dungeon). Пишем: /join #mudgame 
+окт 03 01:11:29 #labyrinth       3       Интерактивная многопользовательская <<<ИГРА>>> ЛАБИРИНТ. Поиграйте также в: /join #mudgame 
+окт 03 01:11:29 #ponimanie       3       
+окт 03 01:11:29 #newsman         2       
+окт 03 01:11:29 #lpr             2       Закон для всех, справедливость для некоторых!
+окт 03 01:11:29 #метрополия 1       
+окт 03 01:11:29 #strategy_games  1       http://zenrus.ru/
+окт 03 01:11:29 #kunaki          1       
+окт 03 01:11:29 #karbowanez      1       
+окт 03 01:11:29 #tavria          1       
+окт 03 01:11:29 #ПоСТ        1       
+окт 03 01:11:29 #IV74            1       
+окт 03 01:11:29 #umnepia         1       
+окт 03 01:11:29 #unp             1       
+окт 03 01:11:29 #airgun-kemerovo 1       
+окт 03 01:11:29 #187             1       Установка на красный гетц
+окт 03 01:11:29 #freetommy       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:29 #resist.se       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:29 #pravchat        1       : "По тому узнают все, что вы Мои ученики, если будете иметь любовь между собою." Ин 13:35 | Кодекс ПравЧата: https://pravchat.dreamwidth.org/298.html
+окт 03 01:11:29 #testik          1       
+окт 03 01:11:29 #alcobike        1       
+окт 03 01:11:29 #esoteric        1       
+окт 03 01:11:29 #cooper          1       
+окт 03 01:11:29 #kerch           1       Official Town webpage -> http://www.kerchrada.gov.ua
+окт 03 01:11:29 #dnz             2       
+окт 03 01:11:29 #переговорный 1       
+окт 03 01:11:29 #темный_уголок 1       
+окт 03 01:11:29 #qnx             2       QNX это: VISA, Atomic Energy of Canada Ltd., Open Architecture Distributed Control System, Cisco Systems & QNX Neutrino & IOS XR, BMW, Chrysler, Ford, General Motors, Toyota, Volkswagen, Робот bigdog, Разводной Троицкий мост, Система управления северными магистральными нефтепроводами, Сириус-QNX, Пульт космонавтов Нептун-МЭ, Octavo и многое другое.
+окт 03 01:11:29 #NeuroMusic      2       '|||||||||(N) (e) (u) (r) (o) (M) (u) (s) (i) (c)|||||||||Набери: .calc радио'
+окт 03 01:11:29 #notes           2       
+окт 03 01:11:29 #фсб          1       
+окт 03 01:11:29 #farpost         2       "Канал фарпост!"
+окт 03 01:11:29 #fsb             2       
+окт 03 01:11:29 #hacking         2       
+окт 03 01:11:29 #Mylene          2       
+окт 03 01:11:29 #vb              2       Р - 40 18:25 /// П - 003а 4:29 \\\ Expires: 28.10.2017 11:29:00 GMT \\\ DD125
+окт 03 01:11:29 #network         1       
+окт 03 01:11:29 #ror             1       
+окт 03 01:11:29 #general         1       
+окт 03 01:11:29 #noxious         1       http://noxiousofficial.com/med.jpg | Black Metal ist Krieg! | http://noxiousofficial.com
+окт 03 01:11:29 #usa             1       
+окт 03 01:11:29 #hostin          1       
+окт 03 01:11:29 #botnet.icf.org.ru 1       
+окт 03 01:11:29 #nixhelp         1       
+окт 03 01:11:29 #unix.talks      1       HB 2 GHhost...мурр!!!
+окт 03 01:11:29 #init            2       SUCCESS
+окт 03 01:11:29 #ruslinux        1       
+окт 03 01:11:29 #cyber           1       
+окт 03 01:11:29 #utr             1       
+окт 03 01:11:29 #erotic          1       
+окт 03 01:11:29 #mug             1       Moscow Unix Group | Linux/Unix || #nix'овка 13-го июня в МСК, просьба не планировать ничего на этот день 
+окт 03 01:11:29 #lfs             1       
+окт 03 01:11:29 #komy_3a_30      2       Баррель мне в танкер, да я же шедевр!
+окт 03 01:11:29 #n/o/rcalwat     1       
+окт 03 01:11:29 #some_channel    1       
+окт 03 01:11:29 #toyota          2       http://s00.yaplakal.com/pics/pics_original/7/9/4/6441497.jpg
+окт 03 01:11:29 #fleur           2       
+окт 03 01:11:29 #truedowngrade   1       
+окт 03 01:11:29 #Umka            2       
+окт 03 01:11:29 #trem            2       Urban Terror & Tremulous & WarSow game in Tomsk | http://tf.tomline.ru http://trem.opentomsk.net/ut/ http://trem.opentomsk.net/ http://trem.opentomsk.net/wsw
+окт 03 01:11:29 #banzai          1       
+окт 03 01:11:29 #ham             2       
+окт 03 01:11:29 #Россия    5       
+окт 03 01:11:29 #/rf/            2       
+окт 03 01:11:29 #dos             2       
+окт 03 01:11:29 #уютный_уголок 3       
+окт 03 01:11:29 #gordon          3       
+окт 03 01:11:29 #brony           2       
+окт 03 01:11:29 #vik_lm          3       
+окт 03 01:11:29 #apple           4       
+окт 03 01:11:29 #maidan          4       
+окт 03 01:11:29 #minsk           3       
+окт 03 01:11:29 #metal           2       
+окт 03 01:11:29 #aureon          9       
+окт 03 01:11:29 #rpg             1       
+окт 03 01:11:29 #partytalks      4       
+окт 03 01:11:29 #sw_kiev         2       
+окт 03 01:11:29 #zoo             1       
+окт 03 01:11:29 #teama_fpo       2       
+окт 03 01:11:29 #mikrotik        5       
+окт 03 01:11:29 #day-radio       1       
+окт 03 01:11:29 #urBydloCoding   2       
+окт 03 01:11:29 #bsdportal       2       
+окт 03 01:11:29 #geocaching      1       
+окт 03 01:11:29 #e-money         1       
+окт 03 01:11:29 #alexeco         2       #alexeco : - Off sites  alexeco.name
+окт 03 01:11:29 #francais        1       
+окт 03 01:11:29 #ulcamp          1       ULCAMP https://ulcamp.ru
+окт 03 01:11:29 #quiz            3       
+окт 03 01:11:29 #hides           1       Добро пожаловать!
+окт 03 01:11:29 #helpR           1       
+окт 03 01:11:29 #felineyiff      1       
+окт 03 01:11:29 #pawsru          1       
+окт 03 01:11:29 #cellular        1       
+окт 03 01:11:29 #/fg/            1       
+окт 03 01:11:29 #Vodka           1       2003-20XX RIP TC-EXE Алкоголизм для дураков, а мы отрываемся и отдыхаем!
+окт 03 01:11:29 #sosnovoborsk    1       WWW.SOSNOVOBORSK.SU :: Sosnovoborsk IRC channel :: //msg Spoofing Hello!
+окт 03 01:11:29 #kastaneda       1       [Bunker news] Upgrade to Debian 10, finally
+окт 03 01:11:29 #Tyumen          2       Время умирать
+окт 03 01:11:29 #bo              1       
+окт 03 01:11:29 #otvet           1       
+окт 03 01:11:29 *                3       
+окт 03 01:11:29 #rust            2       
+окт 03 01:11:29 #lua             2       Lua is a powerful, fast, lightweight, embeddable scripting language
+окт 03 01:11:30 #anta_baka       3        %%%%%% == ХАЙ-ХАЙ == %%%%%% 
+окт 03 01:11:30 #broccoli        2       http://zoome.jp/galaxyangel/ :E~ | <Xzaws> Тэ о Аряйо~ | missiles for free!!
+окт 03 01:11:30 #sailor_baka     3       rezervaciya dlya obdelennyh milost'yu Tsubatsu. построй свой звездолет, с маджонгом и девочками-волшебницами!
+окт 03 01:11:30 #asplinux        1       должен остаться только один | +1 | сегодня в 15:17 я остался один - win! (c) xor
+окт 03 01:11:30 #irssi           1       
+окт 03 01:11:30 #/b/             3       
+окт 03 01:11:30 #poring          5       
+окт 03 01:11:30 *                6       
+окт 03 01:11:30 #delphi          4       
+окт 03 01:11:30 #palatka         2       Посидели просто замечательно!
+окт 03 01:11:30 #torrents        3       
+окт 03 01:11:30 #rcl             2       
+окт 03 01:11:30 #mysql           3       
+окт 03 01:11:30 +                4       
+окт 03 01:11:30 #ufa             2       
+окт 03 01:11:30 #films           7       
+окт 03 01:11:30 #112             3       
+окт 03 01:11:30 #4747            2       
+окт 03 01:11:30 #koumakan        3       
+окт 03 01:11:30 #mvc             2       все ушли в Telegram :)
+окт 03 01:11:30 #vim             2       
+окт 03 01:11:30 #scala           1       
+окт 03 01:11:30 #sailormoon      4       
+окт 03 01:11:30 #tobolsk         4       
+окт 03 01:11:30 #doom2           4       
+окт 03 01:11:30 #32bit           2       
+окт 03 01:11:30 #NoMercy         1       .
+окт 03 01:11:30 #tsure           1       Taganrog Institute of Technology Southern Federal | Почтовый сервис: https://mail.tti.su/
+окт 03 01:11:30 #nazak           2       
+окт 03 01:11:30 #animesib        5       
+окт 03 01:11:30 #хуй          2       
+окт 03 01:11:30 #DDoS            2       ???? лорды милорды хуиные ваши морды ????
+окт 03 01:11:30 #bylins          1       муд былины
+окт 03 01:11:30 #???             1       
+окт 03 01:11:30 #???????         1       
+окт 03 01:11:30 #ur-l4d          1       
+окт 03 01:11:30 #c2h5(oh)        1       
+окт 03 01:11:30 #TTR-Releases    1       
+окт 03 01:11:30 #Elwar           3       
+окт 03 01:11:30 #ttr             1       
+окт 03 01:11:30 #torrents.tomsk.ru 2       Канал имени 'Первый Томский Торрент: TORRENTS.TOMSK.RU' [2006-02 - 2007-01]
+окт 03 01:11:30 #otaku-kh        1       
+окт 03 01:11:30 #vaping          1       
+окт 03 01:11:30 #macos           1       
+окт 03 01:11:30 #та3           1       
+окт 03 01:11:30 #distributed     1       
+окт 03 01:11:30 #velo.kiev       1       
+окт 03 01:11:30 #dorms           3       
+окт 03 01:11:30 #egghelp         1       
+окт 03 01:11:30 #psybnc          1       
+окт 03 01:11:30 #wow             1       
+окт 03 01:11:30 #tea             3       
+окт 03 01:11:30 #komi            2       Коми Республикаса irc-канал // http://www.rkomi.ru/gosud/simvol/index.phtml // http://www.komi.com/folk/myth/46.htm
+окт 03 01:11:30 #syktyvkar       2       'Виджа оланныд, донна йортьяс! Пыр локта да шуан став выльторьяс :) // http://kominarod.narod.ru/romposht/romposht.htm - Коми язык для взрослых
+окт 03 01:11:30 #metal.tomsk.ru  2       
+окт 03 01:11:30 #>>phoenix<<     1       
+окт 03 01:11:30 #zero            1       
+окт 03 01:11:30 #true            1       
+окт 03 01:11:30 #damage          2       pvt chan
+окт 03 01:11:30 #kuvalda         1       
+окт 03 01:11:30 #vkontakte       1       
+окт 03 01:11:30 #moonclub        1       
+окт 03 01:11:30 #xppop           2       http://ikle.ru/irc/xppop.html | Бывший канал попапов 14-15-16, popup is dead.
+окт 03 01:11:30 #ghl             1       
+окт 03 01:11:30 #glazov          1       
+окт 03 01:11:30 #lasher          1       
+окт 03 01:11:30 #shell           2       Продаются шеллы для ботов и бнц. Пишите в приват к в_танке и Trusty
+окт 03 01:11:31 #forex           4       Вот и начались трейдоебобудни...трейдуны к станку!
+окт 03 01:11:31 #stvr            2       
+окт 03 01:11:31 #cops            4       Угля, поздравля!
+окт 03 01:11:31 #antigop         1       
+окт 03 01:11:31 *                1       
+окт 03 01:11:31 #gmo             1       
+окт 03 01:11:31 #chelyabinsk     5       День надутых губ и запрокидывания головы
+окт 03 01:11:31 #mafia           5       
+окт 03 01:11:31 #j2me            6       
+окт 03 01:11:31 *                5       
+окт 03 01:11:31 #mafops          2       
+окт 03 01:11:31 #emule           4       
+окт 03 01:11:31 #sharp           1       
+окт 03 01:11:31 #humor           1        :: АНЕКДОТЫ :: BASH.ORG :: ФРАЗЫ -> [:]||||||||[:] из интернета каждые  5  минут!  :: 
+окт 03 01:11:31 #weird           1       "Я боюсь, что ты не достигнешь Мекки, о Номад, ведь дорога, которой ты идешь, ведет в Туркестан..." :: Societe anonyme d.hippophage ::  Команды бота: !help 
+окт 03 01:11:31 #Kosiak          1       
+окт 03 01:11:31 #bwc             1       Каналу 12 лет! | http://baikalwest.com
+окт 03 01:11:31 #Russian_zone    1       
+окт 03 01:11:31 #fluro           4       
+окт 03 01:11:31 #x1zer           2       
+окт 03 01:11:31 #sch_81          2       
+окт 03 01:11:31 #arda            2       Arda MUD | http://arda.pp.ru/
+окт 03 01:11:31 #hvmud           2       Hiervard MUD || http://hiervard.ru/
+окт 03 01:11:31 #neonnet         2       !list !log | NeonNet заморожено. NEON2 IP 2:463/877 набирает поинтов и линков в FidoNet. http://ncc.org.ua| http://ncc.org.ua/irc.php
+окт 03 01:11:31 #ragnarokonline  1       я хз || я могу поднять люми || тебе какой?
+окт 03 01:11:31 #cdrr            1       
+окт 03 01:11:31 #iichan          2       
+окт 03 01:11:31 #allex           2       
+окт 03 01:11:31 #gota            2       
+окт 03 01:11:31 #durdom          29      #БеляйпозвониЕвгении| Статистика и логи https://durdom.su | Правила http://bit.ly/_durdom ( ЧС - https://pastebin.com/ixKTYwhY )
+окт 03 01:11:31 #ulnet           2       В финском языке есть слово kalsarik?nnit [калсарикяннит], что в переводе значит <<выпивать дома в нижнем белье, не планируя никуда выходить>>. Хорошее слово.
+окт 03 01:11:31 #wintalk         1       
+окт 03 01:11:31 #irchelp         2       
+окт 03 01:11:31 #fiona           1       Закрытых дверей не бывает. Бывает недостаточно громкое Мяууу...
+окт 03 01:11:31 #ongoing         1       
+окт 03 01:11:31 #unequal         1       
+окт 03 01:11:31 #neotelecom      1       
+окт 03 01:11:31 #dnd_dnd         1       
+окт 03 01:11:31 #twidh           1       
+окт 03 01:11:31 #TeamB           1       
+окт 03 01:11:31 #mez_dh          1       
+окт 03 01:11:31 #ur_dh           1       
+окт 03 01:11:31 #cot             1       
+окт 03 01:11:31 #heresy          1       
+окт 03 01:11:31 #dnd_fpo         1       
+окт 03 01:11:31 #echoirlp        1       
+окт 03 01:11:31 #logchan         1       
+окт 03 01:11:31 #ndw             5       
+окт 03 01:11:31 #dwrpg           3       
+окт 03 01:11:31 #dwstaff         1       
+окт 03 01:11:31 #tweak           1       
+окт 03 01:11:31 #odessit         1       
+окт 03 01:11:31 #d_n_s           1       
+окт 03 01:11:31 #Sydiva          1       
+окт 03 01:11:31 #Dogs            3       
+окт 03 01:11:31 #b_p             3       
+окт 03 01:11:31 #matrix-inet     1       
+окт 03 01:11:31 #victorinka      1       
+окт 03 01:11:31 #exclusive       1       
+окт 03 01:11:31 #onmu            1       
+окт 03 01:11:31 #мр            1       
+окт 03 01:11:31 #temka           2       
+окт 03 01:11:31 #anarxi.st       1       
+окт 03 01:11:31 #дураки    1       
+окт 03 01:11:31 #sandtable       1       
+окт 03 01:11:31 #last.fm         1       
+окт 03 01:11:31 #buy_sell        2       
+окт 03 01:11:31 #lhvr            1       
+окт 03 01:11:31 #madonna         1       
+окт 03 01:11:31 #inf             1       
+окт 03 01:11:31 #animemagazine   1       
+окт 03 01:11:31 #anibel          1       
+окт 03 01:11:31 #aries           1       
+окт 03 01:11:31 #dofus           1       
+окт 03 01:11:31 #privoz          1       
+окт 03 01:11:31 #chtd            1       
+окт 03 01:11:31 #unix            3       expired
+окт 03 01:11:31 #lrn             1       
+окт 03 01:11:31 #flood           2       
+окт 03 01:11:31 #pikabu.ru       1       
+окт 03 01:11:31 *                6       
+окт 03 01:11:31 #kvirc           2       The official channel of KVIrc-client in RusNet. // Официальный канал клиента KVIrc в RusNet. http://www.kvirc.ru Скрипты: http://www.kvirc.ru/forum/board,12.0 // Хранилище скриптов: http://www.kvirc.info // FAQ: http://vk.cc/N8wTC 
+окт 03 01:11:31 #ЛУНАПАРК 9       
+окт 03 01:11:31 #geopolitics     3       
+окт 03 01:11:31 #TVR             1       
+окт 03 01:11:31 #mmtsr           1       
+окт 03 01:11:31 #vtomske.ru      1       
+окт 03 01:11:31 #redwix          1       
+окт 03 01:11:31 #jacaranda       1       
+окт 03 01:11:31 #src             2       
+окт 03 01:11:31 #tycyp           3       
+окт 03 01:11:31 #dirty.ru        2       
+окт 03 01:11:31 #mudgame         3        'Интерактивная многопользовательская IRC-ИГРА <<<MUD>>> (Multi-User Dungeon). Помощь по игре: !помощь, помощь, help, !help.
+окт 03 01:11:31 #victeam         1       |||||| #VicTeam ||||||| Командная викторина.  Играйте с удовольствием ! Помощь по командам !хелп (викторина) и !ахелп (анаграмма)
+окт 03 01:11:31 #фпесду    1       
+окт 03 01:11:31 #0бщага     1       
+окт 03 01:11:31 #Love&Sex        1       
+окт 03 01:11:31 #clan.war        1       
+окт 03 01:11:31 #cs              1       
+окт 03 01:11:31 #gamezone        1       
+окт 03 01:11:31 #pro.cs          1       
+окт 03 01:11:31 #cs.nettown      1       
+окт 03 01:11:31 #cstrike.tomsk   1       
+окт 03 01:11:31 #rasta.team      1       
+окт 03 01:11:31 #cs.shariki      1       
+окт 03 01:11:31 #tomgame         1       
+окт 03 01:11:31 #cs.seversk      1       
+окт 03 01:11:31 #cs_rubilovo     1       
+окт 03 01:11:31 #St-InGame       1       
+окт 03 01:11:31 #19Inches        1       
+окт 03 01:11:31 #cs.DABIGI       1       
+окт 03 01:11:31 #meatwars        1       
+окт 03 01:11:31 #cs.lazonet      1       
+окт 03 01:11:31 #cs.admins       1       
+окт 03 01:11:31 #cs-sibgame      1       
+окт 03 01:11:31 #CS.Tomtel       1       
+окт 03 01:11:31 #cs.arielnet     1       
+окт 03 01:11:31 #cs.19d          1       
+окт 03 01:11:31 #freebnc         1       
+окт 03 01:11:31 #antichat        3       https://forum.antichat.ru | off chan
+окт 03 01:11:31 #chem.by         1       
+окт 03 01:11:31 #rss             1       Канал для трансляции RSS с ИТ ресурсов (Habrahabr, SecurityLab, Xaker, Antichat, IRCRusNet и иные). Свежие новости с сайтов каждые несколько минут.
+окт 03 01:11:31 #shilka          1       
+окт 03 01:11:31 #byaks           1       
+окт 03 01:11:31 #wikireality     3       
+окт 03 01:11:31 #comedy          2       
+окт 03 01:11:31 #RusNet          2       
+окт 03 01:11:31 #iRC             1       
+окт 03 01:11:31 #sebastopol      1       
+окт 03 01:11:31 #Оймякон  1       
+окт 03 01:11:31 #css             2       .\0 {content: "<![CDATA["} .topic::after {content: "Это канал про Cascading Style Sheets"} .\0 {content: "]]>"}
+окт 03 01:11:31 #openair         2       
+окт 03 01:11:31 #politics-open   5       
+окт 03 01:11:31 #golang          4       GO language | golanger.xyz - там пока что ничего |
+окт 03 01:11:31 #16bits          4       
+окт 03 01:11:31 #blender         5       Blender 2.80 http://download.blender.org/release/Blender2.80/ | https://www.youtube.com/user/BlenderFoundation/videos | логи чата: http://h01.akhil.ru/rusnet/%23blender/?C=N;O=D
+окт 03 01:11:31 *                6       
+окт 03 01:11:31 #vladee          3       
+окт 03 01:11:31 #makelove        2       
+окт 03 01:11:31 #cvs_mirc        2       
+окт 03 01:11:31 #tomsknews       2       
+окт 03 01:11:31 #kuban           3       Кубань - это весь Краснодарский Край включая Красноярск, Минусинск, Томск, Севастополь, Сосновоборск, Новосибирск, Североуральск, Одесса, Верхняя Савоя, Подмосковье и др. 
+окт 03 01:11:31 #4pda            2       
+окт 03 01:11:31 #University      3       (В)(И)(К)(Т)(О)(Р)(И)(Н)(А) + addons. Лидеры дня 01.10.2019: 1. Taxa (54).
+окт 03 01:11:31 #Kaliningrad     2       
+окт 03 01:11:31 #lore            1       
+окт 03 01:11:31 #soft            3       Правила канала: http://www.rus-net.org/forum/index.php?showtopic=3791
+окт 03 01:11:31 #mirc-scripts    3       
+окт 03 01:11:31 #Holomi          2       
+окт 03 01:11:31 #Philology       3       Канал любителей грамотной речи. Мы знаем, что ЧК и ЧН пишутся без мягкого знака. Мы знаем, что мну -- от глагола мять, а не от местоимения меня. Но главное -- мы применяем свои знания! Знания можно черпать из http://gramota.ru
+окт 03 01:11:31 #irc.seb.org.ua  10      +bnc |Хосты: +bvhosts или http://irc.seb.org.ua/ | Connect: irc.seb.org.ua:4444 (4443, 1111) (SSL:4343) | Аккаунты более не удаляются
+окт 03 01:11:31 #tfug            4       
+окт 03 01:11:31 #elene           8       
+окт 03 01:11:31 #enigma          5       **..***.. Викторина.. .. ..      .: http://tt.erinome.net/cc/quiz :.       Лучший игрок дня: SmallCat  Делаем ставки в аукционах, супериграх, рандом-вопросах. 
+окт 03 01:11:31 #opensuse        5       openSUSE Linux channel | openSUSE Leap 15.1 RELEASED | Ресурсы: !calclist !calc [название] | Новости: !opensuse (starlfur)
+окт 03 01:11:31 #odessa          22      Людской цивилизации тотальный демонтаж.
+окт 03 01:11:31 #100%_любви_и_знакомства!!!! 9       Канал хорошего и доброго общения
+окт 03 01:11:31 #philosophy      18      
+окт 03 01:11:31 #asm             2       https://www.youtube.com/watch?v=ALBgsXOq11o => https://github.com/nanochess/Invaders/blob/master/invaders.asm
+окт 03 01:11:31 #astral          4       Уютный астральчик :3
+окт 03 01:11:31 #cqdx            3       DX CLUSTER RETRANSLATOR | HAMRADIO
+окт 03 01:11:31 #nikolaev        3       HB2U, HiX!!! /v0lant, вых
+окт 03 01:11:31 #nsu             2       
+окт 03 01:11:31 #500             1       рябчек-
+окт 03 01:11:31 #haskell         1       
+окт 03 01:11:31 #vrn             1       
+окт 03 01:11:31 #Hack-Academy    3       Поуков! - требуют наши сердца. Поуков - требуют наши глаза. Поуки - в пульсации вен. Мыждем-Поуков! :)|ыгыгы /только илитных, прочеканых/
+окт 03 01:11:31 #derp            1       
+окт 03 01:11:31 #avia            7       
+окт 03 01:11:31 #kvidex          1       
+окт 03 01:11:31 #yoga            3       
+окт 03 01:11:31 *                3       
+окт 03 01:11:31 #vita            5       
+окт 03 01:11:31 *                27      
+окт 03 01:11:31 #taganrog        2       
+окт 03 01:11:31 #coding          18      Канал для бесед о программировании. БНЦ (BNC) (coderszone.net:6589) Закрыто.
+окт 03 01:11:31 #subword         15      
+окт 03 01:11:31 #victorina       4       
+окт 03 01:11:31 #announces       13      
+окт 03 01:11:31 #DarkCrystal     5       МКС / ISS
+окт 03 01:11:31 #science         16      Наука
+окт 03 01:11:31 #crimea          12      Крим
+окт 03 01:11:31 #castaneda       16      люби то, что не любит ОНО
+окт 03 01:11:31 #bash            2       
+окт 03 01:11:31 #dirty           9       мы покакунькали
+окт 03 01:11:31 #oracle          1       
+окт 03 01:11:31 #eggdrop         29      
+окт 03 01:11:31 #komy_3a_25      9       Лучше ездить каждый день на велосипеде на пляж, чем на Мерседесе на работу.
+окт 03 01:11:31 #habrahabr       27      Канал хабры в интернетах.|| flood, оффтопик и прочий спам не приветствуется.
+окт 03 01:11:31 #funchat         2       
+окт 03 01:11:31 #Dom_u_Mosta     1       
+окт 03 01:11:31 #Bunba           1       
+окт 03 01:11:31 #feaell          1       
+окт 03 01:11:31 #netrunners      1       
+окт 03 01:11:31 #anime-nihongo   1       
+окт 03 01:11:31 #frei            1       
+окт 03 01:11:31 #wesna           1       
+окт 03 01:11:31 #sm              1       
+окт 03 01:11:31 #idle            2       
+окт 03 01:11:31 #$               1       
+окт 03 01:11:31 #primorye        2       
+окт 03 01:11:31 #stormrage       6       
+окт 03 01:11:31 #!               2       Портал - /dev/null Здесь живут культурные и интеллигентные люди! | Список ников удаленного канала: !cnlist | Информация: http://null.a-ec.name/
+окт 03 01:11:31 #punk.lug        3       RIP Dennis M. Ritchie | ПУНК LUG | http://ikle.ru/irc/punk-lug.html | If you can't  explain it simply, you don't understand it well enough. (c) Al. Ei.
+окт 03 01:11:31 #freebot         10      
+окт 03 01:11:31 #magi            28      Канал свободы, бан только за неукратимый флуд. Маги в телеге: https://t.me/magi_ru
+окт 03 01:11:31 #windrop         6       
+окт 03 01:11:31 #magnit          2       `%%,`%%,`%%,`%%'`% Лучше спортивная фигура чем спортивное лицо %`%%,`%%'`%%,`%%,
+окт 03 01:11:31 #love            6       
+окт 03 01:11:31 #adultlion       2       
+окт 03 01:11:31 #mlp             4       Канал про малогабаритных непарнокопытных
+окт 03 01:11:31 *                2       
+окт 03 01:11:31 #openarena       4       
+окт 03 01:11:31 #krasnoyarsk     2       
+окт 03 01:11:31 #politics_open   25      <MoHaX> вертухаи - это зеки.
+окт 03 01:11:31 #позитивчик 8       
+окт 03 01:11:31 #центральный 19      Ксения Собчак будет вести шоу <<Пусть Говорят>> на Первом канале. А вы говорили, что она ничего не добьётся на президентских выборах!
+окт 03 01:11:31 #politics        48      Управляющий колонией Путин поздравил российских евреев с иудейским Новым годом.  | Игровой канал #subword
+окт 03 01:11:31 #piter           13      С Днём Семьи, Любви и Верности
+окт 03 01:11:31 #fido            9       
+окт 03 01:11:31 #hamradio        16      Radio Amateurs Community
+окт 03 01:11:31 #tomtel          4       
+окт 03 01:11:31 #android         7       
+окт 03 01:11:31 #overclockers.ru 7       
+окт 03 01:11:31 #russia+30       14      
+окт 03 01:11:31 #webdev          13      Веб-разработчики - общайтесь! links: [ http://rusnet-webdev.surge.sh , http://www.opennet.ru/mp/web , http://codeguide.co , http://www.cheat-sheets.org ] , rules: http://goo.gl/sXAIJ , books: http://goo.gl/SJc4o4 , web: https://webdev.a-ec.name  
+окт 03 01:11:31 #Help            36      
+окт 03 01:11:31 #python          10      Python 2.7.15, Python 3.7.3
+окт 03 01:11:31 #orthodoxy       4       Православный чат
+окт 03 01:11:31 #ortho-it        7       Мы переехали в Telegram заходите по ссылке https://t.me/ortho_it либо напишите боту http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:31 #anastasis       5       Мы переехали в Telegram, если кому-то туда нужно, то обращайтесь в приват к kocc, либо обращайтесь через бота http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:31 #hentai          4       
+окт 03 01:11:31 #16bit           28      Канал шоу "16 бит тому назад" и других проектов Дмитрия Бачило | Кремниевые Титаны #25: Ryzen -- https://youtu.be/zMkkFtPISWk | [VLOG] Level Up Days 2019 Новосибирск -- https://youtu.be/12NnQ-rGOrc | Круглосуточный сервак OpenArena: arena.allunix.ru
+окт 03 01:11:31 #gay             3       
+окт 03 01:11:31 &AUTH            1       SERVER MESSAGES: messages from the authentication slave
+окт 03 01:11:31 &SERVICES        1       SERVER MESSAGES: services joining and leaving
+окт 03 01:11:31 &LOCAL           1       SERVER MESSAGES: notices about local connections
+окт 03 01:11:31 &HASH            1       SERVER MESSAGES: hash tables growth
+окт 03 01:11:31 &SERVERS         2       SERVER MESSAGES: servers joining and leaving
+окт 03 01:11:31 &NUMERICS        1       SERVER MESSAGES: numerics received
+окт 03 01:11:31 &CHANNEL         1       SERVER MESSAGES: fake modes
+окт 03 01:11:31 &KILLS           1       SERVER MESSAGES: operator and server kills
+окт 03 01:11:31 &NOTICES         1       SERVER MESSAGES: warnings and notices
+окт 03 01:11:31 &ERRORS          1       SERVER MESSAGES: server errors
+окт 03 01:11:31 *	End of LIST
+окт 03 01:11:31 -Global-	[Logon News - Dec 30 2012] Внимание! Сети требуются разработчики. Подробности на http://www.rus-net.org/forum/index.php?showtopic=7560
+окт 03 01:11:31 -Global-	[Logon News - Sep 26 2009] Change your codepage on the fly: /quote codepage cp1251 (for Windows). Высказать свои пожелания и задать вопросы вы можете на форуме сети по адресу: http://www.rus-net.org/forum/. Вы можете включить русский язык в сообщениях сервисов командой /NickServ SET LANGUAGE 10.
+окт 03 01:11:31 -Global-	[Logon News - Nov 03 2006] Официальные каналы сети: #help - вопросы и проблемы, #abuse - жалобы на нарушения, #announces - анонсы каналов. Реклама каналов допустима только на канале #announces, в остальных случаях она приравнивается к спаму.
+окт 03 01:11:31 #mtg             1       
+окт 03 01:11:31 #lotwar          1       
+окт 03 01:11:31 #cccpwar         1       
+окт 03 01:11:31 #sram            1       
+окт 03 01:11:31 #centaurs        1       
+окт 03 01:11:31 #cosmos          1       
+окт 03 01:11:31 #ru              1       
+окт 03 01:11:31 #floods          1       
+окт 03 01:11:31 #yukka           1       
+окт 03 01:11:31 #spbranma        1       
+окт 03 01:11:31 #ranma           1       
+окт 03 01:11:31 #diablo          1        The Diablo game Channel | Friends: #median #elene | Все тут  ==> #diablo3 
+окт 03 01:11:31 #tomebont3       1       
+окт 03 01:11:31 #CnC             1        ][][][][][][= ComManD & ConQueR =][][][][][][ 
+окт 03 01:11:31 #rss.dev         2       
+окт 03 01:11:31 #rss.it          2       
+окт 03 01:11:31 #rss.work        2       
+окт 03 01:11:31 #rss.news        2       
+окт 03 01:11:31 #sed             2       http://helpers.net.ru/wiki/rusnet-faq/specific/utf8
+окт 03 01:11:31 #rendezvous      1       
+окт 03 01:11:31 #make            1       #chaos - наши соседи + на десерт http://s1d6.turboimagehost.com/sp/9ac2d0b518068952cd9d9d5819eb58e6/011.JPG
+окт 03 01:11:31 #idm             1       
+окт 03 01:11:31 #ay              1       zx ay-chip channel
+окт 03 01:11:31 #уруру      1       
+окт 03 01:11:31 #English         1       Do English and have fun. WOTD is bothy. Example sentence: As a perplexed girl I pictured people in sleeping bags on the floors of large public rest rooms, before learning that Pop meant the bothies, shacks with no separate toilet where immigrant Irish laborers stayed.
+окт 03 01:11:31 #ParadiseLost    1       Don't look back on disaster. Ask your questions in time
+окт 03 01:11:31 #ebm             1       
+окт 03 01:11:31 #gothic          1       
+окт 03 01:11:31 #support         1       
+окт 03 01:11:31 *                1       
+окт 03 01:11:31 #sbnc            1       Канал посвящен shroudBNC и всему что с этим бнц связано. Welcome. http://sterkh.name/sbnc/ || http://panel.aghost.biz/aff.php?aff=011
+окт 03 01:11:31 #opers           1       
+окт 03 01:11:31 #dx-swl          1       DX-кластер работает на канале #cqdx !
+окт 03 01:11:31 #botget          2       Канал раздачи бесплатных ботов и выдачи платных. Боты больше не выдаются.
+окт 03 01:11:31 #prostir         1       Поздравляем В. А. Зеленского со вступлением в должность Президента Украины!
+окт 03 01:11:31 #cstrike         1       
+окт 03 01:11:31 +#abuse          3       
+окт 03 01:11:31 #tomck           1       этот крот был выдрой
+окт 03 01:11:31 #car             1       *****В связи со скорой кончиной IRC тестируется канал #car в вацапе. Желающим туда попасть просьба огласить свои номера телефонов.*****
+окт 03 01:11:31 +ISERV           2       
+окт 03 01:11:31 #swift           1       
+окт 03 01:11:31 #xcode           1       
+окт 03 01:11:31 #alt             1       
+окт 03 01:11:31 #apple-ru        1       
+окт 03 01:11:31 #amine           1       
+окт 03 01:11:31 #alt-linux       1       
+окт 03 01:11:31 #altlinux        1       
+окт 03 01:11:31 #...             1       |||||||||Все мы ангелы,но с одним крылом,нужно лишь обняться и полететь... ||||||||http://wi.at.ua/index/0-4
+окт 03 01:11:31 #chaos           1       
+окт 03 01:11:31 #miranda         1       Клиент IM Miranda NG
+окт 03 01:11:31 #Qipish          1       
+окт 03 01:11:31 #zloy_zay        1       
+окт 03 01:11:31 #longhorn        1       
+окт 03 01:11:31 #digiphoto       1       http://www.dpreview.com/reviews/canon-eos-6d/      |        http://www.dpreview.com/previews/nikon-d600/     |     http://www.dpreview.com/news/0380638044/canon-announces-budget-friendly-eos-rebel-t6-1300d
+окт 03 01:11:31 #chelbike        1       
+окт 03 01:11:31 #exo             1       Мемориал города #Ехо
+окт 03 01:11:31 #alizee          1       ЗАКРЫВАЙТЕ ДВЕРЬ!!! ХОДИТ КОТ, МОЖЕТ СЪЕСТЬ ПОПУГАЕВ!!! 
+окт 03 01:11:31 #Obormots        1       Красно-желто-зеленые дети рисуют солнце, рисуют травы, они не знают как надо - поэтому правы.
+окт 03 01:11:31 #z80             2       ////////////  Welcome to Gilbert  ////////////
+окт 03 01:11:31 #btfkl           1       
+окт 03 01:11:31 #haute-ecole     1       
+окт 03 01:11:31 #horses          1       
+окт 03 01:11:31 #vagrant2        1       
+окт 03 01:11:31 #vagrant         1       
+окт 03 01:11:31 #pc-help         1       
+окт 03 01:11:31 #netchat         1       
+окт 03 01:11:31 #friendly        2       Vergiss nicht, dass Du ein Deutscher bist! | Jeder fur sich und Gott gegen alle! | https://www.youtube.com/watch?v=hWtapBIL9Jw
+окт 03 01:11:31 #kovonet.ru      1       
+окт 03 01:11:31 #r.i.p.          1       
+окт 03 01:11:31 #plus            1       
+окт 03 01:11:31 #hostel_7        1       
+окт 03 01:11:31 #vaz_classic     1       
+окт 03 01:11:31 #сессия    1       
+окт 03 01:11:31 #delix           1       
+окт 03 01:11:31 *                3       
+окт 03 01:11:31 #kaluga          1       
+окт 03 01:11:31 #japan           1       
+окт 03 01:11:31 #nihongo         1       
+окт 03 01:11:31 #manga           2       переводим правила по изобретениям из After the End. https://docs.google.com/document/d/1AdsFwlKOpMMtpvE1V2rAHKj5FzL6JeR-pdFBbsJxhhk/edit?usp=sharing
+окт 03 01:11:31 #vesna           1       
+окт 03 01:11:31 #krasnokamsk     1       
+окт 03 01:11:31 #html            1       Здесь никого нет.  Все на #xhtml
+окт 03 01:11:31 #kvsex           1       
+окт 03 01:11:31 #abuse+          2       
+окт 03 01:11:31 #3.141592653589793238462643383279502884197 1       Общество анонимных математиков (use /quit codepage cp1251 or port 6669)
+окт 03 01:11:31 #neutral_area    3       Нейтральная территория
+окт 03 01:11:31 #pda             2       
+окт 03 01:11:31 #minecraft       1       Вначале был камень, и камень был у Нотча... играем сайт и реалм  MCRAFT.CF (song https://www.youtube.com/watch?v=RBbYOEgXD1k )
+окт 03 01:11:31 #console_games   1       
+окт 03 01:11:31 #gtnr            1       
+окт 03 01:11:31 #rails           1       rails and ruby
+окт 03 01:11:31 #Крым        2       ВОПРОС ДНЯ: Если украина поставила пограничные посты на въезде в Крым - значит украина признает Крым Российским ? А если не признает - зачем тогда нужны погран.посты ?;)
+окт 03 01:11:31 #somadhy         2       
+окт 03 01:11:31 #anarchia        3       Metal anal
+окт 03 01:11:31 #line_age2       3       Ugnova suxxxxxxx
+окт 03 01:11:31 #internet        1       
+окт 03 01:11:31 #xatka           1       
+окт 03 01:11:31 #irkutsk         2       Irkutsk
+окт 03 01:11:31 #pubg            1       PlayerUnknown's Battlegrounds
+окт 03 01:11:31 *                1       
+окт 03 01:11:31 #russian-tormoz  1       Общество военной травмы
+окт 03 01:11:31 #lurknews        3       
+окт 03 01:11:31 #freebsd.talks   1       
+окт 03 01:11:31 #OnlineBible     1       Канал поддержки русскоязычных пользователей Библии Он-Лайн <http://onlinebible.github.io/olb.html>
+окт 03 01:11:31 #orenlinux       1       
+окт 03 01:11:31 #bf-front        1       
+окт 03 01:11:31 #bf1942          1       Все на #BattlefieldTsk
+окт 03 01:11:31 #bfvietnam       1       Все на #BattlefieldTsk
+окт 03 01:11:31 #ofptomsk        1       Все на #BattlefieldTsk
+окт 03 01:11:31 #armatomsk       1       Все на #BattlefieldTsk
+окт 03 01:11:31 #bfbc2_tomsk     1       Все на #BattlefieldTsk
+окт 03 01:11:31 #bf2142.tomsk    1       Все на #BattlefieldTsk
+окт 03 01:11:31 #seversk         1       
+окт 03 01:11:31 #tomica          1       
+окт 03 01:11:31 #f1-tomsk        1       
+окт 03 01:11:31 #artfield        1       
+окт 03 01:11:31 #amiga           1       
+окт 03 01:11:31 #nts             1       http://www.nts.su/pages/mobilnoe-prilojenie | http://www.nts.su/pages/iptv
+окт 03 01:11:31 #msf_tpu         2       
+окт 03 01:11:31 #tashtagol       1       
+окт 03 01:11:31 #GAD             1       
+окт 03 01:11:31 #satan           1       `%%,`%%,`%%,`%%  Мы сидим на http://coma.su и в Телеграмм https://t.me/joinchat/CzUlKQ3UN_PtoySLneXdhA `%%`%%`%%,`%%,
+окт 03 01:11:31 #Sanek508        3       
+окт 03 01:11:31 #ixx             2       Заходите на канал #Sanek508 и на сайт http://Sanek508.net
+окт 03 01:11:31 #padonki         2       'CheG рваный защеканец в жопу трахнутый поганец, друг его peet-bull_ хуила, пидорас,хуёв дрочила, криворотый вафлежуй, посасут вам нежно хуй. руснет вам не гейпарад. банан вам вжопу'
+окт 03 01:11:31 #samara          2       (С) (А) (М) (А) (Р) (А)
+окт 03 01:11:31 #space           2       '(К) (О) (С) (М) (О) (С)   НЛО и всё научное Маленькая коллекция сайтов и избранное нашего #space канала: .calclist и .calc <ключ_слово> '
+окт 03 01:11:31 #dgrad           3       [[|(|)|]] <<< Димитровград >>> [[|(|)|]] Новичкам совет, посидеть тут: http://www.rusnet.org.ru/rules.html
+окт 03 01:11:31 #dimitrovgrad    3       %% %% %% Необразованные люди не отвечают, и не могут ответить, за свои высказывания и поступки. Они жертвы культуры и агрессивны даже к себе подобным. %% %
+окт 03 01:11:31 #dnd-nsk         1       
+окт 03 01:11:31 #bf2             1       Канал БФ-сообщества Томск и России!
+окт 03 01:11:31 #06.06.09        1       Баня - как много в этом звуке!
+окт 03 01:11:31 #moecho          1       
+окт 03 01:11:32 #dominet         1       
+окт 03 01:11:32 #academ          1       
+окт 03 01:11:32 #Filya           1       
+окт 03 01:11:32 #antiopenair     3       
+окт 03 01:11:32 #sova            1       Канал для обсуждения вопросов, связанных с проектом СОВА в ПАО "Ростелеком"
+окт 03 01:11:32 #sibset          1       Чтобы помнили
+окт 03 01:11:32 #pulsefm         1       Чтобы помнили
+окт 03 01:11:32 #211fm           1       Чтобы помнили
+окт 03 01:11:32 #dars-ip         1       
+окт 03 01:11:32 #philosophy_of_cucumber 1       
+окт 03 01:11:32 #dsv             1       
+окт 03 01:11:32 #xakep           2       
+окт 03 01:11:32 #777             1       
+окт 03 01:11:32 #photo           1       
+окт 03 01:11:32 #kraftwerk       1       "Немецкий культовый музыкальный коллектив из Дюссельдорфа, внёсший заметный вклад в развитие электронной музыки. http://www.youtube.com/watch?v=KQ_grfKZGtY"
+окт 03 01:11:32 #cranberries     2       
+окт 03 01:11:32 #agmc            1       
+окт 03 01:11:32 #adminchan       2       Канал для администрации каналов begin_end. [ #100%_любви_и_знакомства!!!! #CodersZone #coding #DX-SWL #helnet ]
+окт 03 01:11:32 #music           2       
+окт 03 01:11:32 #укроп      1       -
+окт 03 01:11:32 #hosting         1       
+окт 03 01:11:32 #kurgan-telecom  1       
+окт 03 01:11:32 #home-co-ltd     1       
+окт 03 01:11:32 #partytalks-2    1       
+окт 03 01:11:32 #kurgan          1       
+окт 03 01:11:32 #godville        2       Официальный канал технической поддержки Годвилля || http://godville.info/519/main.html || /quote codepage cp1251 || !list !log || ПРИДУМЫВАЕМ ТРОФЕЙ, БЛЖАД 
+окт 03 01:11:32 #putin           1       
+окт 03 01:11:32 #linuxportal.ru  1       
+окт 03 01:11:32 #цыгель    1       шо
+окт 03 01:11:32 #vat4            2       
+окт 03 01:11:32 #lords_avalon    1       
+окт 03 01:11:32 #test_bot        1       
+окт 03 01:11:32 #ada             1       
+окт 03 01:11:32 #fights          1       | [Current Auction: ElectricMod]
+окт 03 01:11:32 #fallout         1       
+окт 03 01:11:32 #dump            1       ЕСТЬ КТО ЖЫВОЙ? || НЕД || иногда
+окт 03 01:11:32 #d2-nsk          1       
+окт 03 01:11:32 #Some-channel    1       Какой-то канал Хто здесь?
+окт 03 01:11:32 #Diablo_2        1       Добро пожаловать
+окт 03 01:11:32 #marine          1       
+окт 03 01:11:32 #beetroot        1       
+окт 03 01:11:32 #ministerstvo    1       
+окт 03 01:11:32 #html5           1       
+окт 03 01:11:32 #eveodessa       1       http://www.eveonline.com/odyssey
+окт 03 01:11:32 #c++             1       
+окт 03 01:11:32 #buktopuha       3       
+окт 03 01:11:32 #megasecurity    1       
+окт 03 01:11:32 #solarisflame    1       
+окт 03 01:11:32 #кислыйпонос 1       
+окт 03 01:11:32 #fightworld      1       
+окт 03 01:11:32 #arena           1       :D
+окт 03 01:11:32 #LunarBNC        1       
+окт 03 01:11:32 #sekta           3       свидетелей Яркко Ойкаринена
+окт 03 01:11:32 #satanism        3       Samhein. || Ave Satanas.
+окт 03 01:11:32 +79129745619     1       
+окт 03 01:11:32 #ur-test-bot     1       
+окт 03 01:11:32 *                1       
+окт 03 01:11:32 #intrice         2       obsolete
+окт 03 01:11:32 #paintball       1       channel dies
+окт 03 01:11:32 #cyberpunk       1       
+окт 03 01:11:32 #flightsim       1       
+окт 03 01:11:32 #vitz            2       
+окт 03 01:11:32 #Riddles         3       
+окт 03 01:11:32 #roulette        3       
+окт 03 01:11:32 #fight           3       Интерактивная ONLINE ИГРА <<<БОЙЦОВСКИЙ КЛУБ>>> Приглашаем также поиграть в <<<MUD>>> (Multi-User Dungeon). Пишем: /join #mudgame 
+окт 03 01:11:32 #labyrinth       3       Интерактивная многопользовательская <<<ИГРА>>> ЛАБИРИНТ. Поиграйте также в: /join #mudgame 
+окт 03 01:11:32 #ponimanie       3       
+окт 03 01:11:32 #newsman         2       
+окт 03 01:11:32 #lpr             2       Закон для всех, справедливость для некоторых!
+окт 03 01:11:32 #метрополия 1       
+окт 03 01:11:32 #strategy_games  1       http://zenrus.ru/
+окт 03 01:11:32 #kunaki          1       
+окт 03 01:11:32 #karbowanez      1       
+окт 03 01:11:32 #tavria          1       
+окт 03 01:11:32 #ПоСТ        1       
+окт 03 01:11:32 #IV74            1       
+окт 03 01:11:32 #umnepia         1       
+окт 03 01:11:32 #unp             1       
+окт 03 01:11:32 #airgun-kemerovo 1       
+окт 03 01:11:32 #187             1       Установка на красный гетц
+окт 03 01:11:32 #freetommy       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:32 #resist.se       1       irc.resist.se (ev5b23y73frqwjfm.onion)
+окт 03 01:11:32 #pravchat        1       : "По тому узнают все, что вы Мои ученики, если будете иметь любовь между собою." Ин 13:35 | Кодекс ПравЧата: https://pravchat.dreamwidth.org/298.html
+окт 03 01:11:32 #testik          1       
+окт 03 01:11:32 #alcobike        1       
+окт 03 01:11:32 #esoteric        1       
+окт 03 01:11:32 #cooper          1       
+окт 03 01:11:32 #kerch           1       Official Town webpage -> http://www.kerchrada.gov.ua
+окт 03 01:11:32 #dnz             2       
+окт 03 01:11:32 #переговорный 1       
+окт 03 01:11:32 #темный_уголок 1       
+окт 03 01:11:32 #qnx             2       QNX это: VISA, Atomic Energy of Canada Ltd., Open Architecture Distributed Control System, Cisco Systems & QNX Neutrino & IOS XR, BMW, Chrysler, Ford, General Motors, Toyota, Volkswagen, Робот bigdog, Разводной Троицкий мост, Система управления северными магистральными нефтепроводами, Сириус-QNX, Пульт космонавтов Нептун-МЭ, Octavo и многое другое.
+окт 03 01:11:32 #NeuroMusic      2       '|||||||||(N) (e) (u) (r) (o) (M) (u) (s) (i) (c)|||||||||Набери: .calc радио'
+окт 03 01:11:32 #notes           2       
+окт 03 01:11:32 #фсб          1       
+окт 03 01:11:32 #farpost         2       "Канал фарпост!"
+окт 03 01:11:32 #fsb             2       
+окт 03 01:11:32 #hacking         2       
+окт 03 01:11:32 #Mylene          2       
+окт 03 01:11:32 #vb              2       Р - 40 18:25 /// П - 003а 4:29 \\\ Expires: 28.10.2017 11:29:00 GMT \\\ DD125
+окт 03 01:11:32 #network         1       
+окт 03 01:11:32 #ror             1       
+окт 03 01:11:32 #general         1       
+окт 03 01:11:32 #noxious         1       http://noxiousofficial.com/med.jpg | Black Metal ist Krieg! | http://noxiousofficial.com
+окт 03 01:11:32 #usa             1       
+окт 03 01:11:32 #hostin          1       
+окт 03 01:11:32 #botnet.icf.org.ru 1       
+окт 03 01:11:32 #nixhelp         1       
+окт 03 01:11:32 #unix.talks      1       HB 2 GHhost...мурр!!!
+окт 03 01:11:32 #init            2       SUCCESS
+окт 03 01:11:32 #ruslinux        1       
+окт 03 01:11:32 #cyber           1       
+окт 03 01:11:32 #utr             1       
+окт 03 01:11:32 #erotic          1       
+окт 03 01:11:32 #mug             1       Moscow Unix Group | Linux/Unix || #nix'овка 13-го июня в МСК, просьба не планировать ничего на этот день 
+окт 03 01:11:32 #lfs             1       
+окт 03 01:11:32 #komy_3a_30      2       Баррель мне в танкер, да я же шедевр!
+окт 03 01:11:32 #n/o/rcalwat     1       
+окт 03 01:11:32 #some_channel    1       
+окт 03 01:11:32 #toyota          2       http://s00.yaplakal.com/pics/pics_original/7/9/4/6441497.jpg
+окт 03 01:11:32 #fleur           2       
+окт 03 01:11:32 #truedowngrade   1       
+окт 03 01:11:32 #Umka            2       
+окт 03 01:11:32 #trem            2       Urban Terror & Tremulous & WarSow game in Tomsk | http://tf.tomline.ru http://trem.opentomsk.net/ut/ http://trem.opentomsk.net/ http://trem.opentomsk.net/wsw
+окт 03 01:11:32 #banzai          1       
+окт 03 01:11:32 #ham             2       
+окт 03 01:11:32 #Россия    5       
+окт 03 01:11:32 #/rf/            2       
+окт 03 01:11:32 #dos             2       
+окт 03 01:11:32 #уютный_уголок 3       
+окт 03 01:11:32 #gordon          3       
+окт 03 01:11:32 #brony           2       
+окт 03 01:11:32 #vik_lm          3       
+окт 03 01:11:32 #apple           4       
+окт 03 01:11:32 #maidan          4       
+окт 03 01:11:32 #minsk           3       
+окт 03 01:11:32 #metal           2       
+окт 03 01:11:32 #aureon          9       
+окт 03 01:11:32 #rpg             1       
+окт 03 01:11:32 #partytalks      4       
+окт 03 01:11:32 #sw_kiev         2       
+окт 03 01:11:32 #zoo             1       
+окт 03 01:11:32 #teama_fpo       2       
+окт 03 01:11:32 #mikrotik        5       
+окт 03 01:11:32 #day-radio       1       
+окт 03 01:11:32 #urBydloCoding   2       
+окт 03 01:11:32 #bsdportal       2       
+окт 03 01:11:32 #geocaching      1       
+окт 03 01:11:32 #e-money         1       
+окт 03 01:11:32 #alexeco         2       #alexeco : - Off sites  alexeco.name
+окт 03 01:11:32 #francais        1       
+окт 03 01:11:32 #ulcamp          1       ULCAMP https://ulcamp.ru
+окт 03 01:11:32 #quiz            3       
+окт 03 01:11:32 #hides           1       Добро пожаловать!
+окт 03 01:11:32 #helpR           1       
+окт 03 01:11:32 #felineyiff      1       
+окт 03 01:11:32 #pawsru          1       
+окт 03 01:11:32 #cellular        1       
+окт 03 01:11:32 #/fg/            1       
+окт 03 01:11:32 #Vodka           1       2003-20XX RIP TC-EXE Алкоголизм для дураков, а мы отрываемся и отдыхаем!
+окт 03 01:11:32 #sosnovoborsk    1       WWW.SOSNOVOBORSK.SU :: Sosnovoborsk IRC channel :: //msg Spoofing Hello!
+окт 03 01:11:32 #kastaneda       1       [Bunker news] Upgrade to Debian 10, finally
+окт 03 01:11:32 #Tyumen          2       Время умирать
+окт 03 01:11:32 #bo              1       
+окт 03 01:11:32 #otvet           1       
+окт 03 01:11:32 *                3       
+окт 03 01:11:32 #rust            2       
+окт 03 01:11:32 #lua             2       Lua is a powerful, fast, lightweight, embeddable scripting language
+окт 03 01:11:32 #anta_baka       3        %%%%%% == ХАЙ-ХАЙ == %%%%%% 
+окт 03 01:11:32 #broccoli        2       http://zoome.jp/galaxyangel/ :E~ | <Xzaws> Тэ о Аряйо~ | missiles for free!!
+окт 03 01:11:32 #sailor_baka     3       rezervaciya dlya obdelennyh milost'yu Tsubatsu. построй свой звездолет, с маджонгом и девочками-волшебницами!
+окт 03 01:11:32 #asplinux        1       должен остаться только один | +1 | сегодня в 15:17 я остался один - win! (c) xor
+окт 03 01:11:32 #irssi           1       
+окт 03 01:11:32 #/b/             3       
+окт 03 01:11:32 #poring          5       
+окт 03 01:11:32 *                6       
+окт 03 01:11:32 #delphi          4       
+окт 03 01:11:32 #palatka         2       Посидели просто замечательно!
+окт 03 01:11:32 #torrents        3       
+окт 03 01:11:32 #rcl             2       
+окт 03 01:11:32 #mysql           3       
+окт 03 01:11:32 +                4       
+окт 03 01:11:32 #ufa             2       
+окт 03 01:11:32 #films           7       
+окт 03 01:11:32 #112             3       
+окт 03 01:11:32 #4747            2       
+окт 03 01:11:32 #koumakan        3       
+окт 03 01:11:32 #mvc             2       все ушли в Telegram :)
+окт 03 01:11:32 #vim             2       
+окт 03 01:11:32 #scala           1       
+окт 03 01:11:32 #sailormoon      4       
+окт 03 01:11:32 #tobolsk         4       
+окт 03 01:11:32 #doom2           4       
+окт 03 01:11:32 #32bit           2       
+окт 03 01:11:32 #NoMercy         1       .
+окт 03 01:11:32 #tsure           1       Taganrog Institute of Technology Southern Federal | Почтовый сервис: https://mail.tti.su/
+окт 03 01:11:32 #nazak           2       
+окт 03 01:11:32 #animesib        5       
+окт 03 01:11:32 #хуй          2       
+окт 03 01:11:32 #DDoS            2       ???? лорды милорды хуиные ваши морды ????
+окт 03 01:11:32 #bylins          1       муд былины
+окт 03 01:11:32 #???             1       
+окт 03 01:11:32 #???????         1       
+окт 03 01:11:32 #ur-l4d          1       
+окт 03 01:11:32 #c2h5(oh)        1       
+окт 03 01:11:32 #TTR-Releases    1       
+окт 03 01:11:32 #Elwar           3       
+окт 03 01:11:32 #ttr             1       
+окт 03 01:11:32 #torrents.tomsk.ru 2       Канал имени 'Первый Томский Торрент: TORRENTS.TOMSK.RU' [2006-02 - 2007-01]
+окт 03 01:11:32 #otaku-kh        1       
+окт 03 01:11:32 #vaping          1       
+окт 03 01:11:32 #macos           1       
+окт 03 01:11:32 #та3           1       
+окт 03 01:11:32 #distributed     1       
+окт 03 01:11:32 #velo.kiev       1       
+окт 03 01:11:32 #dorms           3       
+окт 03 01:11:32 #egghelp         1       
+окт 03 01:11:32 #psybnc          1       
+окт 03 01:11:32 #wow             1       
+окт 03 01:11:32 #tea             3       
+окт 03 01:11:32 #komi            2       Коми Республикаса irc-канал // http://www.rkomi.ru/gosud/simvol/index.phtml // http://www.komi.com/folk/myth/46.htm
+окт 03 01:11:32 #syktyvkar       2       'Виджа оланныд, донна йортьяс! Пыр локта да шуан став выльторьяс :) // http://kominarod.narod.ru/romposht/romposht.htm - Коми язык для взрослых
+окт 03 01:11:32 #metal.tomsk.ru  2       
+окт 03 01:11:32 #>>phoenix<<     1       
+окт 03 01:11:32 #zero            1       
+окт 03 01:11:32 #true            1       
+окт 03 01:11:32 #damage          2       pvt chan
+окт 03 01:11:33 #kuvalda         1       
+окт 03 01:11:33 #vkontakte       1       
+окт 03 01:11:33 #moonclub        1       
+окт 03 01:11:33 #xppop           2       http://ikle.ru/irc/xppop.html | Бывший канал попапов 14-15-16, popup is dead.
+окт 03 01:11:33 #ghl             1       
+окт 03 01:11:33 #glazov          1       
+окт 03 01:11:33 #lasher          1       
+окт 03 01:11:33 #shell           2       Продаются шеллы для ботов и бнц. Пишите в приват к в_танке и Trusty
+окт 03 01:11:33 #forex           4       Вот и начались трейдоебобудни...трейдуны к станку!
+окт 03 01:11:33 #stvr            2       
+окт 03 01:11:33 #cops            4       Угля, поздравля!
+окт 03 01:11:33 #antigop         1       
+окт 03 01:11:33 *                1       
+окт 03 01:11:33 #gmo             1       
+окт 03 01:11:33 #chelyabinsk     5       День надутых губ и запрокидывания головы
+окт 03 01:11:33 #mafia           5       
+окт 03 01:11:33 #j2me            6       
+окт 03 01:11:33 *                5       
+окт 03 01:11:33 #mafops          2       
+окт 03 01:11:33 #emule           4       
+окт 03 01:11:33 #sharp           1       
+окт 03 01:11:33 #humor           1        :: АНЕКДОТЫ :: BASH.ORG :: ФРАЗЫ -> [:]||||||||[:] из интернета каждые  5  минут!  :: 
+окт 03 01:11:33 #weird           1       "Я боюсь, что ты не достигнешь Мекки, о Номад, ведь дорога, которой ты идешь, ведет в Туркестан..." :: Societe anonyme d.hippophage ::  Команды бота: !help 
+окт 03 01:11:33 #Kosiak          1       
+окт 03 01:11:33 #bwc             1       Каналу 12 лет! | http://baikalwest.com
+окт 03 01:11:33 #Russian_zone    1       
+окт 03 01:11:33 #fluro           4       
+окт 03 01:11:33 #x1zer           2       
+окт 03 01:11:33 #sch_81          2       
+окт 03 01:11:33 #arda            2       Arda MUD | http://arda.pp.ru/
+окт 03 01:11:33 #hvmud           2       Hiervard MUD || http://hiervard.ru/
+окт 03 01:11:33 #neonnet         2       !list !log | NeonNet заморожено. NEON2 IP 2:463/877 набирает поинтов и линков в FidoNet. http://ncc.org.ua| http://ncc.org.ua/irc.php
+окт 03 01:11:33 #ragnarokonline  1       я хз || я могу поднять люми || тебе какой?
+окт 03 01:11:33 #cdrr            1       
+окт 03 01:11:33 #iichan          2       
+окт 03 01:11:33 #allex           2       
+окт 03 01:11:33 #gota            2       
+окт 03 01:11:33 #durdom          29      #БеляйпозвониЕвгении| Статистика и логи https://durdom.su | Правила http://bit.ly/_durdom ( ЧС - https://pastebin.com/ixKTYwhY )
+окт 03 01:11:33 #ulnet           2       В финском языке есть слово kalsarik?nnit [калсарикяннит], что в переводе значит <<выпивать дома в нижнем белье, не планируя никуда выходить>>. Хорошее слово.
+окт 03 01:11:33 #wintalk         1       
+окт 03 01:11:33 #irchelp         2       
+окт 03 01:11:33 #fiona           1       Закрытых дверей не бывает. Бывает недостаточно громкое Мяууу...
+окт 03 01:11:33 #ongoing         1       
+окт 03 01:11:33 #unequal         1       
+окт 03 01:11:33 #neotelecom      1       
+окт 03 01:11:33 #dnd_dnd         1       
+окт 03 01:11:33 #twidh           1       
+окт 03 01:11:33 #TeamB           1       
+окт 03 01:11:33 #mez_dh          1       
+окт 03 01:11:33 #ur_dh           1       
+окт 03 01:11:33 #cot             1       
+окт 03 01:11:33 #heresy          1       
+окт 03 01:11:33 #dnd_fpo         1       
+окт 03 01:11:33 #echoirlp        1       
+окт 03 01:11:33 #logchan         1       
+окт 03 01:11:33 #ndw             5       
+окт 03 01:11:33 #dwrpg           3       
+окт 03 01:11:33 #dwstaff         1       
+окт 03 01:11:33 #tweak           1       
+окт 03 01:11:33 #odessit         1       
+окт 03 01:11:33 #d_n_s           1       
+окт 03 01:11:33 #Sydiva          1       
+окт 03 01:11:33 #Dogs            3       
+окт 03 01:11:33 #b_p             3       
+окт 03 01:11:33 #matrix-inet     1       
+окт 03 01:11:33 #victorinka      1       
+окт 03 01:11:33 #exclusive       1       
+окт 03 01:11:33 #onmu            1       
+окт 03 01:11:33 #мр            1       
+окт 03 01:11:33 #temka           2       
+окт 03 01:11:33 #anarxi.st       1       
+окт 03 01:11:33 #дураки    1       
+окт 03 01:11:33 #sandtable       1       
+окт 03 01:11:33 #last.fm         1       
+окт 03 01:11:33 #buy_sell        2       
+окт 03 01:11:33 #lhvr            1       
+окт 03 01:11:33 #madonna         1       
+окт 03 01:11:33 #inf             1       
+окт 03 01:11:33 #animemagazine   1       
+окт 03 01:11:33 #anibel          1       
+окт 03 01:11:33 #aries           1       
+окт 03 01:11:33 #dofus           1       
+окт 03 01:11:33 #privoz          1       
+окт 03 01:11:33 #chtd            1       
+окт 03 01:11:33 #unix            3       expired
+окт 03 01:11:33 #lrn             1       
+окт 03 01:11:33 #flood           2       
+окт 03 01:11:33 #pikabu.ru       1       
+окт 03 01:11:33 *                6       
+окт 03 01:11:33 #kvirc           2       The official channel of KVIrc-client in RusNet. // Официальный канал клиента KVIrc в RusNet. http://www.kvirc.ru Скрипты: http://www.kvirc.ru/forum/board,12.0 // Хранилище скриптов: http://www.kvirc.info // FAQ: http://vk.cc/N8wTC 
+окт 03 01:11:33 #ЛУНАПАРК 9       
+окт 03 01:11:33 #geopolitics     3       
+окт 03 01:11:33 #TVR             1       
+окт 03 01:11:33 #mmtsr           1       
+окт 03 01:11:33 #vtomske.ru      1       
+окт 03 01:11:33 #redwix          1       
+окт 03 01:11:33 #jacaranda       1       
+окт 03 01:11:33 #src             2       
+окт 03 01:11:33 #tycyp           3       
+окт 03 01:11:33 #dirty.ru        2       
+окт 03 01:11:33 #mudgame         3        'Интерактивная многопользовательская IRC-ИГРА <<<MUD>>> (Multi-User Dungeon). Помощь по игре: !помощь, помощь, help, !help.
+окт 03 01:11:33 #victeam         1       |||||| #VicTeam ||||||| Командная викторина.  Играйте с удовольствием ! Помощь по командам !хелп (викторина) и !ахелп (анаграмма)
+окт 03 01:11:33 #фпесду    1       
+окт 03 01:11:33 #0бщага     1       
+окт 03 01:11:33 #Love&Sex        1       
+окт 03 01:11:33 #clan.war        1       
+окт 03 01:11:33 #cs              1       
+окт 03 01:11:33 #gamezone        1       
+окт 03 01:11:33 #pro.cs          1       
+окт 03 01:11:33 #cs.nettown      1       
+окт 03 01:11:33 #cstrike.tomsk   1       
+окт 03 01:11:33 #rasta.team      1       
+окт 03 01:11:33 #cs.shariki      1       
+окт 03 01:11:33 #tomgame         1       
+окт 03 01:11:33 #cs.seversk      1       
+окт 03 01:11:33 #cs_rubilovo     1       
+окт 03 01:11:33 #St-InGame       1       
+окт 03 01:11:33 #19Inches        1       
+окт 03 01:11:33 #cs.DABIGI       1       
+окт 03 01:11:33 #meatwars        1       
+окт 03 01:11:33 #cs.lazonet      1       
+окт 03 01:11:33 #cs.admins       1       
+окт 03 01:11:33 #cs-sibgame      1       
+окт 03 01:11:33 #CS.Tomtel       1       
+окт 03 01:11:33 #cs.arielnet     1       
+окт 03 01:11:33 #cs.19d          1       
+окт 03 01:11:33 #freebnc         1       
+окт 03 01:11:33 #antichat        3       https://forum.antichat.ru | off chan
+окт 03 01:11:33 #chem.by         1       
+окт 03 01:11:33 #rss             1       Канал для трансляции RSS с ИТ ресурсов (Habrahabr, SecurityLab, Xaker, Antichat, IRCRusNet и иные). Свежие новости с сайтов каждые несколько минут.
+окт 03 01:11:33 #shilka          1       
+окт 03 01:11:33 #byaks           1       
+окт 03 01:11:33 #wikireality     3       
+окт 03 01:11:33 #comedy          2       
+окт 03 01:11:33 #RusNet          2       
+окт 03 01:11:33 #iRC             1       
+окт 03 01:11:33 #sebastopol      1       
+окт 03 01:11:33 #Оймякон  1       
+окт 03 01:11:33 #css             2       .\0 {content: "<![CDATA["} .topic::after {content: "Это канал про Cascading Style Sheets"} .\0 {content: "]]>"}
+окт 03 01:11:33 #openair         2       
+окт 03 01:11:33 #politics-open   5       
+окт 03 01:11:33 #golang          4       GO language | golanger.xyz - там пока что ничего |
+окт 03 01:11:33 #16bits          4       
+окт 03 01:11:33 #blender         5       Blender 2.80 http://download.blender.org/release/Blender2.80/ | https://www.youtube.com/user/BlenderFoundation/videos | логи чата: http://h01.akhil.ru/rusnet/%23blender/?C=N;O=D
+окт 03 01:11:33 *                6       
+окт 03 01:11:33 #vladee          3       
+окт 03 01:11:33 #makelove        2       
+окт 03 01:11:33 #cvs_mirc        2       
+окт 03 01:11:33 #tomsknews       2       
+окт 03 01:11:33 #kuban           3       Кубань - это весь Краснодарский Край включая Красноярск, Минусинск, Томск, Севастополь, Сосновоборск, Новосибирск, Североуральск, Одесса, Верхняя Савоя, Подмосковье и др. 
+окт 03 01:11:33 #4pda            2       
+окт 03 01:11:33 #University      3       (В)(И)(К)(Т)(О)(Р)(И)(Н)(А) + addons. Лидеры дня 01.10.2019: 1. Taxa (54).
+окт 03 01:11:33 #Kaliningrad     2       
+окт 03 01:11:33 #lore            1       
+окт 03 01:11:33 #soft            3       Правила канала: http://www.rus-net.org/forum/index.php?showtopic=3791
+окт 03 01:11:33 #mirc-scripts    3       
+окт 03 01:11:33 #Holomi          2       
+окт 03 01:11:33 #Philology       3       Канал любителей грамотной речи. Мы знаем, что ЧК и ЧН пишутся без мягкого знака. Мы знаем, что мну -- от глагола мять, а не от местоимения меня. Но главное -- мы применяем свои знания! Знания можно черпать из http://gramota.ru
+окт 03 01:11:33 #irc.seb.org.ua  10      +bnc |Хосты: +bvhosts или http://irc.seb.org.ua/ | Connect: irc.seb.org.ua:4444 (4443, 1111) (SSL:4343) | Аккаунты более не удаляются
+окт 03 01:11:33 #tfug            4       
+окт 03 01:11:33 #elene           8       
+окт 03 01:11:33 #enigma          5       **..***.. Викторина.. .. ..      .: http://tt.erinome.net/cc/quiz :.       Лучший игрок дня: SmallCat  Делаем ставки в аукционах, супериграх, рандом-вопросах. 
+окт 03 01:11:33 #opensuse        5       openSUSE Linux channel | openSUSE Leap 15.1 RELEASED | Ресурсы: !calclist !calc [название] | Новости: !opensuse (starlfur)
+окт 03 01:11:33 #odessa          22      Людской цивилизации тотальный демонтаж.
+окт 03 01:11:33 #100%_любви_и_знакомства!!!! 9       Канал хорошего и доброго общения
+окт 03 01:11:33 #philosophy      18      
+окт 03 01:11:33 #asm             2       https://www.youtube.com/watch?v=ALBgsXOq11o => https://github.com/nanochess/Invaders/blob/master/invaders.asm
+окт 03 01:11:33 #astral          4       Уютный астральчик :3
+окт 03 01:11:33 #cqdx            3       DX CLUSTER RETRANSLATOR | HAMRADIO
+окт 03 01:11:33 #nikolaev        3       HB2U, HiX!!! /v0lant, вых
+окт 03 01:11:33 #nsu             2       
+окт 03 01:11:33 #500             1       рябчек-
+окт 03 01:11:33 #haskell         1       
+окт 03 01:11:33 #vrn             1       
+окт 03 01:11:33 #Hack-Academy    3       Поуков! - требуют наши сердца. Поуков - требуют наши глаза. Поуки - в пульсации вен. Мыждем-Поуков! :)|ыгыгы /только илитных, прочеканых/
+окт 03 01:11:33 #derp            1       
+окт 03 01:11:33 #avia            7       
+окт 03 01:11:33 #kvidex          1       
+окт 03 01:11:33 #yoga            3       
+окт 03 01:11:33 *                3       
+окт 03 01:11:33 #vita            5       
+окт 03 01:11:33 *                27      
+окт 03 01:11:33 #taganrog        2       
+окт 03 01:11:33 #coding          18      Канал для бесед о программировании. БНЦ (BNC) (coderszone.net:6589) Закрыто.
+окт 03 01:11:33 #subword         15      
+окт 03 01:11:33 #victorina       4       
+окт 03 01:11:33 #announces       13      
+окт 03 01:11:33 #DarkCrystal     5       МКС / ISS
+окт 03 01:11:33 #science         16      Наука
+окт 03 01:11:33 #crimea          12      Крим
+окт 03 01:11:33 #castaneda       16      люби то, что не любит ОНО
+окт 03 01:11:33 #bash            2       
+окт 03 01:11:33 #dirty           9       мы покакунькали
+окт 03 01:11:33 #oracle          1       
+окт 03 01:11:33 #eggdrop         29      
+окт 03 01:11:33 #komy_3a_25      9       Лучше ездить каждый день на велосипеде на пляж, чем на Мерседесе на работу.
+окт 03 01:11:33 #habrahabr       27      Канал хабры в интернетах.|| flood, оффтопик и прочий спам не приветствуется.
+окт 03 01:11:33 #funchat         2       
+окт 03 01:11:33 #Dom_u_Mosta     1       
+окт 03 01:11:33 #Bunba           1       
+окт 03 01:11:33 #feaell          1       
+окт 03 01:11:33 #netrunners      1       
+окт 03 01:11:33 #anime-nihongo   1       
+окт 03 01:11:33 #frei            1       
+окт 03 01:11:33 #wesna           1       
+окт 03 01:11:33 #sm              1       
+окт 03 01:11:33 #idle            2       
+окт 03 01:11:33 #$               1       
+окт 03 01:11:33 #primorye        2       
+окт 03 01:11:33 #stormrage       6       
+окт 03 01:11:33 #!               2       Портал - /dev/null Здесь живут культурные и интеллигентные люди! | Список ников удаленного канала: !cnlist | Информация: http://null.a-ec.name/
+окт 03 01:11:33 #punk.lug        3       RIP Dennis M. Ritchie | ПУНК LUG | http://ikle.ru/irc/punk-lug.html | If you can't  explain it simply, you don't understand it well enough. (c) Al. Ei.
+окт 03 01:11:33 #freebot         10      
+окт 03 01:11:33 #magi            28      Канал свободы, бан только за неукратимый флуд. Маги в телеге: https://t.me/magi_ru
+окт 03 01:11:33 #windrop         6       
+окт 03 01:11:33 #magnit          2       `%%,`%%,`%%,`%%'`% Лучше спортивная фигура чем спортивное лицо %`%%,`%%'`%%,`%%,
+окт 03 01:11:33 #love            6       
+окт 03 01:11:33 #adultlion       2       
+окт 03 01:11:33 #mlp             4       Канал про малогабаритных непарнокопытных
+окт 03 01:11:33 *                2       
+окт 03 01:11:33 #openarena       4       
+окт 03 01:11:33 #krasnoyarsk     2       
+окт 03 01:11:33 #politics_open   25      <MoHaX> вертухаи - это зеки.
+окт 03 01:11:33 #позитивчик 8       
+окт 03 01:11:33 #центральный 19      Ксения Собчак будет вести шоу <<Пусть Говорят>> на Первом канале. А вы говорили, что она ничего не добьётся на президентских выборах!
+окт 03 01:11:33 #politics        48      Управляющий колонией Путин поздравил российских евреев с иудейским Новым годом.  | Игровой канал #subword
+окт 03 01:11:33 #piter           13      С Днём Семьи, Любви и Верности
+окт 03 01:11:33 #fido            9       
+окт 03 01:11:33 #hamradio        16      Radio Amateurs Community
+окт 03 01:11:33 #tomtel          4       
+окт 03 01:11:33 #android         7       
+окт 03 01:11:33 #overclockers.ru 7       
+окт 03 01:11:33 #russia+30       14      
+окт 03 01:11:33 #webdev          13      Веб-разработчики - общайтесь! links: [ http://rusnet-webdev.surge.sh , http://www.opennet.ru/mp/web , http://codeguide.co , http://www.cheat-sheets.org ] , rules: http://goo.gl/sXAIJ , books: http://goo.gl/SJc4o4 , web: https://webdev.a-ec.name  
+окт 03 01:11:33 #Help            36      
+окт 03 01:11:33 #python          10      Python 2.7.15, Python 3.7.3
+окт 03 01:11:33 #orthodoxy       4       Православный чат
+окт 03 01:11:33 #ortho-it        7       Мы переехали в Telegram заходите по ссылке https://t.me/ortho_it либо напишите боту http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:33 #anastasis       5       Мы переехали в Telegram, если кому-то туда нужно, то обращайтесь в приват к kocc, либо обращайтесь через бота http://tlgm.pw/anastasisChatSupportBot
+окт 03 01:11:33 #hentai          4       
+окт 03 01:11:33 #16bit           28      Канал шоу "16 бит тому назад" и других проектов Дмитрия Бачило | Кремниевые Титаны #25: Ryzen -- https://youtu.be/zMkkFtPISWk | [VLOG] Level Up Days 2019 Новосибирск -- https://youtu.be/12NnQ-rGOrc | Круглосуточный сервак OpenArena: arena.allunix.ru
+окт 03 01:11:33 #gay             3       
+окт 03 01:11:33 &AUTH            1       SERVER MESSAGES: messages from the authentication slave
+окт 03 01:11:33 &SERVICES        1       SERVER MESSAGES: services joining and leaving
+окт 03 01:11:33 &LOCAL           1       SERVER MESSAGES: notices about local connections
+окт 03 01:11:33 &HASH            1       SERVER MESSAGES: hash tables growth
+окт 03 01:11:33 &SERVERS         2       SERVER MESSAGES: servers joining and leaving
+окт 03 01:11:33 &NUMERICS        1       SERVER MESSAGES: numerics received
+окт 03 01:11:33 &CHANNEL         1       SERVER MESSAGES: fake modes
+окт 03 01:11:33 &KILLS           1       SERVER MESSAGES: operator and server kills
+окт 03 01:11:33 &NOTICES         1       SERVER MESSAGES: warnings and notices
+окт 03 01:11:33 &ERRORS          1       SERVER MESSAGES: server errors
+окт 03 01:11:33 *	End of LIST
+окт 03 01:11:44 *	No ping reply for 96 seconds, disconnecting.
+окт 03 01:11:44 *	Соединение разорвано ()
+окт 03 01:11:54 *	Looking up irc.tomsk.net
+окт 03 01:11:54 *	Соединение с irc.tomsk.net (62.68.144.213:6667)
+окт 03 01:11:54 *	Соединение установлено. Входим в систему.
+окт 03 01:11:55 *	*** You are connected to RusNet. Please wait...
+окт 03 01:12:05 Вы не зашли на канал. Наберите /join #<канал>
+окт 03 01:12:12 
+Доступные команды:
+
+окт 03 01:12:12   ADDBUTTON ADDSERVER ALLCHAN   ALLCHANL  ALLSERV
+окт 03 01:12:12   AWAY      BACK      BAN       CHANOPT   CHARSET
+окт 03 01:12:12   CLEAR     CLOSE     COUNTRY   CTCP      CYCLE
+окт 03 01:12:12   DCC       DEBUG     DEHOP     DELBUTTON DEOP
+окт 03 01:12:12   DEVOICE   DISCON    DNS       DOAT      ECHO
+окт 03 01:12:12   EXEC      EXECCONT  EXECKILL  EXECSTOP  EXECWRITE
+окт 03 01:12:12   FLUSHQ    GATE      GETBOOL   GETFILE   GETINT
+окт 03 01:12:12   GETSTR    GHOST     GUI       HELP      HOP
+окт 03 01:12:12   ID        IGNORE    INVITE    JOIN      KICK
+окт 03 01:12:12   KICKBAN   KILLALL   LAGCHECK  LASTLOG   LIST
+окт 03 01:12:12   LOAD      MDEHOP    MDEOP     ME        MENU
+окт 03 01:12:12   MHOP      MKICK     MODE      MOP       MSG
+окт 03 01:12:12   NAMES     NCTCP     NEWSERVER NICK      NOTICE
+окт 03 01:12:12   NOTIFY    OP        PART      PING      QUERY
+окт 03 01:12:12   QUIET     QUIT      QUOTE     RECONNECT RECV
+окт 03 01:12:12   RELOAD    SAY       SEND      SERVCHAN  SERVER
+окт 03 01:12:12   SET       SETCURSOR SETTAB    SETTEXT   SPLAY
+окт 03 01:12:12   TOPIC     TRAY      UNBAN     UNIGNORE  UNLOAD
+окт 03 01:12:12   UNQUIET   URL       USELECT   USERLIST  VOICE
+окт 03 01:12:12   WALLCHAN  WALLCHOP  
+окт 03 01:12:12 
+Определённые пользователем команды:
+
+окт 03 01:12:12   ACTION    AME       ANICK     AMSG      BANLIST
+окт 03 01:12:12   CHAT      DIALOG    DMSG      EXIT      GREP
+окт 03 01:12:12   IGNALL    J         KILL      LEAVE     M
+окт 03 01:12:12   OMSG      ONOTICE   RAW       SERVHELP  SPING
+окт 03 01:12:12   SQUERY    SSLSERVER SV        UMODE     UPTIME
+окт 03 01:12:12   VER       VERSION   WALLOPS   WI        WII
+окт 03 01:12:12   
+окт 03 01:12:12 
+Определённые расширениями команды:
+
+окт 03 01:12:12   UNLOAD    TRAY      RELOAD    UNLOAD    LOAD
+окт 03 01:12:12   PY        LUA       RELOAD    UNLOAD    LOAD
+окт 03 01:12:12   CHECKSUM  PL        RELOADALL UNLOADALL PL_RELOAD
+окт 03 01:12:12   RELOAD    UNLOAD    LOAD      ME        MSG+
+окт 03 01:12:12   NOTICE+   TOPIC+    KEYX      DELKEY    SETKEY
+окт 03 01:12:12   SYSINFO   IDENTD    TIMER     
+окт 03 01:12:12 
+Наберите /HELP <имя команды> для более полной информации, или /HELP -l
+
+**** ЗАКАНЧИВАЕТСЯ ВХОЖДЕНИЕ НА Thu Oct  3 01:12:51 2019
+
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:12:51 2019
+
+окт 03 01:12:51 *	Welcome to the Internet Relay Network shaman!~shaman@83.102.198.79
+окт 03 01:12:51 *	Your host is irc.tomsk.net, running version 1.5.25/uk_UA.KOI8-U with SSL support
+окт 03 01:12:51 *	This server was created Tue Nov 26 2013 at 20:32:17 NOVT
+окт 03 01:12:51 *	irc.tomsk.net 1.5.25/uk_UA.KOI8-U aboOirswx abcehiIklmnoOpqrstvz
+окт 03 01:12:51 *	PREFIX=(ohv)@%+ CODEPAGES MODES=3 CHANTYPES=#&!+ MAXCHANNELS=30 NICKLEN=31 TOPICLEN=255 KICKLEN=255 NETWORK=RusNet CHANMODES=beI,k,l,acimnpqrstz :are supported by this server
+окт 03 01:12:51 *	There are 704 users and 0 services on 17 servers
+окт 03 01:12:51 *	20 :operators online
+окт 03 01:12:51 *	1731 :unknown connections
+окт 03 01:12:51 *	760 :channels formed
+окт 03 01:12:51 *	I have 95 users, 0 services and 2 servers
+окт 03 01:12:51 *	Current local users: 95  Max: 439
+окт 03 01:12:51 *	Current global users: 704  Max: 1083
+окт 03 01:12:51 *	- irc.tomsk.net Message of the Day - 
+окт 03 01:12:51 *	- 14/4/2014 8:56
+окт 03 01:12:51 *	- =======================================================================
+окт 03 01:12:51 *	- RusNet IRC Network | Tomsk IRC server | Hosted by TOMTEL http://www.tomtel.ru
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- =======================================================================
+окт 03 01:12:51 *	- Location:  Tomsk, Russia
+окт 03 01:12:51 *	- Admin contact:    kooper, Gnomus (ircadmin@tomsk.net)
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- Codepages per ports are (Русские кодовые таблицы по портам):
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	-       6666: UTF-8
+окт 03 01:12:51 *	-       6667: KOI8-R
+окт 03 01:12:51 *	-       6668: Translit
+окт 03 01:12:51 *	-       6669: CP1251
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- Codepages per ports with SSL support:
+окт 03 01:12:51 *	-       9996: UTF-8
+окт 03 01:12:51 *	-       9997: KOI8-R
+окт 03 01:12:51 *	-       9998: Translit
+окт 03 01:12:51 *	-       9999: CP1251
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- To change your codepage on-the-fly (Сменить таблицу "на лету" можно):
+окт 03 01:12:51 *	-       /quote codepage codepage-name
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- There are Network Services running (В сети работают сервисы):
+окт 03 01:12:51 *	-       NickServ, MemoServ, ChanServ
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- Start using them with (Начните работу с ними с):
+окт 03 01:12:51 *	-       /msg NickServ@*.Rusnet help, /msg ChanServ@*.Rusnet help
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- Help Channels on the net (В сети есть каналы помощи):
+окт 03 01:12:51 *	-       /join #help - help channel (канал помощи)
+окт 03 01:12:51 *	-       /join #abuse - abuse channel (канал жалоб)
+окт 03 01:12:51 *	-       /join #announces - channel for announce channel
+окт 03 01:12:51 *	-                          (канал для анонсов каналов)
+окт 03 01:12:51 *	- 
+окт 03 01:12:51 *	- RusNet network Rules and FAQ (Правила сети RusNet и FAQ)
+окт 03 01:12:51 *	-       http://ircfaq.tomsk.com http://www.rus-net.org/rules.html
+окт 03 01:12:51 *	- =======================================================================
+окт 03 01:12:51 *	- NO: CLONES, WARS, FLOOD, SPAM!   НЕТ: КЛОНАМ, ВОЙНАМ, АТАКАМ, РЕКЛАМЕ!
+окт 03 01:12:51 *	- =======================================================================
+окт 03 01:12:51 *	End of MOTD command.
+окт 03 01:12:51 *	shaman установил режим +i для shaman
+окт 03 01:12:51 *	koi8-r :is your charset now
+окт 03 01:12:51 *	use :Unknown command
+окт 03 01:13:14 *	No ping reply for 80 seconds, disconnecting.
+окт 03 01:13:14 *	Соединение разорвано ()
+окт 03 01:13:24 *	Looking up irc.tomsk.net
+окт 03 01:13:24 *	Соединение с irc.tomsk.net (62.68.144.213:6667)
+окт 03 01:13:24 *	Соединение установлено. Входим в систему.
+окт 03 01:13:26 *	*** You are connected to RusNet. Please wait...
+окт 03 01:14:23 *	Welcome to the Internet Relay Network shaman!~shaman@83.102.198.79
+окт 03 01:14:23 *	Your host is irc.tomsk.net, running version 1.5.25/uk_UA.KOI8-U with SSL support
+окт 03 01:14:23 *	This server was created Tue Nov 26 2013 at 20:32:17 NOVT
+окт 03 01:14:23 *	irc.tomsk.net 1.5.25/uk_UA.KOI8-U aboOirswx abcehiIklmnoOpqrstvz
+окт 03 01:14:23 *	PREFIX=(ohv)@%+ CODEPAGES MODES=3 CHANTYPES=#&!+ MAXCHANNELS=30 NICKLEN=31 TOPICLEN=255 KICKLEN=255 NETWORK=RusNet CHANMODES=beI,k,l,acimnpqrstz :are supported by this server
+окт 03 01:14:23 *	There are 703 users and 0 services on 17 servers
+окт 03 01:14:23 *	20 :operators online
+окт 03 01:14:23 *	1731 :unknown connections
+окт 03 01:14:23 *	760 :channels formed
+окт 03 01:14:23 *	I have 95 users, 0 services and 2 servers
+окт 03 01:14:23 *	Current local users: 95  Max: 439
+окт 03 01:14:23 *	Current global users: 703  Max: 1083
+окт 03 01:14:23 *	- irc.tomsk.net Message of the Day - 
+окт 03 01:14:23 *	- 14/4/2014 8:56
+окт 03 01:14:23 *	- =======================================================================
+окт 03 01:14:23 *	- RusNet IRC Network | Tomsk IRC server | Hosted by TOMTEL http://www.tomtel.ru
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- =======================================================================
+окт 03 01:14:23 *	- Location:  Tomsk, Russia
+окт 03 01:14:23 *	- Admin contact:    kooper, Gnomus (ircadmin@tomsk.net)
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- Codepages per ports are (Русские кодовые таблицы по портам):
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	-       6666: UTF-8
+окт 03 01:14:23 *	-       6667: KOI8-R
+окт 03 01:14:23 *	-       6668: Translit
+окт 03 01:14:23 *	-       6669: CP1251
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- Codepages per ports with SSL support:
+окт 03 01:14:23 *	-       9996: UTF-8
+окт 03 01:14:23 *	-       9997: KOI8-R
+окт 03 01:14:23 *	-       9998: Translit
+окт 03 01:14:23 *	-       9999: CP1251
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- To change your codepage on-the-fly (Сменить таблицу "на лету" можно):
+окт 03 01:14:23 *	-       /quote codepage codepage-name
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- There are Network Services running (В сети работают сервисы):
+окт 03 01:14:23 *	-       NickServ, MemoServ, ChanServ
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- Start using them with (Начните работу с ними с):
+окт 03 01:14:23 *	-       /msg NickServ@*.Rusnet help, /msg ChanServ@*.Rusnet help
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- Help Channels on the net (В сети есть каналы помощи):
+окт 03 01:14:23 *	-       /join #help - help channel (канал помощи)
+окт 03 01:14:23 *	-       /join #abuse - abuse channel (канал жалоб)
+окт 03 01:14:23 *	-       /join #announces - channel for announce channel
+окт 03 01:14:23 *	-                          (канал для анонсов каналов)
+окт 03 01:14:23 *	- 
+окт 03 01:14:23 *	- RusNet network Rules and FAQ (Правила сети RusNet и FAQ)
+окт 03 01:14:23 *	-       http://ircfaq.tomsk.com http://www.rus-net.org/rules.html
+окт 03 01:14:23 *	- =======================================================================
+окт 03 01:14:23 *	- NO: CLONES, WARS, FLOOD, SPAM!   НЕТ: КЛОНАМ, ВОЙНАМ, АТАКАМ, РЕКЛАМЕ!
+окт 03 01:14:23 *	- =======================================================================
+окт 03 01:14:23 *	End of MOTD command.
+окт 03 01:14:23 *	koi8-r :is your charset now
+окт 03 01:14:23 *	announces :No such channel
+окт 03 01:14:36 *	#odessa ~user 195.adv.host2go.net irc.tambov.ru Oська H :4 oxy
+окт 03 01:14:36 *	* service RusNet *.RusNet NickServ H* :4 Nickname Registration Service
+окт 03 01:14:36 *	* service RusNet *.RusNet ChanServ H* :4 Channel Registration Service
+окт 03 01:14:36 *	* service RusNet *.RusNet MemoServ H* :4 Memo Server
+окт 03 01:14:36 *	* enforcer RusNet *.RusNet newbie H :4 NickServ Enforcement
+окт 03 01:14:36 *	* enforcer RusNet *.RusNet artem H :4 NickServ Enforcement
+окт 03 01:14:36 *	* enforcer RusNet *.RusNet egypcio H :4 NickServ Enforcement
+окт 03 01:14:36 *	#sova ~MOV_ah 213.8NJU4.rRc7Y.in-addr irc.run.net MOV_ah Gx@ :3 ...
+окт 03 01:14:36 *	#hides ~gloomy 06-hazardous.crabdance.com irc.tomsk.net zombie H :0 graveyard
+окт 03 01:14:36 *	#hentai ~tonya net1-x-ring.tony.pp.ru irc.tomsk.net Тонька G :0 Тоня Маслова http://www.tony.pp.ru./tmp/tonya.jpg
+окт 03 01:14:36 *	#sova ~shaman 83.102.198.79 irc.tomsk.net shaman H :0 realname
+окт 03 01:14:36 *	* :End of WHO list.
+окт 03 01:14:44 *	No ping reply for 80 seconds, disconnecting.
+окт 03 01:14:44 *	Соединение разорвано ()
+окт 03 01:14:54 *	Looking up irc.tomsk.net
+окт 03 01:14:54 *	Соединение с irc.tomsk.net (62.68.144.213:6667)
+окт 03 01:14:54 *	Соединение установлено. Входим в систему.
+окт 03 01:14:55 *	*** You are connected to RusNet. Please wait...
+окт 03 01:15:52 *	Welcome to the Internet Relay Network shaman!~shaman@83.102.198.79
+окт 03 01:15:52 *	Your host is irc.tomsk.net, running version 1.5.25/uk_UA.KOI8-U with SSL support
+окт 03 01:15:52 *	This server was created Tue Nov 26 2013 at 20:32:17 NOVT
+окт 03 01:15:52 *	irc.tomsk.net 1.5.25/uk_UA.KOI8-U aboOirswx abcehiIklmnoOpqrstvz
+окт 03 01:15:52 *	PREFIX=(ohv)@%+ CODEPAGES MODES=3 CHANTYPES=#&!+ MAXCHANNELS=30 NICKLEN=31 TOPICLEN=255 KICKLEN=255 NETWORK=RusNet CHANMODES=beI,k,l,acimnpqrstz :are supported by this server
+окт 03 01:15:52 *	There are 704 users and 0 services on 17 servers
+окт 03 01:15:52 *	20 :operators online
+окт 03 01:15:52 *	1731 :unknown connections
+окт 03 01:15:52 *	760 :channels formed
+окт 03 01:15:52 *	I have 95 users, 0 services and 2 servers
+окт 03 01:15:52 *	Current local users: 95  Max: 439
+окт 03 01:15:52 *	Current global users: 704  Max: 1083
+окт 03 01:15:52 *	- irc.tomsk.net Message of the Day - 
+окт 03 01:15:52 *	- 14/4/2014 8:56
+окт 03 01:15:52 *	- =======================================================================
+окт 03 01:15:52 *	- RusNet IRC Network | Tomsk IRC server | Hosted by TOMTEL http://www.tomtel.ru
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- =======================================================================
+окт 03 01:15:52 *	- Location:  Tomsk, Russia
+окт 03 01:15:52 *	- Admin contact:    kooper, Gnomus (ircadmin@tomsk.net)
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- Codepages per ports are (Русские кодовые таблицы по портам):
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	-       6666: UTF-8
+окт 03 01:15:52 *	-       6667: KOI8-R
+окт 03 01:15:52 *	-       6668: Translit
+окт 03 01:15:52 *	-       6669: CP1251
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- Codepages per ports with SSL support:
+окт 03 01:15:52 *	-       9996: UTF-8
+окт 03 01:15:52 *	-       9997: KOI8-R
+окт 03 01:15:52 *	-       9998: Translit
+окт 03 01:15:52 *	-       9999: CP1251
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- To change your codepage on-the-fly (Сменить таблицу "на лету" можно):
+окт 03 01:15:52 *	-       /quote codepage codepage-name
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- There are Network Services running (В сети работают сервисы):
+окт 03 01:15:52 *	-       NickServ, MemoServ, ChanServ
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- Start using them with (Начните работу с ними с):
+окт 03 01:15:52 *	-       /msg NickServ@*.Rusnet help, /msg ChanServ@*.Rusnet help
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- Help Channels on the net (В сети есть каналы помощи):
+окт 03 01:15:52 *	-       /join #help - help channel (канал помощи)
+окт 03 01:15:52 *	-       /join #abuse - abuse channel (канал жалоб)
+окт 03 01:15:52 *	-       /join #announces - channel for announce channel
+окт 03 01:15:52 *	-                          (канал для анонсов каналов)
+окт 03 01:15:52 *	- 
+окт 03 01:15:52 *	- RusNet network Rules and FAQ (Правила сети RusNet и FAQ)
+окт 03 01:15:52 *	-       http://ircfaq.tomsk.com http://www.rus-net.org/rules.html
+окт 03 01:15:52 *	- =======================================================================
+окт 03 01:15:52 *	- NO: CLONES, WARS, FLOOD, SPAM!   НЕТ: КЛОНАМ, ВОЙНАМ, АТАКАМ, РЕКЛАМЕ!
+окт 03 01:15:52 *	- =======================================================================
+окт 03 01:15:52 *	End of MOTD command.
+окт 03 01:15:52 *	koi8-r :is your charset now
+окт 03 01:16:14 *	No ping reply for 80 seconds, disconnecting.
+окт 03 01:16:14 *	Соединение разорвано ()

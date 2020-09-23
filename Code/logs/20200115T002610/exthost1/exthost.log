@@ -1,0 +1,54 @@
+[2020-01-15 00:26:13.203] [exthost] [info] extension host started
+[2020-01-15 00:26:13.290] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-15 00:26:13.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-15 00:26:13.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-15 00:26:13.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/emmet/dist/extension
+[2020-01-15 00:26:13.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-15 00:26:13.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-01-15 00:26:13.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-15 00:26:13.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-15 00:26:13.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-15 00:26:13.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-01-15 00:26:13.360] [exthost] [info] eager extensions activated
+[2020-01-15 00:26:27.733] [exthost] [info] extension host started
+[2020-01-15 00:26:27.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-15 00:26:27.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-15 00:26:27.810] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-15 00:26:27.810] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/emmet/dist/extension
+[2020-01-15 00:26:27.830] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-15 00:26:27.830] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-01-15 00:26:27.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-15 00:26:27.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-15 00:26:27.856] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-15 00:26:27.856] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-01-15 00:26:27.858] [exthost] [info] eager extensions activated
+[2020-01-15 00:26:53.876] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"workspaceContains:/.vscode/c_cpp_properties.json"}
+[2020-01-15 00:26:53.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shaman/.vscode/extensions/ms-vscode.cpptools-0.26.2/dist/main
+[2020-01-15 00:27:42.041] [exthost] [info] ExtensionService#_doActivateExtension ACharLuk.easy-cpp-projects {"startup":false,"extensionId":{"value":"ACharLuk.easy-cpp-projects","_lower":"acharluk.easy-cpp-projects"},"activationEvent":"workspaceContains:.vscode/.easycpp"}
+[2020-01-15 00:27:42.041] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shaman/.vscode/extensions/acharluk.easy-cpp-projects-1.7.7/out/extension
+[2020-01-15 00:28:21.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-15 00:28:21.673] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-15 00:28:21.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-15 00:28:21.685] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-15 00:28:21.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-01-15 00:28:21.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-15 00:29:01.177] [exthost] [info] extension host started
+[2020-01-15 00:29:01.239] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-15 00:29:01.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-15 00:29:01.247] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-15 00:29:01.247] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/emmet/dist/extension
+[2020-01-15 00:29:01.274] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-15 00:29:01.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/git/dist/main
+[2020-01-15 00:29:01.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-15 00:29:01.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-15 00:29:01.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-15 00:29:01.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/search-result/dist/extension.js
+[2020-01-15 00:29:01.320] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"*"}
+[2020-01-15 00:29:01.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/shaman/.vscode/extensions/ms-vscode.cpptools-0.26.3-insiders3/dist/main
+[2020-01-15 00:29:01.483] [exthost] [info] eager extensions activated
+[2020-01-15 00:29:20.153] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-01-15 00:29:20.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/ms-vscode.node-debug2/out/src/extension
+[2020-01-15 00:29:20.167] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-01-15 00:29:20.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/ms-vscode.node-debug/dist/extension.js
+[2020-01-15 00:29:22.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-01-15 00:29:22.010] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/VSCode-linux-x64/resources/app/extensions/debug-server-ready/dist/extension

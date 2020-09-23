@@ -1,0 +1,20 @@
+<roxterm_session id='Default'>
+  <window geometry='136x31+0+20'
+      title_template='%s' font='Source Code Pro 13'
+      title_template_locked='0'
+      title='' role='(null)'
+      shortcut_scheme='Default' show_menubar='0'
+      always_show_tabs='0' tab_pos='2'
+      show_add_tab_btn='1'
+      disable_menu_shortcuts='0' disable_tab_shortcuts='0'
+      maximised='0' fullscreen='0' zoom='1,000000'>
+    <tab profile='Default'
+        colour_scheme='Tango' cwd='/home/shaman'
+        title_template='%s' window_title=''
+        title_template_locked='0' current='1'>
+      <command argc='1'>
+        <arg s='/bin/bash' />
+      </command>
+    </tab>
+  </window>
+</roxterm_session>

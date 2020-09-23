@@ -1,0 +1,24 @@
+[2020-01-15 00:26:14.306] [sharedprocess] [info] main {"machineId":"640ddc0374632f470509d555cc7ea99da82f1ad8fb7f8bfe0513dc4567b665f8","windowId":2}
+[2020-01-15 00:26:14.539] [sharedprocess] [info] Deleted from disk kalitaalexey.vscode-rust /home/shaman/.vscode/extensions/kalitaalexey.vscode-rust-0.4.2
+[2020-01-15 00:26:14.539] [sharedprocess] [info] Deleted from disk rust-lang.rust /home/shaman/.vscode/extensions/rust-lang.rust-0.7.0
+[2020-01-15 00:26:16.134] [sharedprocess] [info] Installing extension: ikuyadeu.r
+[2020-01-15 00:26:17.537] [sharedprocess] [info] Downloaded extension: ikuyadeu.r /tmp/ecc8b58c-c55e-4451-bcdd-38dcba478375
+[2020-01-15 00:26:17.672] [sharedprocess] [info] Extracted extension to /home/shaman/.vscode/extensions/.ikuyadeu.r-1.2.1: ikuyadeu.r
+[2020-01-15 00:26:17.672] [sharedprocess] [info] Renamed to /home/shaman/.vscode/extensions/ikuyadeu.r-1.2.1
+[2020-01-15 00:26:17.673] [sharedprocess] [info] Installation completed. ikuyadeu.r
+[2020-01-15 00:26:17.687] [sharedprocess] [info] Extensions installed successfully: ikuyadeu.r
+[2020-01-15 00:26:40.505] [sharedprocess] [info] Uninstalling extension: ikuyadeu.r
+[2020-01-15 00:26:40.522] [sharedprocess] [info] Successfully uninstalled extension: ikuyadeu.r
+[2020-01-15 00:26:54.320] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-15 00:26:54.323] [sharedprocess] [info] Skipping directory 914e01d542d8c8096c0916d63c250098.ru. Language pack still in use.
+[2020-01-15 00:27:41.072] [sharedprocess] [info] Installing extension: acharluk.easy-cpp-projects
+[2020-01-15 00:27:41.847] [sharedprocess] [info] Downloaded extension: acharluk.easy-cpp-projects /tmp/d9d13b3a-6041-44e3-b633-2b35b3680501
+[2020-01-15 00:27:41.938] [sharedprocess] [info] Extracted extension to /home/shaman/.vscode/extensions/.acharluk.easy-cpp-projects-1.7.7: acharluk.easy-cpp-projects
+[2020-01-15 00:27:41.938] [sharedprocess] [info] Renamed to /home/shaman/.vscode/extensions/acharluk.easy-cpp-projects-1.7.7
+[2020-01-15 00:27:41.939] [sharedprocess] [info] Installation completed. acharluk.easy-cpp-projects
+[2020-01-15 00:27:41.946] [sharedprocess] [info] Extensions installed successfully: acharluk.easy-cpp-projects
+[2020-01-15 00:28:48.994] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2020-01-15 00:28:51.612] [sharedprocess] [info] Extracted extension to /home/shaman/.vscode/extensions/.ms-vscode.cpptools-0.26.3-insiders3: ms-vscode.cpptools
+[2020-01-15 00:28:51.612] [sharedprocess] [info] Renamed to /home/shaman/.vscode/extensions/ms-vscode.cpptools-0.26.3-insiders3
+[2020-01-15 00:28:51.620] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2020-01-15 00:28:51.639] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools

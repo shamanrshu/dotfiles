@@ -1,0 +1,61 @@
+[General]
+FirstRun=0
+
+[KgTheme]
+Theme=themes/granatier.desktop
+
+[MainWindow]
+Height 768=724
+State=AAAA/wAAAAD9AAAAAAAABVIAAALAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1362
+
+[Player][1]
+Enabled=1
+KeyDown=Down
+KeyLeft=Left
+KeyPutBomb=Return
+KeyRight=Right
+KeyUp=Up
+Name=Игрок 1
+PlayerID=player1.desktop
+
+[Player][2]
+Enabled=1
+KeyDown=S
+KeyLeft=A
+KeyPutBomb=Q
+KeyRight=D
+KeyUp=W
+Name=Игрок 2
+PlayerID=player2.desktop
+
+[Player][3]
+Enabled=0
+KeyDown=K
+KeyLeft=J
+KeyPutBomb=Space
+KeyRight=L
+KeyUp=I
+Name=Игрок 3
+PlayerID=player3.desktop
+
+[Player][4]
+Enabled=0
+KeyDown=
+KeyLeft=
+KeyPutBomb=
+KeyRight=
+KeyUp=
+Name=Игрок 4
+PlayerID=player4.desktop
+
+[Player][5]
+Enabled=0
+KeyDown=
+KeyLeft=
+KeyPutBomb=
+KeyRight=
+KeyUp=
+Name=Игрок 5
+PlayerID=player5.desktop

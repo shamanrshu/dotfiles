@@ -1,0 +1,41 @@
+[KHighscore]
+0_LastPlayer=\s            76nn                         huhuytttttttttttttttt       v             hhhhhh hhhhhhhhh             9233tyt                      \s
+10_Level=-
+10_Name=-
+10_Score=-
+1_Level=4
+1_Name=\s            76nn                         huhuytttttttttttttttt       v             hhhhhh hhhhhhhhh             9233tyt                      \s
+1_Score=1565
+2_Level=3
+2_Name=shaman
+2_Score=1060
+3_Level=-
+3_Name=-
+3_Score=-
+4_Level=-
+4_Name=-
+4_Score=-
+5_Level=-
+5_Name=-
+5_Score=-
+6_Level=-
+6_Name=-
+6_Score=-
+7_Level=-
+7_Name=-
+7_Score=-
+8_Level=-
+8_Name=-
+8_Score=-
+9_Level=-
+9_Name=-
+9_Score=-
+
+[KgTheme]
+Theme=themes/kbomber.desktop
+
+[MainWindow]
+Height 768=724
+State=AAAA/wAAAAD9AAAAAAAABVIAAAKMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1362

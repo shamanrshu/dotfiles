@@ -1,0 +1,12 @@
+win7fortests.stc 3389 7f:c1:29:e8:bf:20:1c:62:1f:36:43:5a:d1:a4:01:aa:16:b6:3d:9d Q04gPSBXSU43Rk9SVEVTVFM= Q04gPSBXSU43Rk9SVEVTVFM=
+wsus 3389 b2:cb:6f:ec:ad:74:58:24:b9:ac:c6:0e:42:94:95:72:4b:45:aa:20 Q04gPSBXU1VT Q04gPSBXU1VT
+win10fortests.ad.speechpro.com 3389 a5:74:d5:7b:5e:7e:9c:90:06:1b:45:b3:27:8d:91:17:c6:df:b5:61:6f:c4:10:54:5f:36:e9:8a:a0:8c:5c:94 Q04gPSB3aW4xMGZvcnRlc3RzLmFkLnNwZWVjaHByby5jb20= Q04gPSB3aW4xMGZvcnRlc3RzLmFkLnNwZWVjaHByby5jb20=
+iwpm 3389 5e:98:a7:50:94:e8:3a:ee:e5:fb:b0:ae:eb:ea:0a:91:0e:07:b4:39 Q04gPSBpd3Bt Q04gPSBpd3Bt
+wsus.stc 3389 b2:cb:6f:ec:ad:74:58:24:b9:ac:c6:0e:42:94:95:72:4b:45:aa:20 Q04gPSBXU1VT Q04gPSBXU1VT
+iwpm.stc 3389 5e:98:a7:50:94:e8:3a:ee:e5:fb:b0:ae:eb:ea:0a:91:0e:07:b4:39 Q04gPSBpd3Bt Q04gPSBpd3Bt
+192.168.5.90 3389 5e:98:a7:50:94:e8:3a:ee:e5:fb:b0:ae:eb:ea:0a:91:0e:07:b4:39 Q04gPSBpd3Bt Q04gPSBpd3Bt
+10.12.10.28 3389 97:83:11:f9:a2:29:4e:74:3f:e4:b6:33:57:91:01:55:78:f2:70:58:97:3e:10:5d:66:08:83:af:80:41:5c:a5 Q04gPSBXU1VT Q04gPSBXU1VT
+192.168.5.85 3389 24:c9:64:54:0d:14:86:9f:5d:35:a5:d6:88:52:1f:23:dd:e7:c8:17 Q04gPSB3aW4xMGZvcnRlc3RzLmFkLnNwZWVjaHByby5jb20= Q04gPSB3aW4xMGZvcnRlc3RzLmFkLnNwZWVjaHByby5jb20=
+iwdm.stc 3389 be:0e:33:2e:9c:5e:1c:b2:ee:32:65:a1:0c:a0:0d:48:b2:8a:dd:89 Q04gPSBpd2Rt Q04gPSBpd2Rt
+10.12.10.115 3389 45:d7:13:9a:78:fd:fd:86:a4:16:34:9c:71:c2:ab:d9:45:66:95:67 Q04gPSBpd2Rt Q04gPSBpd2Rt
+iwpm.ad.speechpro.com 3389 9c:60:4c:09:af:a7:34:dc:56:14:ca:fb:bf:62:48:e0:c0:a4:c5:9c:c1:e5:86:64:e1:71:20:af:04:3b:e7:91 Q04gPSBpd3BtLmFkLnNwZWVjaHByby5jb20= Q04gPSBpd3BtLmFkLnNwZWVjaHByby5jb20=
