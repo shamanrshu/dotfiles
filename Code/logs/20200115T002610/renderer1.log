@@ -1,2 +1,0 @@
-[2020-01-15 00:28:34.854] [renderer1] [error] cannot open file:///.vscode/c_cpp_properties.json. Detail: Не удалось считать файл (Error: Файл не найден (/.vscode/c_cpp_properties.json)): Error: cannot open file:///.vscode/c_cpp_properties.json. Detail: Не удалось считать файл (Error: Файл не найден (/.vscode/c_cpp_properties.json))
-    at file:///opt/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:5328:687
