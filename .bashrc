@@ -254,6 +254,7 @@ alias get='wget -t0 -c'						# Скачивание фаулов
 alias ports='grc --colour=auto netstat -nape --inet'		# Открытые порты
 alias ping='grc --colour=auto ping -c 4'			# Проверка доступности узла по ICMP
 alias ns='grc --colour=auto netstat -alnp --protocol=inet'	# Открытые порты
+alias anyconnect='sudo /opt/cisco/anyconnect/bin/vpnui &'	# Cisco AnyConnect
 
 function renum() {
 	x=$1
@@ -459,8 +460,6 @@ function pcbench2 {
 	wget -qO- wget.racing/nench.sh | bash
 }
 
-# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
-export PATH="$PATH:$HOME/.rvm/bin"
 
 # Для запуска Armitage
 function Armitage {
