@@ -1,0 +1,89 @@
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:07:19 2019
+
+окт 03 01:07:19 *	*** Looking up your hostname...
+окт 03 01:07:47 *	*** Couldn't look up your hostname
+окт 03 01:07:47 *	Capabilities supported: account-notify away-notify cap-notify chghost extended-join multi-prefix sasl tls userhost-in-names
+окт 03 01:07:47 *	Capabilities requested: account-notify away-notify cap-notify chghost extended-join multi-prefix userhost-in-names 
+окт 03 01:07:47 *	Capabilities acknowledged: account-notify away-notify cap-notify chghost extended-join multi-prefix userhost-in-names
+**** ЗАКАНЧИВАЕТСЯ ВХОЖДЕНИЕ НА Thu Oct  3 01:08:15 2019
+
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:08:15 2019
+
+окт 03 01:08:15 *	Welcome to the DarkMyst Internet Relay Chat Network shaman
+окт 03 01:08:15 *	Your host is abyss.no.eu.darkmyst.org[46.226.13.206/6697], running version charybdis-3.5.3
+окт 03 01:08:15 *	This server was created Sat Jan 7 2017 at 20:27:05 CET
+окт 03 01:08:15 *	abyss.no.eu.darkmyst.org charybdis-3.5.3 DQRSZagiloswxz CFILNOPQRSbcefgijklmnopqrstvz bkloveqjfI
+окт 03 01:08:15 *	SAFELIST ELIST=CTU WHOX ETRACE MONITOR=100 KNOCK FNC CPRIVMSG CNOTICE CHANTYPES=&# EXCEPTS INVEX :are supported by this server
+окт 03 01:08:15 *	CHANMODES=eIbq,k,lj,CLNOPScgimnprstz CHANLIMIT=&#:30 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=DarkMyst STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 NICKLEN=30 MAXNICKLEN=30 CHANNELLEN=50 :are supported by this server
+окт 03 01:08:15 *	TOPICLEN=390 TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,acjrsx CLIENTVER=3.0 :are supported by this server
+окт 03 01:08:15 *	There are 0 users and 664 invisible on 9 servers
+окт 03 01:08:15 *	10 :IRC Operators online
+окт 03 01:08:15 *	779 :channels formed
+окт 03 01:08:15 *	I have 80 clients and 1 servers
+окт 03 01:08:15 *	80 133 :Current local users 80, max 133
+окт 03 01:08:15 *	664 1231 :Current global users 664, max 1231
+окт 03 01:08:15 *	Highest connection count: 137 (133 clients) (113726 connections received)
+окт 03 01:08:15 *	- abyss.no.eu.darkmyst.org Message of the Day - 
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-     welcome to abyss.darkmyst.org running charybdis
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-         ____           ____
+окт 03 01:08:15 *	-         \_  |          \_  | ___                   ___
+окт 03 01:08:15 *	-          |  |  _   __   |  |/  /       __  __  ____\_ |
+окт 03 01:08:15 *	-         _|  |/` \ |  |,-|  ` ,/`,   ,`| ;' | |'`___)| |__
+окт 03 01:08:15 *	-      ,~` `  | /` \|  __._\   \|  \_/  | \_.' ;._ `\_   _/
+окт 03 01:08:15 *	-     /  ,/   | _,  \  |  |` ,  \  _`_  |  `  / __)  ;| |
+окт 03 01:08:15 *	-     `+,__,__|/  \__\_|  |__|\__\_|'|__|)  ,' (___,/ |_/
+окт 03 01:08:15 *	-                                       ,'_,'
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-              welcome to the darkmyst irc network
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-      By using this server you agree to our Acceptable Use
+окт 03 01:08:15 *	-      Policy as described below:
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-                http://www.darkmyst.org/?page=aup
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-     network service
+окт 03 01:08:15 *	-           NickServ - nickname registration service
+окт 03 01:08:15 *	-           ChanServ - channel registration and maintenence service
+окт 03 01:08:15 *	-           MemoServ - note messenger service
+окт 03 01:08:15 *	-           GameServ - gaming and roleplaying service
+окт 03 01:08:15 *	-          GroupServ - group management service
+окт 03 01:08:15 *	-            RPGServ - irc rpg search engine service
+окт 03 01:08:15 *	-           HostServ - vanity hostmask service
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-     offical channel
+окт 03 01:08:15 *	-              #help - help and support channel
+окт 03 01:08:15 *	-          #darkmyst - community chat/discussion
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-     local network staff
+окт 03 01:08:15 *	-             dgram - Server Administrator
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-      Darkmyst uses Scanrar (a HOPM bot) to scan for open
+окт 03 01:08:15 *	-      proxies. For more information, visit:
+окт 03 01:08:15 *	-      https://www.darkmyst.org/?page=help-scanrar
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-      This server supports both IPv6 and SSL.
+окт 03 01:08:15 *	-      To connect via ssl use the address below:
+окт 03 01:08:15 *	-      abyss.darkmyst.org:+6697
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-    -------------------------------------------------------
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	-  
+окт 03 01:08:15 *	End of /MOTD command.
+окт 03 01:08:15 *	shaman установил режим +Z для shaman
+окт 03 01:08:15 *	shaman установил режим +i для shaman
+окт 03 01:08:15 *	shaman установил режим +x для shaman
+окт 03 01:08:15 *	83.102.ksr.qs :is now your hidden host
+окт 03 01:08:15 -InfoServ-	*** Message(s) of the Day ***
+окт 03 01:08:15 -InfoServ-	[RPGServ] Notice from Nymphetamine, posted 18:17 on 04/03/2018:
+окт 03 01:08:15 -InfoServ-	Got an RP game? Want to find new players? Come into #help and request it be added to RPGServ, our directory listing of RP games hosted on DarkMyst.
+окт 03 01:08:15 -InfoServ-	*** End of Message(s) of the Day ***

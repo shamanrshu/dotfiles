@@ -1,0 +1,61 @@
+{
+  "pos" : {
+    "main_max" : false,
+    "main" : "0,20,1362,724",
+    "lexerlib" : "0,0,459,468",
+    "savetabs" : "0,0,720,350"
+  },
+  "show_sidepanel" : true,
+  "show_bottom" : false,
+  "float_side" : false,
+  "float_bottom" : false,
+  "size_side" : 200,
+  "size_bottom" : 200,
+  "tab_left" : "Code tree",
+  "recent_files" : [
+    "~/.config/mytetra/stylesheet.css",
+    "~/.config/mytetra/editorconf.ini",
+    "~/.config/mytetra/conf.ini.mytetra",
+    "~/.config/mytetra/conf.ini.cryptetra",
+    "~/.config/mytetra/conf.ini",
+    "~/.config/mytetra/actionLog.txt",
+    "~/Projects/shamanrshu.github.io/courses.md",
+    "~/.config/cudatext/settings/user.json",
+    "~/.config/cudatext/settings/lexer -.json"
+  ],
+  "list_console" : [
+    "exit",
+    "sin(10)",
+    "sin(10_",
+    "sqr(10)",
+    "sqrt(10)",
+    "1+1",
+    "print 1+1",
+    "print 1+!",
+    "ls"
+  ],
+  "finder" : {
+    "regex" : false,
+    "case" : false,
+    "words" : false,
+    "back" : false,
+    "confirm" : false,
+    "wrap" : false,
+    "insel" : false,
+    "tokens" : 0,
+    "mline" : false
+  },
+  "lang" : "ru_RU",
+  "session" : "",
+  "last_cmd" : 155,
+  "groups" : 1,
+  "gr" : {
+    "panel" : "14,56",
+    "pages" : "100,100,36,122,14,56,14,56,14,56,14,56,"
+  },
+  "sync_choose_themes" : true,
+  "list_find" : [
+  ],
+  "list_replace" : [
+  ]
+}

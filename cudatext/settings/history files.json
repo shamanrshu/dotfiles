@@ -1,0 +1,62 @@
+{
+  "|home|shaman|.config|cudatext|settings|lexer -.json" : {
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,0,-1,-1,"
+  },
+  "|home|shaman|.config|cudatext|settings|user.json" : {
+    "lexer" : "JSON",
+    "enc" : "UTF-8",
+    "tab_size" : 2,
+    "tab_spaces" : true,
+    "crt" : "0,0,-1,-1,"
+  },
+  "|home|shaman|Projects|shamanrshu.github.io|courses.md" : {
+    "lexer" : "Markdown",
+    "enc" : "UTF-8",
+    "top" : 783,
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "37,806,-1,-1,"
+  },
+  "|home|shaman|.config|mytetra|actionLog.txt" : {
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,0,-1,-1,"
+  },
+  "|home|shaman|.config|mytetra|conf.ini" : {
+    "lexer" : "Ini files",
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,0,-1,-1,"
+  },
+  "|home|shaman|.config|mytetra|conf.ini.cryptetra" : {
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,68,0,0,"
+  },
+  "|home|shaman|.config|mytetra|conf.ini.mytetra" : {
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,68,0,0,"
+  },
+  "|home|shaman|.config|mytetra|editorconf.ini" : {
+    "lexer" : "Ini files",
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,0,-1,-1,"
+  },
+  "|home|shaman|.config|mytetra|stylesheet.css" : {
+    "lexer" : "CSS",
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "0,0,-1,-1,"
+  }
+}

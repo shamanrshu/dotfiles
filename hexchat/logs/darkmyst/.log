@@ -1,0 +1,22 @@
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:07:18 2019
+
+окт 03 01:07:18 *	Соединение с irc2.darkmyst.org (46.226.13.206:6697)
+окт 03 01:07:19 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+окт 03 01:07:19 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+окт 03 01:07:19 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+окт 03 01:07:19 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+окт 03 01:07:19 *	* Subject: /CN=abyss.no.eu.darkmyst.org
+окт 03 01:07:19 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+окт 03 01:07:19 *	* Certification info:
+окт 03 01:07:19 *	  Subject:
+окт 03 01:07:19 *	    CN=abyss.no.eu.darkmyst.org
+окт 03 01:07:19 *	  Issuer:
+окт 03 01:07:19 *	    C=US
+окт 03 01:07:19 *	    O=Let's Encrypt
+окт 03 01:07:19 *	    CN=Let's Encrypt Authority X3
+окт 03 01:07:19 *	  Public key algorithm: rsaEncryption (4096 bits)
+окт 03 01:07:19 *	  Sign algorithm sha256WithRSAEncryption
+окт 03 01:07:19 *	  Valid since Sep  1 11:08:17 2019 GM to Nov 30 11:08:17 2019 GM
+окт 03 01:07:19 *	* Cipher info:
+окт 03 01:07:19 *	  Version: TLSv1.2, cipher ECDHE-RSA-AES256-GCM-SHA384 (256 bits)
+окт 03 01:07:19 *	Соединение установлено. Входим в систему.

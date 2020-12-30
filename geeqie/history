@@ -1,0 +1,21 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Домашняя папка[path]/home/shaman"
+"Рабочий стол[path]/home/shaman/Desktop"
+"Коллекции[path]/home/shaman/.local/share/geeqie/collections"
+
+[path_list]
+"/home/shaman/Images/Photos/DCIM/[Phone] Misc"
+"/home/shaman/Images/Photos/DCIM/[Phone] Work"
+"/home/shaman/Images/Photos/DCIM/[Phone] Дача"
+"/home/shaman/Images/Photos/DCIM/[Phone] Каток"
+"/home/shaman/Images/Photos/DCIM/[Phone] Ремонт квартиры"
+"/home/shaman/Images/Photos/DCIM/[Phone] Ржев"
+"/home/shaman/Images/Photos/DCIM/[Phone] Стреляем"
+"/home/shaman/Images/Photos/DCIM"
+"/home/shaman/Images/Photos/DCIM/RAW"
+"/home/shaman/Images/Old_Photos/!Разобрать/upsya_ Старый СПб, часть 23. Очень интересные есть фотки довоенного города _)"
+
+#end

@@ -1,0 +1,73 @@
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:09:15 2019
+
+окт 03 01:09:15 *	*** Looking up your hostname...
+окт 03 01:09:15 *	*** Checking ident...
+окт 03 01:09:15 *	*** Received ident response
+окт 03 01:09:42 *	*** Couldn't resolve your hostname; using IP address instead
+окт 03 01:09:42 *	*** If you need assistance with a connection problem, please email ircadmin@netcologne.de with the name and version of the client you are using, and the server you tried to connect to: nc.d-t-net.de
+**** ЗАКАНЧИВАЕТСЯ ВХОЖДЕНИЕ НА Thu Oct  3 01:09:42 2019
+
+**** НАЧАЛО ВХОЖДЕНИЯ НА Thu Oct  3 01:09:42 2019
+
+окт 03 01:09:42 *	Welcome to the Dark-Tou-Net IRC Network shaman
+окт 03 01:09:42 *	Your host is nc.d-t-net.de, running version DTNircd_v5.0.4
+окт 03 01:09:42 *	This server was created Mon Oct 4 2004 at 11:31:50 CEST
+окт 03 01:09:42 *	nc.d-t-net.de DTNircd_v5.0.4 oiwsghOkcfraADIqPWZnvltMuFLV biklmnovpstrRxcjOCVfuPM
+окт 03 01:09:42 *	NETWORK=Dark-Tou-Net NOQUIT TOKEN WATCH=128 SAFELIST NOPREFIX CUNOTICE CHANTYPES=#&+ PREFIX=(fov)$@+ CHANMODES=b,k,l,imnpstrRxcjOCVuPM STATUSMSG=@+ WALLCHOPS MODES=6 MAXCHANNELS=17 NICKLEN=30 TOPICLEN=307 KICKLEN=307 CHANNELLEN=32 MAXBANS=60 SILENCE=5 MAXTARGETS=20 CASEMAPPING=rfc1459 FNC :are available on this server
+окт 03 01:09:42 *	Hier sind 36 Teilnehmer und 28 Unsichtbare auf 3 Server(n)
+окт 03 01:09:42 *	1 :Operator(en) online
+окт 03 01:09:42 *	1 :unbekannte Verbindun(en)
+окт 03 01:09:42 *	49 :Kanaele erreichbar
+окт 03 01:09:42 *	Verbunden sind 30 Chatter und 1 Server
+окт 03 01:09:42 *	Hoechstzahl aller lokalen Teilnehmer: 57 (Aktuell: 30 User)
+окт 03 01:09:42 *	Hoechstzahl aller globalen Teilnehmer: 82 (Aktuell: 64 User)
+окт 03 01:09:42 *	- nc.d-t-net.de Message of the Day - 
+окт 03 01:09:42 *	- 9/10/2004 22:12
+окт 03 01:09:42 *	- ---------------------< Willkommen im Dark-Tou-Net >--------------------
+окт 03 01:09:42 *	-                 Unsere Webseite: http://www.d-t-net.de/
+окт 03 01:09:42 *	-               Netz-Regeln: http://www.d-t-net.de/?s=regeln
+окт 03 01:09:42 *	- 
+окт 03 01:09:42 *	- Hilfe zum Netz gibt es im Channel      #helpdesk 
+окт 03 01:09:42 *	- oder durch Eingabe von                 /helpop FrageHierEinsetzen
+окт 03 01:09:42 *	- oder zum Nachlesen auf der Website:    http://www.d-t-net.de/?s=feats
+окт 03 01:09:42 *	- 
+окт 03 01:09:42 *	- -------------- Es folgt die MOTD des aktuellen Servers ----------------
+окт 03 01:09:42 *	- 4/4/2018 13:12
+окт 03 01:09:42 *	- ---------------------------------------------------------
+окт 03 01:09:42 *	- Willkommen auf dem IRC-Server von NetCologne!
+окт 03 01:09:42 *	- ---------------------------------------------------------
+окт 03 01:09:42 *	-  - Netzmissbrauch kann zu einem permanten Bann fuehren.
+окт 03 01:09:42 *	-  - Abuse (Spam, Nuke, Warbots..) may lead to a permanent Ban!
+окт 03 01:09:42 *	- ----------------------------------------------------------
+окт 03 01:09:42 *	-  - Von den Betreibern dieses IRC-Servers wird keinerlei
+окт 03 01:09:42 *	- Verantwortung bzgl. Verfuegbarkeit des Dienstes und
+окт 03 01:09:42 *	- der Inhalte uebernommen. Die Benutzer sind selbst fuer
+окт 03 01:09:42 *	- die Inhalte verantwortlich.
+окт 03 01:09:42 *	-  - Users are responsible for transferred contents.
+окт 03 01:09:42 *	- ----------------------------------------------------------
+окт 03 01:09:42 *	- 
+окт 03 01:09:42 *	- #########################################################
+окт 03 01:09:42 *	- Fragen u. Anregungen bitte an ircadmin@netcologne.de
+окт 03 01:09:42 *	- -> Gunther 'MotoGuzzi' Nitzsche 
+окт 03 01:09:42 *	- -> Tim 'D-Fiant' Hartung 
+окт 03 01:09:42 *	- Viel Spass!                               Have fun!
+окт 03 01:09:42 *	- ##########################################################
+окт 03 01:09:42 *	- -------3.7.09:
+окт 03 01:09:42 *	- Server has been transferred to a virtual machine.
+окт 03 01:09:42 *	- So long, good 'ol hardware, you made a good job..
+окт 03 01:09:42 *	- ##########################################################
+окт 03 01:09:42 *	- ----> ALTE news :-) <------- (? klingt paradox..:)
+окт 03 01:09:42 *	- 19.09.2011
+окт 03 01:09:42 *	- 
+окт 03 01:09:42 *	- * Der Server irc.netcologne.de ( = nc.d-t-net.de ) ist nun auch
+окт 03 01:09:42 *	- via ipv6 - erreichbar: 2001:4dd0:100:1020:6667::1
+окт 03 01:09:42 *	- ##########################################################
+окт 03 01:09:42 *	- ----> NEUE news :-) <-------
+окт 03 01:09:42 *	- 12.5.2016
+окт 03 01:09:42 *	- Mal wieder ein Betriebssystem Update.. Auffaelligkeiten bitte melden.
+окт 03 01:09:42 *	- ##########################################################
+окт 03 01:09:42 *	- ----> SCHON WIEDER (!) NEUE news :-) <-------
+окт 03 01:09:42 *	- 04.04.2018
+окт 03 01:09:42 *	- Mal wieder ein Betriebssystem Update..(nun Debian Stretch)  
+окт 03 01:09:42 *	- Auffaelligkeiten bitte melden.
+окт 03 01:09:42 *	End of /MOTD command.

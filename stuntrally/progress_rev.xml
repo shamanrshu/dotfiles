@@ -1,0 +1,520 @@
+<progress>
+	<champ name="Tutorial Basic" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Banked" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Bridges" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Terrain" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Curly" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Jumps" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Loops" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Tutorial Pipes" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Short Rally" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Beauty Rally" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Yet more rally" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Fast fun" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Bumpy shorts" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Long trip" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Curly shorts" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Fancy circles" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Ancient cities" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Easy jumps" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Master of Rally" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Mud and water fan" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Mountain adventure" ver="5" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Mountain Trails" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Frenzy fellow" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Extreme weather" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Dark chase" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Hot and cold" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Colorful planets" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Master of Stunts" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Pipes mastery" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Curly master" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Jump mania" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Alien stunts" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Insane stunts" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Stunt madness" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Longest stunts" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Desert" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Desert 2nd" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Jungle" ver="4" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Jungle 2nd" ver="3" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Savanna" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Savanna 2nd" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Winter" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Winter 2nd" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Forest" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Forest 2nd" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Island" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Island 2nd" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Mud" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Canyon" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Australia" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Greece" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Finland" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Autumn" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Moss" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Volcanic" ver="2" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Unidentified" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Mars" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Toxic" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Crystals" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Surreal" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Alien" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Other" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Test-1" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Test-3" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+	<champ name="Test tracks" ver="1" cur="0" p="0">
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+		<t p=" 0.0" />
+	</champ>
+</progress>
