@@ -470,3 +470,9 @@ function Armitage {
 	sudo pkill -f msfrpcd
 	sudo systemctl stop postgresql.service
 }
+
+# Поиск NSE скриптов в nmap
+
+nsearch() {
+	find /usr/share/nmap/scripts/ | grep $1;
+}
