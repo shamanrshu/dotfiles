@@ -11,7 +11,6 @@ bindsym $mod+x move container to output left
 bindsym $mod+z move container to output right
 
 # start a terminal
-bindsym $mod+Shift+Return exec --no-startup-id roxterm
 bindsym $mod+Return exec --no-startup-id alacritty
 
 # kill focused window
@@ -177,6 +176,6 @@ exec --no-startup-id setxkbmap "us,ru" ",winkeys" "grp:win_space_toggle"
 exec --no-startup-id synclient TapButton1=1 TapButton2=1 TapButton3=1
 exec --no-startup-id flameshot &
 exec --no-startup-id nm-applet &
-#exec --no-startup-id blueberry-tray
+ exec --no-startup-id blueberry-tray
 #exec --no-startup-id xrandr --output VGA1 --mode 1920x1080 --output LVDS1 --mode 1366x768 --right-of VGA1
 
