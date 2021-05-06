@@ -254,7 +254,14 @@ alias get='wget -t0 -c'						# Скачивание фаулов
 alias ports='grc --colour=auto netstat -nape --inet'		# Открытые порты
 alias ping='grc --colour=auto ping -c 4'			# Проверка доступности узла по ICMP
 alias ns='grc --colour=auto netstat -alnp --protocol=inet'	# Открытые порты
-alias anyconnect='sudo /opt/cisco/anyconnect/bin/vpnui &'	# Cisco AnyConnect
+## alias anyconnect='sudo systemctl start vpnagentd.service; sudo /opt/cisco/anyconnect/bin/vpnui &'	# Cisco AnyConnect
+alias dialog-ee-x='/opt/Dialog\ Enterprise\ X/dialog-ee-x'	# Dialog Enterprise Messenger
+
+function anyconnect() {
+	sudo systemctl start vpnagentd.service
+	sudo /opt/cisco/anyconnect/bin/vpnui &
+	sudo systemctl stop vpnagentd.servie
+}
 
 function renum() {
 	x=$1
@@ -469,10 +476,4 @@ function Armitage {
 	sudo -E armitage
 	sudo pkill -f msfrpcd
 	sudo systemctl stop postgresql.service
-}
-
-# Поиск NSE скриптов в nmap
-
-nsearch() {
-	find /usr/share/nmap/scripts/ | grep $1;
 }
