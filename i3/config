@@ -88,11 +88,11 @@ workspace "II" output LVDS1
 workspace "III" output LVDS1
 workspace "IV" output LVDS1
 workspace "V" output LVDS1
-workspace "VI" output VGA1
-workspace "VII" output VGA1
-workspace "IIX" output VGA1
-workspace "IX" output VGA1
-workspace "X" output VGA1
+workspace "VI" output VGA-1
+workspace "VII" output VGA-1
+workspace "IIX" output VGA-1
+workspace "IX" output VGA-1
+workspace "X" output VGA-1
 
 # switch to workspace
 bindsym $mod+1 workspace $ws1
@@ -124,8 +124,8 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl -- set-sink-volume 0 -5%
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
 
 # Sreen brightness controls
-bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
-bindsym XF86MonBrightnessDown exec xbacklight -dec 20 # decrease screen brightness
+bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 20 # increase screen brightness
+bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease screen brightness
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
@@ -176,6 +176,6 @@ exec --no-startup-id setxkbmap "us,ru" ",winkeys" "grp:win_space_toggle"
 exec --no-startup-id synclient TapButton1=1 TapButton2=1 TapButton3=1
 exec --no-startup-id flameshot &
 exec --no-startup-id nm-applet &
- exec --no-startup-id blueberry-tray
+exec --no-startup-id blueberry-tray
 #exec --no-startup-id xrandr --output VGA1 --mode 1920x1080 --output LVDS1 --mode 1366x768 --right-of VGA1
 
