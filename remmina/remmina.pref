@@ -26,7 +26,7 @@ view_file_mode=0
 resolutions=640x480,800x600,1024x768,1152x864,1280x960,1400x1050
 keystrokes=Send hello world§hello world\\n
 main_width=1356
-main_height=698
+main_height=690
 main_maximize=false
 main_sort_column_id=1
 main_sort_order=0
@@ -70,6 +70,18 @@ rdp_quality_9=80
 rdp_deviceScaleFactor=0
 rdp_desktopScaleFactor=0
 rdp_desktopOrientation=0
+screenshot_name=remmina_%p_%h_%Y%m%d-%H%M%S
+trust_all=false
+dark_theme=false
+shortcutkey_multimon=65365
+vte_shortcutkey_copy=99
+vte_shortcutkey_paste=118
+vte_shortcutkey_select_all=97
+vte_shortcutkey_increase_font=65365
+vte_shortcutkey_decrease_font=65366
+vte_shortcutkey_search_text=103
+grab_color=#00ff00
+grab_color_switch=false
 
 [ssh_colors]
 background=rgb(213,204,186)
@@ -91,6 +103,10 @@ color12=rgb(66,106,121)
 color13=rgb(151,82,44)
 color14=rgb(152,154,156)
 color15=rgb(213,204,186)
+cursor_foreground=#d5ccba
+highlight=#45373c
+highlight_foreground=#d5ccba
+colorBD=#45373c
 
 [usage_stats]
 periodic_usage_stats_permitted=false
