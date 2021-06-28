@@ -2,7 +2,23 @@
 ## | BASHRC by Kaverin S. Alexander |
 ## +--------------------------------+
 ##
-## Необходимо установить пакеты: yay -S exa tree git fortune-mod-ru grc bc bat metasploit (?!)
+## Необходимо установить пакеты: yay -S tree git fortune-mod-ru grc bc metasploit (?!)
+
+##	bat		https://github.com/sharkdp/bat		cat и less
+##	exa		https://github.com/ogham/exa		ls
+##	duf		https://github.com/ogham/exa		df
+##	fd		https://github.com/sharkdp/fd		поиск файлов
+##	ripgrep		https://github.com/BurntSushi/ripgrep	grep --> rg
+##	jq		https://github.com/stedolan/jq		json parser
+##	cheat		https://github.com/cheat/cheat		шпаргалки по командам
+##	tldr		https://github.com/tldr-pages/tldr	man --> tldr
+##	bottom		https://github.com/ClementTsang/bottom	top --> btm
+##	procs		https://github.com/dalance/procs	ps --> procs
+##	dog		https://github.com/ogham/dog		DNS Client
+##	termshark	https://github.com/gcla/termshark	thark UI
+
+
+
 
 if [ -f /etc/bash_completion ]; then
  . /etc/bash_completion
